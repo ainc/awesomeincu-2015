@@ -284,36 +284,34 @@ If times remains:
 #### 1pm
 
 * Review what we’ve done so far
-    * Hardware, Web, Games
+    * Mobile, Web, Games, Hardware
 * Pick a project:
     * Mobile
-        * [Ray’s Android App](http://www.raywenderlich.com/56107/make-first-android-app-part-1)
-        * [App Inventor intermediate tutorials](http://appinventor.mit.edu/explore/ai2/tutorials.html), such as [Get the Gold](http://appinventor.mit.edu/explore/ai2/get-gold.html)
-        * (Mac only) [Awesome Inc U iPhone App Development - Objective-C](https://www.udemy.com/iphone-app-crash-course/?couponCode=woc14)
+        * [App Inventor intermediate tutorials](http://appinventor.mit.edu/explore/ai2/tutorials.html)
+            * [Get the Gold](http://appinventor.mit.edu/explore/ai2/get-gold.html)
+        * [Ray’s Android App](https://www.raywenderlich.com/120177/beginning-android-development-tutorial-installing-android-studio)
         * (Mac only) [Bitfountain iOS 8 / Swift intro course](http://fedora.bitfountain.io/courses/mini-ios8)
+        * (Mac only) [Awesome Inc U iPhone App Development - Objective-C](https://www.udemy.com/iphone-app-crash-course/?couponCode=woc14)
     * Web
+        * [Bootstrap / Responsive Web Design](https://www.udemy.com/front-end-web-development-with-bootstrap/)
+        * [Coderbyte algorithm challenges](http://www.coderbyte.com/CodingArea/Challenges/)
+        * [p5.js animation projects](http://p5js.org/examples/), see [samples](https://jsfiddle.net/nicksuch/48Lxhjwu/)
         * [RailsBridge](http://docs.railsbridge.org/docs/)
         * [Learn Python The Hard Way](http://learnpythonthehardway.org/book)
-        * [Bootstrap project](https://www.udemy.com/front-end-web-development-with-bootstrap/)
-        * [HTML Dog Tutorials](http://htmldog.com/guides/)
-        * [Learn Javascript on Codecademy](http://www.codecademy.com/en/tracks/javascript)
-        * [Coderbyte programming challenges](http://www.coderbyte.com/CodingArea/Challenges/)
-        * [p5.js animation projects](http://p5js.org/examples/), see [samples](https://jsfiddle.net/nicksuch/48Lxhjwu/)
+        * [Javascript on Codecademy](http://www.codecademy.com/en/tracks/javascript)
     * Game
-        * Other Project from [official Unity 3D tutorials](http://unity3d.com/learn/tutorials/), such as [Space Shooter](http://unity3d.com/learn/tutorials/projects/space-shooter-tutorial)
-        * [Flappy Bird tutorial](http://anwell.me/articles/unity3d-flappy-bird/)
-        * [Rock, Paper, Scissors...in code](http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1)
-        * [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
-        * [Five Unity Game Examples](http://u3d.as/content/m2h/c-game-examples/1sG)
-        * [Walker Boys Unity Tutorials](http://www.walkerboystudio.com/wbstudio/learn-unity/)
-        * [Snake HTML5 Game](http://thecodeplayer.com/walkthrough/html5-game-tutorial-make-a-snake-game-using-html5-canvas-jquery)
         * [Pong Tutorial](http://www.awesomeincu.com/tutorials/unity-pong/)
+        * Other Project from [official Unity 3D tutorials](http://unity3d.com/learn/tutorials/)
+            * [Roll-a-Ball](http://unity3d.com/learn/tutorials/projects/roll-ball-tutorial)
+            * [Space Shooter](http://unity3d.com/learn/tutorials/projects/space-shooter-tutorial)
+            * [2D UFO game](https://unity3d.com/learn/tutorials/projects/2d-ufo-tutorial)
+        * [Flappy Bird tutorial](http://anwell.me/articles/unity3d-flappy-bird/)
     * Hardware
         * [Maker Board - Base Kit projects](http://www.letsstartcoding.com/base-kit-projects)
         * [Build a Pebble watchface](http://developer.getpebble.com/getting-started/watchface-tutorial/part1/)
         * [Sonic Pi - Aerodynamic](https://aimxhaisse.com/aerodynamic-en.html), make music with code
 
-Note: many projects here will take longer than 4 hours to complete. That's OK! Our goal during project day is to help you get started on something significant that you can continue working on after the Week of Code.
+Note: most projects here will take longer than 4 hours to complete. That's OK! Our goal during project day is to help you get started on something significant that you can continue working on after the Week of Code.
 
 
 #### 2pm
