@@ -5,7 +5,6 @@ description: "All across the nation, programs are sprouting, encouraging young a
 category: 
 tags: [learntocode, learning, 21st century]
 ---
-**Your guide to a coding education**
 
 Guest post by: [**Isaac Rowe**](https://medium.com/@Isaac_rowe1)
 
