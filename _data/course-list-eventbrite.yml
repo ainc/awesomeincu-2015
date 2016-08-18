@@ -3,19 +3,6 @@
 # Inactive classes should be moved to end of list.
 # Note 2.0: Because of the carousel, some are out of chrono order
 
-- title: Week of Code summer camp - Lexington
-  headline: "Spend your summer making apps, games, and websites"
-  age_range: 11-16
-  curriculum: k12-week
-  date: Aug 2 - 5
-  time: 1pm - 5pm
-  early-bird-price: <del>495
-  standard-price: 625
-  early-bird-date: May 22</del>
-  url: https://www.eventbrite.com/e/week-of-code-summer-camp-august-lexington-tickets-21394811457
-  logo: Week-of-Code-Logo.png
-  status: 'active'
-
 - title: Awesome Inc Academy
   headline: Our premier training program for students (Ages 13 - 17)
   age_range: 13-17
@@ -55,6 +42,19 @@
   curriculum-date: tue
 
 # Note: Inactive Courses below here
+
+- title: Week of Code summer camp - Lexington
+  headline: "Spend your summer making apps, games, and websites"
+  age_range: 11-16
+  curriculum: k12-week
+  date: Aug 2 - 5
+  time: 1pm - 5pm
+  early-bird-price: <del>495
+  standard-price: 625
+  early-bird-date: May 22</del>
+  url: https://www.eventbrite.com/e/week-of-code-summer-camp-august-lexington-tickets-21394811457
+  logo: Week-of-Code-Logo.png
+  status: 'inactive'
 
 - title: Week of Code summer camp - Louisville
   headline: "Spend your summer making apps, games, and websites"
