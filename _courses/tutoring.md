@@ -11,7 +11,7 @@ In addition to teaching [group classes](/register/), our expert instructors are 
 
 Are you brand new to programming? We offer a special rate for beginners to dive into their **first 2 hours** of programming. You'll sit down with one of our friendly instructors for a gentle introduction to what code is, how we can use it to make websites and apps, and how to write some of your own.
 
-Timing is flexible, our instructors are available throughout the week, mornings and evenings. You can bring your own laptop or borrow one of ours. We work with kids (ages 9+) and adults for these sessions. Just $49 covers your first two hours, after which you can continue at our normal tutoring rate ($95/hr), or we can help you find an upcoming group class or self-study pathway.
+Timing is flexible, our instructors are available throughout the week, mornings and evenings. You can bring your own laptop or borrow one of ours. We work with kids (ages 9+) and adults for these sessions. Our normal tutoring rate $95/hr, but your first two-hour session is available at half-price ($95 / two hours). After your first session, we can plan a regular tutoring schedule for you, or help you find an upcoming group class or self-study pathway.
 
 <a class="btn btn-primary btn-lg" href="/contact/" role="button">Get Started »</a>
 

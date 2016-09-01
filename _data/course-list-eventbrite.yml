@@ -3,30 +3,6 @@
 # Inactive classes should be moved to end of list.
 # Note 2.0: Because of the carousel, some are out of chrono order
 
-- title: Awesome Inc Academy
-  headline: Our premier training program for students (Ages 13 - 17)
-  age_range: 13-17
-  curriculum: academy
-  date: Aug 30 - Dec 1, Tues & Thurs
-  time: 6-8pm
-  early-bird-price: 429/month
-  standard-price: 533/month
-  early-bird-date: Aug 12th
-  url: /academy/
-  logo: logo_big.png
-  status: 'active'
-
-- title: Personalized Tutoring
-  headline: Get started or move forward, 1-on-1
-  age_range: kids, adults
-  date: Any
-  time: 8am-8pm
-  standard-price: 49 (1st session), $95/hr
-  url: /tutoring/
-  logo: logo_big.png
-  status: 'active'
-  feature: true
-
 - title: After-School Coding Club
   headline: Have fun and learn to code with friends! (Ages 9-13)
   age_range: 9-13
@@ -40,6 +16,41 @@
   logo: logo_big.png
   status: 'active'
   curriculum-date: tue
+
+- title: Awesome Inc Academy
+  headline: Our premier training program for students (Ages 13 - 17)
+  age_range: 13-17
+  curriculum: academy
+  date: Sept 13 - Dec 15, Tues & Thurs
+  time: 6-8pm
+  early-bird-price: <del>429/month
+  standard-price: 533/month
+  early-bird-date: Aug 31st</del>
+  url: /academy/
+  logo: logo_big.png
+  status: 'active'
+
+- title: Awesome Inc U Membership
+  headline: 'For adult learners who want to go beyond "Hello, world"'
+  age_range: adults
+  curriculum: membership
+  date: Sept 13 - Dec 13, Tuesdays
+  time: 7-9pm
+  standard-price: 179/month
+  url: /membership/
+  logo: logo_big.png
+  status: 'active'
+
+- title: Personalized Tutoring
+  headline: Get started or move forward, 1-on-1
+  age_range: kids, adults
+  date: Any
+  time: 8am-8pm
+  standard-price: 95/hr
+  url: /tutoring/
+  logo: logo_big.png
+  status: 'active'
+  feature: true
 
 # Note: Inactive Courses below here
 
@@ -80,17 +91,6 @@
   early-bird-date: May 12
   url: https://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-22793251228
   logo: minecraft.png
-  status: 'inactive'
-
-- title: Awesome Inc U Membership
-  headline: 'For adult learners who want to go beyond "Hello, world"'
-  age_range: adults
-  curriculum: membership
-  date: March 1 - April 26, Tuesdays
-  time: 7-9pm
-  standard-price: 179/month
-  url: /membership/
-  logo: logo_big.png
   status: 'inactive'
 
 - title: AP Computer Science prep
