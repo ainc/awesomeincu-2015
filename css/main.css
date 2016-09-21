@@ -37,6 +37,10 @@ a:hover, a:focus, a:active{ color: #557991;}
   background-color: #bd1433;
   border-color: #bd1433;
 }
+.btn-primary.disabled {
+  background-color: #bbb;
+  border-color: #bd1433;
+}
 .col-lg-6:target {
   padding-top: 50px;
 }

@@ -12,11 +12,10 @@ layout: page
                <p><a class="btn btn-primary btn-lg" href={{date[1]}} role="button" > Register {{date[0]}} &raquo;</a></p>
             {% endfor %}
           {% else %}
-            <p><a class="btn btn-primary btn-lg" 
             {% if page.registration %}
-              href="{{page.registration}}" target="_blank" role="button"> Register
-            {% else %}
-              href="{{page.application}}" role="button">Apply Now
+              <p><a class="btn btn-primary btn-lg" href="{{page.registration}}" target="_blank" role="button"> Register &raquo;</a></p>
+            {% elsif page.application %}
+              <p><a class="btn btn-primary btn-lg" href="{{page.application}}" role="button">Apply Now &raquo;</a></p>
             {% endif %}
               &raquo;</a></p>
           {% endif %}
@@ -29,19 +28,16 @@ layout: page
 
           {{content}}
         
-          <p><a class=""
           {% if page.dates %}
             {% for date in page.dates %}
                <p><a class="btn btn-primary btn-lg center-block" href={{date[1]}} role="button" > Register {{date[0]}} &raquo;</a></p>
             {% endfor %}
           {% else %}
-            <p><a class="btn btn-primary btn-lg center-block" 
             {% if page.registration %}
-              href="{{page.registration}}" target="_blank" role="button"> Register
-            {% else %}
-              href="{{page.application}}" role="button">Apply Now
+              <p><a class="btn btn-primary btn-lg center-block" href="{{page.registration}}" target="_blank" role="button"> Register &raquo;</a></p>
+            {% elsif page.application %}
+              <p><a class="btn btn-primary btn-lg center-block" href="{{page.application}}" role="button">Apply Now &raquo;</a></p>
             {% endif %}
-              &raquo;</a></p>
           {% endif %}
         </div>
       </div>
