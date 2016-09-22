@@ -4,7 +4,7 @@
 # Note 2.0: Because of the carousel, some are out of chrono order
 
 - title: After-School Coding Club
-  headline: Have fun and learn to code with friends! (Ages 9-13)
+  headline: Have fun and learn to code with other kids! (Ages 9-13)
   age_range: 9-13
   curriculum: club
   date: Oct 11 - Nov 29, Tuesdays
@@ -18,7 +18,7 @@
   curriculum-date: tue
 
 - title: Awesome Inc Academy
-  headline: Our premier training program for students (Ages 13 - 17)
+  headline: Our premier training program for teens (Ages 13 - 17)
   age_range: 13-17
   curriculum: academy
   date: Sept 13 - Dec 15, Tues & Thurs
@@ -31,13 +31,13 @@
   status: 'active'
 
 - title: Awesome Inc U Membership
-  headline: 'For adult learners who want to go beyond "Hello, world"'
+  headline: Part-time / evening class for adults diving into code
   age_range: adults
   curriculum: membership
   date: Sept 13 - Dec 13, Tuesdays
   time: 7-9pm
   standard-price: 179/month
-  url: /membership/
+  url: https://www.eventbrite.com/e/membership-learn-to-code-part-time-evenings-tickets-27941254043
   logo: logo_big.png
   status: 'active'
 

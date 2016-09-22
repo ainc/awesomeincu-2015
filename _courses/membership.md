@@ -3,7 +3,7 @@ layout: course
 title: Membership
 description: Actually Learn To Code
 cover: /img/Awesome-Inc-Membership.jpg
-application: /applications/membership/
+registration: https://www.eventbrite.com/e/membership-learn-to-code-part-time-evenings-tickets-27941254043
 redirect_from: /programs/membership/
 permalink: /membership/
 ---
@@ -28,7 +28,7 @@ For those new to computer programming, the Membership begins with a programming 
 
 Membership outcomes:
 
-* Learn to code in languages like JavaScript, Python, and Swift
+* Learn to code in languages like HTML, JavaScript, Python, and Swift
 * Get accountability for setting and achieving your programming goals
 * Meet other adults learning to code
 * Find out about tech job opportunities
