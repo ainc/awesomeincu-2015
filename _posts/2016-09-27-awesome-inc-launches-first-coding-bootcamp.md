@@ -24,3 +24,5 @@ With over 500 hours of hands-on training, Bootcamp students gain experience whil
 
 The inaugural Bootcamp launched August 22nd and will end in November. Awesome Inc is currently accepting applications for the Spring 2017 cohort, which is scheduled to begin in February.
 
+**About Awesome Inc**
+Based in Lexington, Kentucky, Awesome Inc exists to help grow the Kentucky startup and tech community.  Its Awesome Inc U coding school trains children and adults in software development. Its Fellowship program provides training, pro bono business services and access to mentors and investors for startup companies with demonstrated market potential.  Awesome Inc is also the founder of the Kentucky Entrepreneur Hall of Fame. To find out more, go to www.awesomeincu.org
