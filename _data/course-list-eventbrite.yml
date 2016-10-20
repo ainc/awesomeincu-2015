@@ -41,6 +41,19 @@
   logo: logo_big.png
   status: 'active'
 
+- title: Minecraft Party
+  headline: "Play games and learn some code, too! (Ages 8 - 14)"
+  curriculum: minecraft
+  age_range: 8-14
+  date: May 13
+  time: 6-9pm
+  early-bird-price: 20
+  standard-price: 25
+  early-bird-date: May 12
+  url: https://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-28705654385
+  logo: minecraft.png
+  status: 'active'
+
 - title: Personalized Tutoring
   headline: Get started or move forward, 1-on-1
   age_range: kids, adults
@@ -78,19 +91,6 @@
   early-bird-date: May 22
   url: https://www.eventbrite.com/e/week-of-code-summer-camp-june-louisville-tickets-22585539958
   logo: Week-of-Code-Logo.png
-  status: 'inactive'
-
-- title: Minecraft Party
-  headline: "Play games and learn some code, too! (Ages 8 - 14)"
-  curriculum: minecraft
-  age_range: 8-14
-  date: May 13
-  time: 6-9pm
-  early-bird-price: 20
-  standard-price: 25
-  early-bird-date: May 12
-  url: https://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-22793251228
-  logo: minecraft.png
   status: 'inactive'
 
 - title: AP Computer Science prep
