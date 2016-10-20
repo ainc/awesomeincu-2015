@@ -45,11 +45,11 @@
   headline: "Play games and learn some code, too! (Ages 8 - 14)"
   curriculum: minecraft
   age_range: 8-14
-  date: May 13
+  date: Dec 9
   time: 6-9pm
-  early-bird-price: 20
-  standard-price: 25
-  early-bird-date: May 12
+  early-bird-price: 25
+  standard-price: 35
+  early-bird-date: Dec 7
   url: https://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-28705654385
   logo: minecraft.png
   status: 'active'
