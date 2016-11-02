@@ -16,7 +16,7 @@ In August, [ten aspiring software developers](/blog/2016/09/29/bootcamp-update-h
 
 The first program of its kind in Central Kentucky, the goal of the Web Developer Bootcamp is to help professionals transition into a new career in software development. This in turn helps local companies recruit local tech talent to support their growth, especially as tech moves beyond its own borders and becomes a bigger part of healthcare, manufacturing, finance, and beyond.
 
-The public is invited to join us for the culmination of the Bootcamp program, a Demo Day which runs from 6-8pm at Awesome Inc. Free registration for the [Bootcamp Demo Day is available on Eventbrite](https://www.eventbrite.com/e/demo-day-web-developer-bootcamp-f16-cohort-tickets-28837502747). Each member of the Bootcamp cohort will give a brief presentation of his or her final project, followed by an opportunity to experience each web application hands-on. We'll have light refreshments available throughout the evening. Projects include:
+The public is invited to join us for the culmination of the Bootcamp program, a Demo Day on Thurs, Nov. 10th from 6-8pm at Awesome Inc. Free registration for the [Bootcamp Demo Day is available on Eventbrite](https://www.eventbrite.com/e/demo-day-web-developer-bootcamp-f16-cohort-tickets-28837502747). Each member of the Bootcamp cohort will give a brief presentation of his or her final project, followed by an opportunity to experience each web application hands-on. We'll have light refreshments available throughout the evening. Projects include:
 
 - Communication tool for daycare centers and parents
 - Data tracking for local 5k running series
