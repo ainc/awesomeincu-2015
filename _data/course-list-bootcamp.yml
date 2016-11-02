@@ -2,6 +2,17 @@
 # upcoming classes are moved to top of list, in chronological order. 
 # Inactive classes should be moved to end of list.
 
+- title: Demo Day - Bootcamp F16
+  headline: See Projects From Bootcamp Grads
+  age_range: adults
+  curriculum: bootcamp
+  date: Thurs, Nov. 10
+  time: 6-8pm
+  standard-price: Free
+  url: https://www.eventbrite.com/e/demo-day-web-developer-bootcamp-f16-cohort-tickets-28837502747
+  logo: logo_big.png
+  status: 'active'
+
 - title: Web Developer Bootcamp
   headline: Become A Professional Web Developer
   age_range: adults
