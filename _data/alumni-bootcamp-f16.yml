@@ -1,0 +1,53 @@
+- name: Travis Baumann
+  website: https://travisbaumann.github.io/
+  github: https://github.com/TravisBaumann/
+  linkedin: https://www.linkedin.com/in/travis-baumann-a85684104
+  image: travis_baumann.jpg
+
+- name: Thomas Cothran
+  website: https://thomascothran.github.io/
+  github: https://github.com/thomascothran
+  linkedin: https://www.linkedin.com/in/thomas-cothran-02b24995 
+  image: thomas_cothran.jpg
+
+- name: Gary Ditsch
+  website: https://garyditsch.github.io/
+  github: https://github.com/garyditsch
+  linkedin: https://www.linkedin.com/in/garyditsch
+  image: gary_ditsch.jpg
+
+- name: Brett Fraley
+  website: https://bfraley.github.io/
+  github: https://github.com/bFraley
+  linkedin: https://www.linkedin.com/in/brett-fraley-446134125
+  image: brett_fraley.jpg
+
+- name: Anders Friis
+  website: https://andersfriis.github.io/
+  github: https://github.com/AndersFriis
+  linkedin: https://www.linkedin.com/in/anders-friis-1b815134
+  image: anders_friis.jpg
+
+- name: William Hurst
+  website: https://billbunkum.github.io/
+  github: https://github.com/billbunkum
+  linkedin: https://www.linkedin.com/in/will-hurst-38064937
+  image: william_hurst.jpg
+
+- name: Lavanya Manoharan
+  website: https://lavanyamano.github.io/
+  github: https://github.com/LavanyaMano/
+  linkedin: https://www.linkedin.com/in/lavanya-manoharan-269a7b17
+  image: lavanya_manoharan.jpg
+
+- name: Jason Mize
+  website: http://www.jasonmize.com/
+  github: https://github.com/JasonMize/
+  linkedin: https://www.linkedin.com/in/jasonemize
+  image: jason_mize.jpg
+
+- name: Kelly Wright
+  website: http://www.kellyinnovation.com/
+  github: https://github.com/KellyInnovation/
+  linkedin: https://www.linkedin.com/in/kelly-wright-80727560
+  image: kelly_wright.jpg
