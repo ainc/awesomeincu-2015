@@ -1,0 +1,137 @@
+---
+---
+/*****************************************************
+						Colors
+*****************************************************/
+$color_alto_approx: rgb(222, 222, 222);
+$color_cardinal_approx: rgb(184, 17, 36);
+$color_cardinal_approx_feature: rgb(150, 0, 23);
+$color_cardinal_approx_shade: rgb(220, 17, 36);
+$color_pumice_approx: rgb(200, 200, 200);
+$color_shady_lady_approx: rgb(165, 165, 165);
+$color_pippin_approx: rgb(255,222,223);
+$color_gray: #CECECE;
+$color_light_gray: rgb(236, 236, 236);
+$black: black;
+$color_silver_chalice_approx: #aaa;
+
+/*****************************************************
+						Sizes
+*****************************************************/
+
+$tablet-width: 768px;
+$desktop-width: 1024px;
+$mobile-width: $tablet-width - 1;
+
+@mixin tablet {  /* 768-1023 */
+	@media (min-width: #{$tablet-width}) and (max-width: #{$desktop-width - 1px}) {
+		@content;
+	}
+}
+
+@mixin mobile {  /* < 768 */
+	@media (max-width: #{$mobile-width}) {
+		@content;
+	}
+}
+
+@mixin desktop { /* > 1024 */
+	@media (min-width: #{$desktop-width}) {
+		@content;
+	}
+}
+
+/*****************************************************
+					Hover States
+*****************************************************/
+@mixin setLinkSelectorStyle {
+	&:hover, &:active, &:focus {
+		@content;
+	}
+}
+
+/*****************************************************
+					Consistencies
+*****************************************************/
+
+.center {
+	text-align: center;
+	margin: auto;
+	display: block;
+}
+
+.right-padding {
+	padding-right: 20px;
+}
+.left-padding {
+	padding-left: 20px;
+}
+
+/******************************* 
+ * Red button
+ * Rounded edges
+ * White font
+ *******************************/
+.btn-action {
+	background-color: $color_cardinal_approx;
+	color: white;
+	border-color: $color_cardinal_approx;
+	border-radius: 6px;
+	font-size: 24px;
+	padding: 2px 14px;
+	font-weight: 400;
+	margin-bottom: 20px;
+	@include setLinkSelectorStyle {
+		background-color: $color_cardinal_approx_shade;
+		border-color: $color_cardinal_approx_shade;
+	}
+	i {
+		margin-left: 2px;
+	}
+}
+
+
+
+/*****************************************************
+					Panels
+*****************************************************/
+.panel-custom {
+	border: none;
+	background-color: $color_gray;
+	min-height: 350px;
+	.panel-heading {
+		background-color: $color_cardinal_approx;
+		color: white;
+		font-size: 22px;
+		font-weight: 600;
+		border: none;
+	}
+	img {
+		margin-top: 30px;
+		margin-bottom: 25px;
+	}
+	p {
+		height: 160px;
+		margin: 30px;
+		text-align: justify;
+	}
+	button {
+		margin-bottom: 20px;
+	}
+}
+.panel-feature {
+	background-color: $color_shady_lady_approx;
+	.panel-heading {
+		background-color: $color_cardinal_approx_feature;
+	}
+}
+
+
+
+
+
+
+
+
+
+
