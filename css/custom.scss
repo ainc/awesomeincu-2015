@@ -93,38 +93,75 @@ $mobile-width: $tablet-width - 1;
 
 
 /*****************************************************
-					Panels
+						Panels
 *****************************************************/
-.panel-custom {
-	border: none;
-	background-color: $color_gray;
-	min-height: 350px;
-	.panel-heading {
-		background-color: $color_cardinal_approx;
-		color: white;
-		font-size: 22px;
-		font-weight: 600;
+.panels {
+	h2 {
+		margin-bottom: 35px;
+	}
+	.right-padding {
+		padding-left: 0;
+	}
+	.left-padding {
+		padding-right: 0;
+	}
+	.panel-custom {
 		border: none;
+		background-color: $color_gray;
+		min-height: 350px;
+		.panel-heading {
+			background-color: $color_cardinal_approx;
+			color: white;
+			font-size: 22px;
+			font-weight: 600;
+			border: none;
+		}
+		img {
+			margin-top: 30px;
+			margin-bottom: 25px;
+		}
+		div.panel-body {
+			height: 160px;
+			margin: 30px;
+			text-align: justify;
+			padding: 0;
+		}
+		button {
+			/*margin-bottom: 20px;*/
+		}
+		.modal-footer {
+			p {
+				margin-bottom: 0;
+			}
+		}
 	}
-	img {
-		margin-top: 30px;
-		margin-bottom: 25px;
+	.panel > a.btn {
+		width: 30%;
 	}
-	p {
-		height: 160px;
-		margin: 30px;
-		text-align: justify;
+	.panel-feature {
+		background-color: $color_shady_lady_approx;
+		.panel-heading {
+			background-color: $color_cardinal_approx_feature;
+		}
 	}
-	button {
-		margin-bottom: 20px;
+	.modal {
+		.modal-dialog {
+			width: 75%;
+		}
+		img {
+			margin-top: 0;
+			margin-bottom: 0;
+		}
+		table {
+			td {
+				vertical-align: middle;
+			}
+		}
+
 	}
+	
 }
-.panel-feature {
-	background-color: $color_shady_lady_approx;
-	.panel-heading {
-		background-color: $color_cardinal_approx_feature;
-	}
-}
+
 
 
 

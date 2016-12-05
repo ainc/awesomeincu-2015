@@ -9,79 +9,80 @@ redirect_from:
 <div class="container">
 	<h1>{{ page.title }}</h1>
 	<hr>
-	<p>Learning to code is difficult, but so is learning salsa dancing or playing the guitar. Consistent practice, week after week, is how you become a great programmer. Our extended-length programs take the basic skills learned in our courses and reinforce that new knowledge with hands-on experience. We have programs for students ages 9+, starting with our After School Coding Club (9-13) and Academy, to Team Alpha for upper-level high schoolers and college students.</p>
+	<p>Learning to code is difficult, but so is learning salsa dancing or playing the guitar. Consistent practice, week after week, is how you become a great programmer. Our extended-length programs take the basic skills learned in our courses and reinforce that new knowledge with hands-on experience. We have programs for students ages 9+, starting with our After School Coding Club (9-13) and Academy (13-17) for advanced students.</p>
 	<!-- Four columns of text -->
-	<div class="row">
+	<div class="row panels" id="beginner"> <!-- BEGINNER -->
 		<div class="container">
-			<h3>Beginner Class for Kids</h3>
+			<h2>Beginner Classes for Kids</h2>
 			<div class="col-md-6 right-padding">
 				<div class="panel panel-danger panel-custom">
 					<div class="panel-heading center">After School Coding Club</div>
-				
-					<p>Do you have a student at home who spends too much time on the computer, plays lots of Minecraft, or enjoyed doing the Hour of Code at school? The After-School Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls in middle school who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting.</p>
-					<button href="#" class="btn btn-primary btn-action center">Learn More &raquo</button>
+					<div class="panel-body">
+						<p>Do you have a student at home who spends too much time on the computer, plays lots of Minecraft, or enjoyed doing the Hour of Code at school? The After-School Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls in middle school who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting.</p>
+					</div>
+					<button type="button" data-toggle="modal" data-target="#after-school" class="btn btn-primary btn-action center">Find Class &raquo</button>
+					{% include after-school-courses-modal.html %}
 				</div>
 			</div>
 			<div class="col-md-6 no-pad-col left-padding">
 				<div class="panel panel-danger panel-custom">
 					<div class="panel-heading center">Week of Code</div>
-				
-					<p>Instead of your kids spending their summer playing apps, what if they spent it learning to make them? This camp for middle and high school students introduces the fundamentals of coding. Students will create websites, mobile apps, and video games all while having fun with our energetic team.</p>
-					<button href="#" class="btn btn-primary btn-action center">Learn More &raquo</button>
+					<div class="panel-body">
+						<p>Instead of your kids spending their summer playing apps, what if they spent it learning to make them? This camp for middle and high school students introduces the fundamentals of coding. Students will create websites, mobile apps, and video games all while having fun with our energetic team.</p>
+					</div>
+					<button type="button" data-toggle="modal" data-target="#week-of-code" class="btn btn-primary btn-action center">Find Class &raquo</button>
+					{% include week-of-code-courses-modal.html %}
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="row marketing">
-		<div class="col-lg-4">
-			<a href="/academy/">
-				<img class="img-circle" src="/img/Learn-to-Code-Programs-Small.jpg" alt="The Academy" width="140" height="140">
-				<h2>The Academy</h2>
-			</a>
-			<p>So, you've got the basics down. You've taken a class or two, followed some tutorials, built a few “Hello, world” programs. How do go beyond learning-to-code and take your software development skills to the next level? The Awesome Inc Academy is our answer.</p>
-			<p><a class="btn btn-default" href="/academy/" role="button">Learn more &raquo;</a></p>
-		</div><!-- /.col-lg-4 -->
-		<div class="col-lg-4">
-			<a href="/after-school/">
-				<img class="img-circle" src="/img/After-School-Coding-Club-Small.jpg" alt="Generic placeholder image" width="140" height="140">
-				<h2>Coding Club</h2>
-			</a>
-			<p>Do you have a student at home who spends too much time on the computer, plays lots of Minecraft, or enjoyed doing the Hour of Code at school? The After-School Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls in middle school who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting.</p>
-			<p><a class="btn btn-default" href="/after-school/" role="button">Learn more &raquo;</a></p>
-		</div><!-- /.col-lg-4 -->
-		<div class="col-lg-4">
-			<a href="/tutoring/">
-				<img class="img-circle" src="/img/private-tutoring-small.jpg" alt="Generic placeholder image" width="140" height="140">
-				<h2>Individual Tutoring</h2>
-			</a>
-			<p>In addition to teaching group classes, our expert instructors are available for 1-on-1 tutoring. Whether you need help finishing that almost-complete Android app, studying for the AP Computer Science exam, or just prefer learning in a more personal environment, we've got someone who can get you through it.</p>
-			<p><a class="btn btn-default" href="/tutoring/" role="button">Learn more &raquo;</a></p>
-		</div><!-- /.col-lg-4 -->
-	</div><!-- /.row -->
-	<div class="row marketing top-marketing">
-		<div class="col-lg-4">
-			<a href="/teamalpha/">
-				<img class="img-circle" src="/img/Team-Alpha-Apprenticeship-Small.jpg" alt="Generic placeholder image" width="140" height="140">
-				<h2>Team Alpha</h2>
-			</a>
-			<p>Learning to code is one thing, but writing code that actually gets used in the world is where it becomes real. The world has a shortage of software developers, and while knowledge is great, many positions require experience. You may know some HTML and CSS, but have you built websites used by thousands of people each month? How do you get experience like this? Apply for the Team Alpha software development apprenticeship.</p>
-			<p><a class="btn btn-default" href="/teamalpha/" role="button">Learn more &raquo;</a></p>
-		</div><!-- /.col-lg-4 -->
-		<div class="col-lg-4">
-			<a href="/weekofcode/">
-				<img class="img-circle" src="/img/Awesome-Inc-Week-Of-Code-small.jpg" alt="Week of Code students" width="140" height="140">
-				<h2>Week of Code summer camp</h2>
-			</a>
-			<p>Instead of your kids spending their summer playing apps, what if they spent it learning to make them? This camp for middle and high school students introduces the fundamentals of coding. Students will create websites, mobile apps, and video games all while having fun with our energetic team.</p>
-			<p><a class="btn btn-default" href="/weekofcode/" role="button">Learn more &raquo;</a></p>
-		</div><!-- /.col-lg-4 -->
-		<div class="col-lg-4">
-			<a href="/apcs/">
-				<img class="img-circle" src="/img/academy-group-small.jpg" alt="AP CS prep class" width="140" height="140">
-				<h2>AP Computer Science</h2>
-			</a>
-			<p>Designed for students who want to pass the AP Computer Science A exam. This course is a great option for students whose schools don’t offer a formal AP CS course, and excellent reinforcement for those students who would like to supplement their learning from the classroom.</p>
-			<p><a class="btn btn-default" href="/apcs/" role="button">Learn more &raquo;</a></p>
-		</div><!-- /.col-lg-4 -->
-	</div><!-- /.row -->
+	<div class="row panels" id="intermediate"> <!-- INTERMEDIATE -->
+		<div class="container">
+			<h2>Intermiediate Classes for Kids</h2>
+			<div class="col-md-6 right-padding">
+				<div class="panel panel-danger panel-custom">
+					<div class="panel-heading center">Coding League</div>
+					<div class="panel-body">
+						<p>So, you've got the basics down. You've taken a class or two, followed some tutorials, built a few “Hello, world” programs. How do go beyond learning-to-code and take your software development skills to the next level? The Awesome Inc Coding League is our answer.</p>
+					</div>
+					<button type="button" data-toggle="modal" data-target="#week-of-code" class="btn btn-primary btn-action center">Find Class &raquo</button>
+					{% include week-of-code-courses-modal.html %}
+				</div>
+			</div>
+			<div class="col-md-6 no-pad-col left-padding">
+				<div class="panel panel-danger panel-custom">
+					<div class="panel-heading center">Week of Code</div>
+					<div class="panel-body">
+						<p>Instead of your kids spending their summer playing apps, what if they spent it learning to make them? This camp for middle and high school students introduces the fundamentals of coding. Students will create websites, mobile apps, and video games all while having fun with our energetic team.</p>
+					</div>
+					<button type="button" data-toggle="modal" data-target="#week-of-code" class="btn btn-primary btn-action center">Find Class &raquo</button>
+					{% include week-of-code-courses-modal.html %}
+				</div>
+			</div>
+		</div>
+	</div> 
+	<div class="row panels equal" id="advanced"> <!-- ADVANCED -->
+		<div class="container">
+			<h2>Advanced Classes for Kids</h2>
+			<div class="col-md-6 right-padding">
+				<div class="panel panel-danger panel-custom">
+					<div class="panel-heading center">Academy</div>
+					<div class="panel-body">
+						<p>The Academy is our premier class for students ages 13-17. This program runs for 14 weeks each Spring and Fall semester, and meets twice a week, two hours per night. Students work alongside other highly-talented peers to gain exposure to a breadth of topics, not just their own focus area.</p>
+					</div>
+					<a href="/academy" class="btn button btn-primary btn-action center">Find Class &raquo</a>
+				</div>
+			</div>
+			<!-- <div class="col-md-6 no-pad-col left-padding">
+				<div class="panel panel-danger panel-custom">
+					<div class="panel-heading center">Team Alpha</div>
+					<div class="panel-body">
+						<p>Learning to code is one thing, but writing code that actually gets used in the world is where it becomes real. The world has a shortage of software developers, and while knowledge is great, many positions require experience. You may know some HTML and CSS, but have you built websites used by thousands of people each month? How do you get experience like this?</p>
+					</div>
+					<button href="#" class="btn btn-primary btn-action center">Apply Now &raquo</button>
+				</div>
+			</div> -->
+		</div>
+	</div>
+	
 </div>
