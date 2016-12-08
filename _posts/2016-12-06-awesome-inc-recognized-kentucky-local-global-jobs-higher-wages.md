@@ -10,7 +10,7 @@ FOR IMMEDIATE RELEASE:
 
 ***
 
-LEXINGTON, Kentucky, December 6, 2016 — The mayors of Kentucky’s two biggest cities [named](http://wkyufm.org/post/louisville-lexington-work-grow-kentucky-exports-and-attract-foreign-investors#stream/0) Awesome Inc as an important element in their commitment for attracting jobs and foreign investment to the state. 
+LEXINGTON, Kentucky, December 6, 2016 — The mayors of Kentucky’s two biggest cities [named](http://wkyufm.org/post/louisville-lexington-work-grow-kentucky-exports-and-attract-foreign-investors#stream/0) Awesome Inc as an important element in their commitment to attracting jobs and foreign investment to the state. 
 
 <!--break-->
 
