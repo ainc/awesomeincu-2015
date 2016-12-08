@@ -3,16 +3,16 @@
 # Inactive classes should be moved to end of list.
 # Note 2.0: Because of the carousel, some are out of chrono order
 
-- title: After-School Coding Club
+- title: Coding Club
   headline: Have fun and learn to code with other kids! (Ages 9-13)
   age_range: 9-13
   curriculum: club
-  date: Oct 11 - Nov 29, Tuesdays
+  date: Jan 10 - May 2, Tuesdays
   time: 5-6:30pm
   early-bird-price: 
   standard-price: 100/month
   early-bird-date:
-  url: https://www.eventbrite.com/e/awesome-inc-after-school-coding-club-fall-2016-tuesdays-tickets-26529774269
+  url: https://www.eventbrite.com/e/awesome-inc-after-school-coding-club-spring-2017-tuesdays-tickets-29642641940?aff=es2
   logo: logo_big.png
   status: 'active'
   curriculum-date: tue

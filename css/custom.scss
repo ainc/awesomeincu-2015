@@ -1,0 +1,206 @@
+---
+---
+/*****************************************************
+						Colors
+*****************************************************/
+$color_alto_approx: rgb(222, 222, 222);
+$color_cardinal_approx: rgb(184, 17, 36);
+$color_cardinal_approx_feature: rgb(150, 0, 23);
+$color_cardinal_approx_shade: rgb(220, 17, 36);
+$color_pumice_approx: rgb(200, 200, 200);
+$color_shady_lady_approx: rgb(165, 165, 165);
+$color_pippin_approx: rgb(255,222,223);
+$color_gray: #CECECE;
+$color_light_gray: rgb(236, 236, 236);
+$black: black;
+$color_silver_chalice_approx: #aaa;
+
+/*****************************************************
+						Sizes
+*****************************************************/
+
+$tablet-width: 768px;
+$desktop-width: 1024px;
+$mobile-width: $tablet-width - 1;
+
+@mixin tablet {  /* 768-1023 */
+	@media (min-width: #{$tablet-width}) and (max-width: #{$desktop-width - 1px}) {
+		@content;
+	}
+}
+
+@mixin mobile {  /* < 768 */
+	@media (max-width: #{$mobile-width}) {
+		@content;
+	}
+}
+
+@mixin desktop { /* > 1024 */
+	@media (min-width: #{$desktop-width}) {
+		@content;
+	}
+}
+
+/*****************************************************
+					Hover States
+*****************************************************/
+@mixin setLinkSelectorStyle {
+	&:hover, &:active, &:focus {
+		@content;
+	}
+}
+
+/*****************************************************
+					Consistencies
+*****************************************************/
+
+.center {
+	text-align: center;
+	margin: auto;
+	display: block;
+}
+
+.right-padding {
+	padding-right: 20px;
+}
+.left-padding {
+	padding-left: 20px;
+}
+
+/******************************* 
+ * Red button
+ * Rounded edges
+ * White font
+ *******************************/
+.btn-action {
+	background-color: $color_cardinal_approx;
+	color: white;
+	border-color: $color_cardinal_approx;
+	border-radius: 6px;
+	font-size: 24px;
+	padding: 2px 14px;
+	font-weight: 400;
+	margin-bottom: 20px;
+	@include setLinkSelectorStyle {
+		background-color: $color_cardinal_approx_shade;
+		border-color: $color_cardinal_approx_shade;
+	}
+	i {
+		margin-left: 2px;
+	}
+}
+
+
+
+/*****************************************************
+						Panels
+*****************************************************/
+.panels {
+	h2 {
+		margin-bottom: 35px;
+	}
+	.right-padding {
+		padding-left: 0;
+	}
+	.left-padding {
+		padding-right: 0;
+	}
+	@include mobile {
+		.right-padding {
+			padding-left: 15px;
+		}
+		.left-padding {
+			padding-right: 15px;
+		}
+	}
+	.panel-custom {
+		border: none;
+		background-color: $color_gray;
+		min-height: 350px;
+		@include mobile {
+			min-height: 320px;
+		}
+		.panel-heading {
+			background-color: $color_cardinal_approx;
+			color: white;
+			font-size: 22px;
+			font-weight: 600;
+			border: none;
+		}
+		img {
+			margin-top: 30px;
+			margin-bottom: 25px;
+		}
+		div.panel-body {
+			height: 160px;
+			margin: 30px;
+			text-align: justify;
+			padding: 0;
+		}
+		@include mobile {
+			div.panel-body {
+				margin: 15px;
+				height: 175px;
+			}
+		}
+		button {
+			/*margin-bottom: 20px;*/
+		}
+		.modal-footer {
+			p {
+				margin-bottom: 0;
+			}
+		}
+		@include mobile {
+			p {
+				font-size: 14px;
+			}
+		}
+	}
+	.panel > a.btn {
+		width: 30%;
+	}
+	@include mobile {
+		.panel > a.btn {
+			width: 50%;
+		}
+	}
+	.panel-feature {
+		background-color: $color_shady_lady_approx;
+		.panel-heading {
+			background-color: $color_cardinal_approx_feature;
+		}
+	}
+	.modal {
+		.modal-dialog {
+			width: 75%;
+		}
+		img {
+			margin-top: 0;
+			margin-bottom: 0;
+		}
+		table {
+			td {
+				vertical-align: middle;
+			}
+		}
+
+	}
+	
+}
+
+.Programming {
+	h2 {
+		font-weight: 600;
+	}
+}
+
+
+
+
+
+
+
+
+
+

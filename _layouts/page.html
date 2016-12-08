@@ -14,9 +14,9 @@
     </head>
     <body>
         {% include nav.html %}
-
+        <div class="{{ page.title | split:' ' | first }}">
         {{content}}
-
+        </div>
         {% include footer.html %}
 
         {% include js.html %}
