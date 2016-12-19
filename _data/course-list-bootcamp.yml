@@ -2,37 +2,27 @@
 # upcoming classes are moved to top of list, in chronological order. 
 # Inactive classes should be moved to end of list.
 
-- title: Demo Day - Bootcamp F16
-  headline: See Projects From Bootcamp Grads
-  age_range: adults
-  curriculum: bootcamp
-  date: Thurs, Nov. 10
-  time: 6-8pm
-  standard-price: Free
-  url: https://www.eventbrite.com/e/demo-day-web-developer-bootcamp-f16-cohort-tickets-28837502747
-  logo: logo_big.png
-  status: 'active'
-
-- title: Web Developer Bootcamp
+- title: Web Developer Bootcamp S17
   headline: Become A Professional Web Developer
   age_range: adults
   curriculum: bootcamp
-  date: Aug 22 - Nov 11, Mon-Fri
-  time: 8am-5pm
-  standard-price: <del>class full</del>
-  url: /bootcamp/
-  logo: logo_big.png
-  status: 'active'
-
-- title: Web Developer Bootcamp
-  headline: Become A Professional Web Developer
-  age_range: adults
-  curriculum: bootcamp
-  date: Spring 2017, Mon-Fri
+  date: May 22 - Aug 11, Mon-Fri
   time: 8am-5pm
   standard-price: "$9500"
-  scholarships: true
-  url: /bootcamp/
+  financing: true
+  url: /applications/bootcamp/
+  logo: logo_big.png
+  status: 'active'
+
+- title: Web Developer Bootcamp F17
+  headline: Become A Professional Web Developer
+  age_range: adults
+  curriculum: bootcamp
+  date: Sept 18 - Dec 8, Mon-Fri
+  time: 8am-5pm
+  standard-price: "$9500"
+  financing: true
+  url: /applications/bootcamp/
   logo: logo_big.png
   status: 'active'
 
