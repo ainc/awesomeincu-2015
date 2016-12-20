@@ -32,6 +32,6 @@ All it takes to have a coding class at any school is a qualified teacher, a comp
 
 The best way to open up the world of computer programming to kids is through schools or through alternative programs. Showing kids the ins and outs of coding can expose them to the all kinds of possibilities for their futures, as well as teaching them something that can be applied to so many different spectrums of life. There is no doubt that coding is important and will only continue to expand and advance as time passes. If computer science is the future, then it is important that the future generations can learn to love and grow the industry even more.
 
-A good resource to help introduce kids to coding is through [Awesome Inc U](http://www.awesomeincu.com/). They offer a [Coding Camp](http://www.awesomeincu.com/curriculum/#k12-week), a [Day of Code](http://www.awesomeincu.com/curriculum/#k12-day) Program for educators, and [one day courses](http://www.awesomeincu.com/register) for individual coding languages.
+A good resource to help introduce kids to coding is through [Awesome Inc U](http://www.awesomeincu.com/). They offer a [Coding Camp](http://www.awesomeincu.com/weekofcode/), a [Day of Code](http://www.awesomeincu.com/curriculum/#k12-day) Program for educators, and [one day courses](http://www.awesomeincu.com/register) for individual coding languages.
 
 _This post originally appeared on the [Awesome Inc blog](http://blog.awesomeinc.org/post/86507708111/why-21st-century-kids-should-learn-the-21st-century)._

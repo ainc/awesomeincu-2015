@@ -26,7 +26,7 @@ On the final day, each of the kids worked on a project of his/her choosing which
 
 If you think this sounds like something that someone you know might be interested, we’re launching another Kids Coding Camp this fall - October 2nd - 5th.  [Sign up by September 20th to save $200.](https://www.eventbrite.com/e/awesome-inc-kids-code-camp-tickets-12989777775)  We expect this camp to sell out!  [Here is the registration page](https://www.eventbrite.com/e/awesome-inc-kids-code-camp-tickets-12989777775).
 
-Of course, a single week is only enough to skim the surface of the world of coding.  That’s why, this fall, Awesome Inc is kicking off the first semester of the [Awesome Inc Academy](http://www.awesomeincu.com/curriculum/#academy).   
+Of course, a single week is only enough to skim the surface of the world of coding.  That’s why, this fall, Awesome Inc is kicking off the first semester of the [Awesome Inc Academy](http://www.awesomeincu.com/academy/).   
 
 Starting in September and ending in December, the Academy will give student an in-depth look at coding topics.  They’ll work on projects throughout the semester, get an introduction to the theory behind programming, and get one-on-one time with the instructors.  They’ll even have an opportunity to meet industry professionals and learn more about what it’s like to be a professional developer. 
 
