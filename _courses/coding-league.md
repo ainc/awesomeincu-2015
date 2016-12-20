@@ -4,7 +4,7 @@ title: Coding League
 description: "Learn To Code Like The Pros"
 cover: /img/After-School-Coding-Club.jpg
 application: /applications/after-school/
-registration: https://www.eventbrite.com/e/awesome-inc-after-school-coding-club-spring-2017-tuesdays-tickets-29642641940?aff=es2
+registration: https://www.eventbrite.com/e/awesome-inc-coding-league-spring-2017-thursdays-tickets-26529760227
 redirect_from: 
   - /codingleague/
   - /league/
