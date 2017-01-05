@@ -8,7 +8,7 @@ press_footer: true
 ================================================== -->
 <div id="course-carousel" class="carousel slide carousel-fade" data-ride="carousel">
       <ol class="carousel-indicators">
-      {% assign boot_course = site.data.course-list-bootcamp.last %}
+      {% assign boot_course = site.data.course-list-bootcamp.first %}
         {% if boot_course.status == 'active' %}
               <li data-target="#course-carousel" data-slide-to="0" class="active"></li>
         {% endif %}
