@@ -2,7 +2,7 @@
 layout: course
 title: Coding League
 description: "Learn To Code Like The Pros"
-cover: /img/After-School-Coding-Club.jpg
+cover: /img/coding-league.jpg
 application: /applications/after-school/
 registration: https://www.eventbrite.com/e/awesome-inc-coding-league-spring-2017-thursdays-tickets-26529760227
 redirect_from: 
@@ -20,3 +20,6 @@ Coding League Outcomes:
 - Go beyond to block-based languages to use text-based programming
 - Learn Computer Science fundamentals
 - Explore the creative power of programming, start building a portfolio of professional-quality code
+
+<!--Eventbrite generated ticket form widget-->
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.com/tickets-external?eid=26529760227&ref=etckt" frameborder="0" height="648" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
