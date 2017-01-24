@@ -11,17 +11,14 @@ permalink: /coding-club/
 
 ### **Do you have a student at home who enjoys spending time on the computer, could play Minecraft for hours, or has done the Hour of Code at school?**
 
-The Awesome Inc Coding Club is the place to take that interest in technology, and turn it into a productive skill. Our program is for students who want to learn a basic understanding of computer programming under the instruction of our fun and energetic team. Designed for boys and girls in elementary and middle school who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting. It meets one night per week for 90 minutes, with new sessions beginning every four weeks.
+The Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls in elementary and middle school who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting. Our program is for students who want to learn a basic understanding of computer programming under the instruction of our fun and energetic team. 
 
-Come back for as many sessions as you’d like, the fun and the knowledge keeps on building. Sign up with friends, or meet new people with similar interests.
+The Coding Club meets one evening a week for 90 minutes, with 16 weeks of classes in the Spring and Fall. The Club starts on a new project every four weeks, so the fun and the knowledge keeps on building. Sign up with friends, or meet new people with similar interests. No prior programming experience is required, but students should be comfortable using a mouse, keyboard, and web browser.
 
 ## Coding Club Outcomes:
-- Create your own computer programs
-- Learn the basics of Computer Science
-- Meet other students learning to code and professional programmers
 - Learn to apply computational thinking to solve problems
 - Create your own programs and games using MIT Scratch
-
+- Meet other students learning to code
 
 <br>
 
@@ -55,7 +52,7 @@ No prior programming experience is required, but students should be comfortable 
 This course is capped at 20 students, so be sure to reserve your spot!
 
 ### **Are there any age limits for students in the Coding Club?**
-The Coding Club is designed for students ages 9-12. Please inquire if your student doesn't fit that age range but you still want him/her to participate - [info@awesomeincu.com](mailto:info@awesomeincu.com).
+The Coding Club is designed for students ages 9-12 (approx. 4th - 7th grade). Please inquire if your student doesn't fit that age range but you still want him/her to participate - [info@awesomeincu.com](mailto:info@awesomeincu.com).
 
 ### **Are there classes during Spring Break?**
 There is a one-week gap between sessions 3 and 4 due to Fayette Co. Schools Spring Break.

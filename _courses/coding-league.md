@@ -13,16 +13,14 @@ permalink: /coding-league/
 
 It’s time to start using more powerful, professional-grade tools. HTML, CSS, and JavaScript are the building blocks of the web, and are the focus of our intermediate-level course for youth, the Coding League. Students use code to create websites. These websites range from informational pages on students’ hobbies and interests, to interactive games, and handy utilities.
 
+Coding League participants should have some prior programming experience, such as a basic course at school or [Awesome Inc’s Coding Club](/coding-club/). Since we’ll be using text-based programming languages, students should be comfortable typing at [20 words per minute](https://10fastfingers.com/typing-test/english) or faster.
+
 Come back for as many sessions as you’d like, the fun and the knowledge keeps on building. Sign up with friends, or meet new people with similar interests.
 
 ## Coding League Outcomes:
 - Go beyond to block-based languages to use text-based programming
 - Learn Computer Science fundamentals
 - Explore the creative power of programming, start building a portfolio of professional-quality code
-- Go beyond to block-based languages to use text-based programming
-- Learn Computer Science fundamentals
-- Explore the creative power of programming, start building a portfolio of professional-quality code
-
 
 <br>
 
