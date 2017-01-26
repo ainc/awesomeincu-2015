@@ -14,10 +14,12 @@ layout: page
           {% else %}
             {% if page.registration %}
               <p><a class="btn btn-primary btn-lg" href="{{page.registration}}" target="_blank" role="button"> Register &raquo;</a></p>
+            {% elsif page.getInfo %}
+              <button type="button" data-toggle="modal" data-target="#membership-modal" class="btn btn-primary btn-action center">Get Info &raquo;</button>
+              {% include membership-modal.html %}
             {% elsif page.application %}
               <p><a class="btn btn-primary btn-lg" href="{{page.application}}" role="button">Apply Now &raquo;</a></p>
             {% endif %}
-              &raquo;</a></p>
           {% endif %}
       </div> 
 </div>
@@ -35,6 +37,9 @@ layout: page
           {% else %}
             {% if page.registration %}
               <p><a class="btn btn-primary btn-lg center-block" href="{{page.registration}}" target="_blank" role="button"> Register &raquo;</a></p>
+            {% elsif page.getInfo %}
+              <button type="button" data-toggle="modal" data-target="#membership-modal" class="btn btn-primary btn-action center">Get Info &raquo;</button>
+              {% include membership-modal.html %}
             {% elsif page.application %}
               <p><a class="btn btn-primary btn-lg center-block" href="{{page.application}}" role="button">Apply Now &raquo;</a></p>
             {% endif %}
