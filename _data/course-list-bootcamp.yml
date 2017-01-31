@@ -8,8 +8,8 @@
   curriculum: bootcamp
   date: May 22 - Aug 11, Mon-Fri
   time: 8am-5pm
-  standard-price: "$9500"
-  financing: true
+  standard-price: "Apply to learn more"
+  financing: false
   url: /applications/bootcamp/
   logo: logo_big.png
   status: 'active'
@@ -20,8 +20,8 @@
   curriculum: bootcamp
   date: Sept 18 - Dec 8, Mon-Fri
   time: 8am-5pm
-  standard-price: "$9500"
-  financing: true
+  standard-price: "Apply to learn more"
+  financing: false
   url: /applications/bootcamp/
   logo: logo_big.png
   status: 'active'
