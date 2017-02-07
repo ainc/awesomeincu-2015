@@ -3,7 +3,7 @@ layout: course
 title: Membership
 description: Actually Learn To Code
 cover: /img/Awesome-Inc-Membership.jpg
-registration: https://www.eventbrite.com/e/membership-learn-to-code-part-time-evenings-tickets-27941254043
+getInfo: membership
 redirect_from: /programs/membership/
 permalink: /membership/
 ---

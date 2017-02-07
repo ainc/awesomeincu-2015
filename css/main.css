@@ -233,6 +233,11 @@ height: 350px;
 background:transparent;
 }
 
+.jumbotron .modal {
+  color: #3e3e3e;
+  text-shadow:none;
+}
+
 .center-block{
     float:none;
 }
