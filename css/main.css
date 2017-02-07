@@ -369,6 +369,16 @@ form {
   margin-right: auto;
   }
 
+/* FAQ ACCORDIAN
+-------------------------------------------------- */
+.panel h3 {
+  margin: 5px;
+}
+
+.panel p {
+  margin: 5px;
+}
+
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
