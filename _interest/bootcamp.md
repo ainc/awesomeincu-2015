@@ -17,6 +17,6 @@ The Web Developer Bootcamp is a 3-month, full-time training program for aspiring
 
 The Awesome Inc U Bootcamp Program costs $9500. Participants are expected to be fully invested in the training process for a 3 month period. At the conclusion of the program, participants will be ready to interview with a number of our employer partners for the opportunity to earn a full time position in Kentucky at a competitive junior developer's salary.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8IryuzzI2DA?rel=0&amp;controls=0"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/wuwgjpPsIDw" frameborder="0" allowfullscreen></iframe></div>
 
 Fill out the form below to hear back from our team, read about the [bootcamp on our blog](/blog/), or head on over to the [main Bootcamp page](/bootcamp/) to start your application.
