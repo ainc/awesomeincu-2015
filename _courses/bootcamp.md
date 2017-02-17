@@ -20,7 +20,7 @@ The Web Developer Bootcamp is a 3-month, full-time training program for aspiring
 
 Participants are expected to be fully invested in the training process for a 3 month period. At the conclusion of the program, participants will be ready to interview with a number of our employer partners for the opportunity to earn a full time position in Kentucky at a competitive junior developer's salary.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8IryuzzI2DA?rel=0&amp;controls=0"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/wuwgjpPsIDw" frameborder="0" allowfullscreen></iframe></div>
 
 ## FAQs
 
