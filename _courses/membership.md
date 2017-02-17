@@ -10,7 +10,7 @@ permalink: /membership/
 
 Learning to code can be intimidating on your own. Maybe you've gotten started on Codecademy, but never finished that JavaScript track. Perhaps you've dabbled in iPhone app development, following a series of video tutorials, but got stuck somewhere between Swift and an NSObject. If you're interested in making a career switch, or just want to learn a valuable new skill, the Awesome Inc U Membership program is made for people like you.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8IryuzzI2DA"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/wuwgjpPsIDw" frameborder="0" allowfullscreen></iframe></div>
 
 The Membership is our training program for adults who are learning software development. It meets one evening per week, with joining windows each month. No prior programming experience is required. Our Members come from a variety of backgrounds, including design, healthcare, and finance. 
 
