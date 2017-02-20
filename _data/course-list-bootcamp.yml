@@ -13,6 +13,7 @@
   url: /applications/bootcamp/
   logo: logo_big.png
   status: 'active'
+  feature: true
 
 - title: Web Developer Bootcamp F17
   headline: Become A Professional Web Developer

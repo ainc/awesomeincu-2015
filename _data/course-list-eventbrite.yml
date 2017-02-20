@@ -15,6 +15,7 @@
   url: https://www.eventbrite.com/e/week-of-code-summer-camp-june-lexington-tickets-32132513212?aff=es2
   logo: Week-of-Code-Logo.png
   status: 'active'
+  feature: true
 
 - title: Week of Code Summer Camp - Lexington (June)
   headline: "Spend your summer making apps, games, and websites"
@@ -67,6 +68,7 @@
   url: https://www.eventbrite.com/e/awesome-inc-after-school-coding-club-spring-2017-tuesdays-tickets-29642641940?aff=es2
   logo: logo_big.png
   status: 'active'
+  feature: true
 
 - title: Coding League
   headline: Learn To Code Like The Pros (Ages 11-14)
@@ -80,6 +82,7 @@
   url: https://www.eventbrite.com/e/awesome-inc-coding-league-spring-2017-thursdays-tickets-26529760227
   logo: logo_big.png
   status: 'active'
+  feature: true
 
 - title: Academy
   headline: Our premier training program for teens (Ages 13 - 17)
