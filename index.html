@@ -8,54 +8,68 @@ press_footer: true
 ================================================== -->
 <div id="course-carousel" class="carousel slide carousel-fade" data-ride="carousel">
       <ol class="carousel-indicators">
-      {% assign boot_course = site.data.course-list-bootcamp.first %}
-        {% if boot_course.status == 'active' %}
+      
+        
               <li data-target="#course-carousel" data-slide-to="0" class="active"></li>
-        {% endif %}
-{% for course in site.data.course-list-eventbrite limit: 3 %}
-  {% if course.status == 'active' %}
-        <li data-target="#course-carousel" data-slide-to="{{ forloop.index }}" ></li>
-  {% endif %}
-{% endfor %}
+        
+
+  
+        <li data-target="#course-carousel" data-slide-to="1" ></li>
+  
+
+  
+        <li data-target="#course-carousel" data-slide-to="2" ></li>
+  
+
+  
+        <li data-target="#course-carousel" data-slide-to="3" ></li>
+  
+
 
       </ol>
 
       <div class="carousel-inner" role="listbox">
-      {% if boot_course.status == 'active' %}
+      
         <div class="item active">
           <div class="container">
             <div class="carousel-caption">
-              <h1><code>Learn To Code</code> with {{ boot_course.title }}</h1>
-              <p style="background-color: rgba(0,0,0,0.3);">{{ boot_course.headline }}</p>
-              <p><a class="btn btn-lg btn-primary" href="{% if boot_course.curriculum == 'k12-week' %}/youth{% else %}{{ boot_course.url }}{% endif %}" role="button">Learn more</a></p>
+              <h1><code>Learn To Code</code> with Web Developer Bootcamp S17</h1>
+              <p style="background-color: rgba(0,0,0,0.3);">Become A Professional Web Developer</p>
+              <p><a class="btn btn-lg btn-primary" href="/applications/bootcamp/" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
-  {% endif %}
-{% for course in site.data.course-list-eventbrite limit: 3 %}
-  {% if course.status == 'active' %}
+    
         <div class="item ">
           <div class="container">
             <div class="carousel-caption">
-              <h1><code>Learn To Code</code> with {{ course.title }}</h1>
-              <p style="background-color: rgba(0,0,0,0.3);">{{ course.headline }}</p>
-              <p><a class="btn btn-lg btn-primary" href="{% if course.curriculum == 'k12-week' %}/youth{% else %}{{ course.url }}{% endif %}" role="button">Learn more</a></p>
+              <h1><code>Learn To Code</code> with Week of Code Summer Camp - Lexington</h1>
+              <p style="background-color: rgba(0,0,0,0.3);">Spend your summer making apps, games, and websites</p>
+              <p><a class="btn btn-lg btn-primary" href="/youth" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
-  {% else %}
-        <div class="item">
+
+          <div class="item ">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Learn to Code <code>iOS</code></h1>
-              <p>With courses in Objective C and Swift, Awesome Inc U can get you there.</p>
-              <p><a class="btn btn-lg btn-primary" href="/register/" role="button">Learn more</a></p>
+              <h1><code>Learn To Code</code> with Coding Club.</h1>
+              <p style="background-color: rgba(0,0,0,0.3);">Learn Code, Make Friends</p>
+              <p><a class="btn btn-lg btn-primary" href="/coding-club" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
-{% endif %}
-{% endfor %}
-  
+
+        <div class="item ">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1><code>Learn To Code</code> with Coding League.</h1>
+              <p style="background-color: rgba(0,0,0,0.3);">Learn to Code like The Pros</p>
+              <p><a class="btn btn-lg btn-primary" href="/coding-league" role="button">Learn more</a></p>
+            </div>
+          </div>
+        </div>
+        
     </div>
 </div><!-- /.carousel -->
 
