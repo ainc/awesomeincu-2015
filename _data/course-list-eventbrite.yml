@@ -3,7 +3,7 @@
 # Inactive classes should be moved to end of list.
 # Note 2.0: Because of the carousel, some are out of chrono order
 
-- title: Week of Code Summer Camp - Lexington (June A)
+- title: Week of Code Summer Camp - Lexington (June)
   headline: "Spend your summer making apps, games, and websites"
   age_range: 11-16
   curriculum: k12-week
@@ -16,11 +16,11 @@
   logo: Week-of-Code-Logo.png
   status: 'active'
 
-- title: Week of Code Summer Camp - Lexington (June B)
+- title: Week of Code Summer Camp - Lexington (June)
   headline: "Spend your summer making apps, games, and websites"
   age_range: 11-16
   curriculum: k12-week
-  date: June 5 - June 8
+  date: June 19 - June 22
   time: 1pm - 5pm
   early-bird-price: 550
   standard-price: 625
