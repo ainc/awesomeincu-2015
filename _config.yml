@@ -28,3 +28,7 @@ collections:
     tutorials:
         output: true
         permalink: /tutorials/:path/
+
+# Useful info, update here for sitewide usage
+
+students-taught: 1100

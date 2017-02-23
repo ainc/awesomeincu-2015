@@ -445,10 +445,13 @@ form {
   font: 14px Helvetica, Arial, sans-serif;
 }
 
-/* Custom styling for insightly form */
-
-.radio-label {
-  float: right;
+/* Fix padding for hash tag links, via https://css-tricks.com/hash-tag-links-padding/ */
+h2:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -60px; 
+  height: 60px; 
+  visibility: hidden; 
 }
 
 /* SYNTAX HIGHLIGHTING for embedded code blocks 
