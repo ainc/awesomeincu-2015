@@ -14,6 +14,8 @@ press_footer: true
 
 <!-- {% include special-announcement.html %} -->
 
+## LEARN TO CODE IN 12 WEEKS. LAND A JOB AS A WEB DEVELOPER.
+
 The Web Developer Bootcamp is a 12-week, full-time training program for aspiring software developers. We've worked with companies throughout the region to design a curriculum to prepare you to dive into a career in software development. This intense training program is designed to quickly take you from the basics of programming to a level of competency in building modern web applications. With over 500 hours of hands-on training, you'll gain experience while building 10+ projects using HTML, CSS, JavaScript, jQuery, AngularJS, AWS, GitHub, Agile, and more.
 
 <img alt="Learn to code and make websites and mobile apps" src="/img/Responsive_Web_Design.png" class="img-responsive">
@@ -22,7 +24,18 @@ Participants are expected to be fully invested in the training process for a 3 m
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/wuwgjpPsIDw" frameborder="0" allowfullscreen></iframe></div>
 
-## FAQs
+## What our alumni are saying
+
+<img src="/img/alumni/brett_fraley.jpg" width="200" class="img-responsive" style="float:left; padding-right: 20px; padding-top: 24px;">
+
+"Over the last two weeks I have used every little bit of experience from Bootcamp, in some way. And I was able to go from a paragraph description from a client to a deployment-ready web application involving teams, team captains, payment gateway APIs, logging and tracking admin, image uploads, signup invites, social media event link invites and shares - all in a new language and framework. All this practically all on my own.
+
+There's no way I would have been able to figure any of it out or do so well, without Bootcamp."
+
+<p style="clear: both;"><a href="https://www.linkedin.com/in/brett-fraley-446134125">Brett Fraley</a>, <a href="/alumni/bootcamp-f16/">Bootcamp F16</a> alumnus
+<br>Developer, Fusioncorp Design&trade; Creative Solutions</p>
+
+## FAQ
 
 ### What is a Developer Bootcamp?
 
