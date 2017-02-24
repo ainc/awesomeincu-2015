@@ -18,8 +18,33 @@ layout: page
         <div class="row marketing top-marketing">
           {% for student in site.data.alumni-bootcamp-f16 %}
           <div class="col-lg-4">
-              <img class="img-thumbnail" src="/img/alumni/{{ student.image }}" alt="{{ student.name }} - Awesome Inc U Web Developer Bootcamp" width="140" height="140">
-              <h3>{{ student.name }}</h3>
+
+
+              <!--if they have a job-->
+              {% if student.job == true %}
+                <!--insert ribbon onto image-->
+                    
+                      
+                      <img class="img-thumbnail" src="/img/alumni/{{ student.image }}" alt="{{ student.name }} - Awesome Inc U Web Developer Bootcamp" width="140" height="140">
+
+                      <h1 class="ribbon">
+                        <strong class="ribbon-content">APAX</strong>
+                      </h1>
+
+                      <h3>{{ student.name }}</h3>
+
+                      <div class="ribbon-wrapper-green">
+                        <div class="ribbon-green">APAX</div>
+                      </div>
+                    
+                               
+                <!--else-->
+              {% else %}
+                <img class="img-thumbnail" src="/img/alumni/{{ student.image }}" alt="{{ student.name }} - Awesome Inc U Web Developer Bootcamp" width="140" height="140">
+                <h3>{{ student.name }}</h3>
+              {% endif %}
+
+
             <div class="btn-group" role="group">
               <a class="btn btn-default" href="{{ student.website }}" role="button">Portfolio</a>
               <a class="btn btn-default" href="{{ student.linkedin }}" role="button">LinkedIn</a>

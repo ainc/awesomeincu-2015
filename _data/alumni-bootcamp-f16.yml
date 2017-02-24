@@ -3,6 +3,7 @@
   github: https://github.com/TravisBaumann/
   linkedin: https://www.linkedin.com/in/travis-baumann-a85684104
   image: travis_baumann.jpg
+  job: true
 
 - name: Thomas Cothran
   website: https://thomascothran.github.io/
@@ -15,12 +16,14 @@
   github: https://github.com/garyditsch
   linkedin: https://www.linkedin.com/in/garyditsch
   image: gary_ditsch.jpg
+  job: true
 
 - name: Brett Fraley
   website: https://bfraley.github.io/
   github: https://github.com/bFraley
   linkedin: https://www.linkedin.com/in/brett-fraley-446134125
   image: brett_fraley.jpg
+  job: true
 
 - name: Anders Friis
   website: https://andersfriis.github.io/
@@ -33,6 +36,7 @@
   github: https://github.com/billbunkum
   linkedin: https://www.linkedin.com/in/will-hurst-38064937
   image: william_hurst.jpg
+  job: true
 
 - name: Lavanya Manoharan
   website: https://lavanyamano.github.io/
@@ -45,6 +49,7 @@
   github: https://github.com/JasonMize/
   linkedin: https://www.linkedin.com/in/jasonemize
   image: jason_mize.jpg
+  job: true
 
 - name: Kelly Wright
   website: http://www.kellyinnovation.com/
