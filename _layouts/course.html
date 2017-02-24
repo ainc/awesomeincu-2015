@@ -9,7 +9,7 @@ layout: page
         <p>{{page.description}}</p>
           {% if page.dates %}
             {% for date in page.dates %}
-               <p><a class="btn btn-primary btn-lg" href={{date[1]}} role="button" > Register {{date[0]}} &raquo;</a></p>
+               <p><a class="btn btn-primary btn-lg" href={{date[1]}} role="button" > Register &raquo;</a></p>
             {% endfor %}
           {% else %}
             {% if page.registration %}
@@ -32,7 +32,7 @@ layout: page
         
           {% if page.dates %}
             {% for date in page.dates %}
-               <p><a class="btn btn-primary btn-lg center-block" href={{date[1]}} role="button" > Register {{date[0]}} &raquo;</a></p>
+               <p><a class="btn btn-primary btn-lg center-block" href={{date[1]}} role="button" > Register &raquo;</a></p>
             {% endfor %}
           {% else %}
             {% if page.registration %}
