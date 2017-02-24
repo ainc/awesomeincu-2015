@@ -528,58 +528,32 @@ form {
 
 
 /*ribbon adjustments per size*/ 
-
 .ribbon-wrapper-green{
   margin-right: 32%;
 }
 
-@media screen and (max-width: 1199px) {
+
+@media screen and (max-width: 1200px) {
     .ribbon-wrapper-green{
-      margin-right: 415px;
+      margin-right: 173px;
     }
 }
 
 @media screen and (max-width: 991px) {
     .ribbon-wrapper-green{
-      margin-right: 305px;
+      margin-right: 118px;
     }
 }
 
-@media screen and (max-width: 760px) {
-    .ribbon-wrapper-green{
-      margin-right: 302px;
-    }
-}
-
-@media screen and (max-width: 755px) {
-    .ribbon-wrapper-green{
-      margin-right: 302px;
-    }
-}
-
-@media screen and (max-width: 753px) {
-    .ribbon-wrapper-green{
-      margin-right: 300px;
-    }
-}
-
-@media screen and (max-width: 751px) {
-    .ribbon-wrapper-green{
-      margin-right: 299px;
-    }
-}
-
-@media screen and (max-width: 749px) {
-    .ribbon-wrapper-green{
-      margin-right: 297px;
-    }
-}
-
-@media screen and (max-width: 748px) {
+@media screen and (max-width: 767px) {
     .ribbon-wrapper-green{
       display: none;
     }
 }
+
+
+
+
 
 .ribbon-wrapper-green {
   width: 85px;
@@ -591,7 +565,7 @@ form {
 }
 
 .ribbon-green {
-  font: bold 15px Sans-Serif;
+  font: bold 11px Sans-Serif;
   color: #333;
   text-align: center;
   text-shadow: rgba(255,255,255,0.5) 0px 1px 0px;
@@ -638,7 +612,7 @@ form {
 
 /* above ribbon */
 
-@media screen and (min-width: 749px) {
+@media screen and (min-width: 767px) {
     .ribbon{
       display: none;
     }

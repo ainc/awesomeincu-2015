@@ -17,7 +17,7 @@ layout: page
         <!-- Four columns of text -->
         <div class="row marketing top-marketing">
           {% for student in site.data.alumni-bootcamp-f16 %}
-          <div class="col-lg-4">
+          <div class="col-lg-4 col-sm-6 col-xs-12">
 
 
               <!--if they have a job-->
@@ -25,16 +25,18 @@ layout: page
                 <!--insert ribbon onto image-->
                     
                       
+                      <h1 class="ribbon">
+                        <strong class="ribbon-content">{{ student.position }}</strong>
+                      </h1>
+                      
                       <img class="img-thumbnail" src="/img/alumni/{{ student.image }}" alt="{{ student.name }} - Awesome Inc U Web Developer Bootcamp" width="140" height="140">
 
-                      <h1 class="ribbon">
-                        <strong class="ribbon-content">APAX</strong>
-                      </h1>
+                      
 
                       <h3>{{ student.name }}</h3>
 
                       <div class="ribbon-wrapper-green">
-                        <div class="ribbon-green">APAX</div>
+                        <div class="ribbon-green">{{ student.position }}</div>
                       </div>
                     
                                
