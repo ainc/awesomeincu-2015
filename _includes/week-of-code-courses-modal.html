@@ -16,14 +16,17 @@
 					<li>Final project presentations at the end of the camp</li>
 				</ul>
 				<table class="table table-striped">
-				    <tr><th>Date/Time</th><th>Course</th><th>Price</th><th>Availability</th></tr>
+				    <tr><th>Date/Time</th><th>Course</th><th>Price</th><th>Early Bird</th><th>Availability</th></tr>
 				    
 					{% for course in site.data.course-list-eventbrite %}
 					{% if course.status == 'active' and course.curriculum == 'k12-week' %}
 					
-						<tr><td><a href="{{ course.url }}"><img src="/img/logos/{{ course.logo }} " alt="{{ course.title }}" width="40"></a>&nbsp;&nbsp;{{ course.date }}, {{ course.time }}</td><td><a href="{{ course.url }}">{{ course.title }}</a></td>
+						<tr><td><a href="{{ course.url }}"><img src="/img/codecamplogo.png" alt="{{ course.title }}" width="40"></a>&nbsp;&nbsp;{{ course.date }}, {{ course.time }}</td><td><a href="{{ course.url }}">{{ course.title }}</a></td>
 						<td>
-						{{ course.standard-price }} {% if course.scholarships %}(scholarships available){% endif %}</td>
+						<s>{{ course.standard-price }}</s> {% if course.scholarships %}(scholarships available){% endif %}</td>
+						<td>
+						{{ course.early-bird-price }}
+						</td>
 						<td><center><a class="btn btn-primary btn-large" href="{{ course.url }}" 
 						{% if course.url contains "eventbrite" %}
 						target="_blank">Register
