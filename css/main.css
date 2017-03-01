@@ -529,7 +529,8 @@ form {
 
 /*ribbon adjustments per size*/ 
 .ribbon-wrapper-green{
-  margin-right: 32%;
+  margin-top: 3px;
+  margin-right: 127px;
 }
 
 
@@ -539,9 +540,15 @@ form {
     }
 }
 
+@media screen and (max-width: 1199px) {
+    .ribbon-wrapper-green{
+      margin-right: 174px;
+    }
+}
+
 @media screen and (max-width: 991px) {
     .ribbon-wrapper-green{
-      margin-right: 118px;
+      margin-right: 120px;
     }
 }
 
