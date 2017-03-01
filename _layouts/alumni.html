@@ -17,9 +17,36 @@ layout: page
         <!-- Four columns of text -->
         <div class="row marketing top-marketing">
           {% for student in site.data.alumni-bootcamp-f16 %}
-          <div class="col-lg-4">
-              <img class="img-thumbnail" src="/img/alumni/{{ student.image }}" alt="{{ student.name }} - Awesome Inc U Web Developer Bootcamp" width="140" height="140">
-              <h3>{{ student.name }}</h3>
+          <div class="col-lg-4 col-sm-6 col-xs-12">
+
+
+              <!--if they have a job-->
+              {% if student.job == true %}
+                <!--insert ribbon onto image-->
+                    
+                      
+                      <h1 class="ribbon">
+                        <strong class="ribbon-content">{{ student.position }}</strong>
+                      </h1>
+                      
+                      <img class="img-thumbnail" src="/img/alumni/{{ student.image }}" alt="{{ student.name }} - Awesome Inc U Web Developer Bootcamp" width="140" height="140">
+
+                      
+
+                      <h3>{{ student.name }}</h3>
+
+                      <div class="ribbon-wrapper-green">
+                        <div class="ribbon-green">{{ student.position }}</div>
+                      </div>
+                    
+                               
+                <!--else-->
+              {% else %}
+                <img class="img-thumbnail" src="/img/alumni/{{ student.image }}" alt="{{ student.name }} - Awesome Inc U Web Developer Bootcamp" width="140" height="140">
+                <h3>{{ student.name }}</h3>
+              {% endif %}
+
+
             <div class="btn-group" role="group">
               <a class="btn btn-default" href="{{ student.website }}" role="button">Portfolio</a>
               <a class="btn btn-default" href="{{ student.linkedin }}" role="button">LinkedIn</a>
