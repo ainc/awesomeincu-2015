@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Week of Code
+title: Week of Code Summer Camp
 description: Awesome Inc U's Kids Coding Camp
 cover: /img/Awesome-Inc-Week-Of-Code.jpg
 applications: 
@@ -8,6 +8,8 @@ permalink: /weekofcode/
 dates:
   August (Lexington): https://www.eventbrite.com/e/week-of-code-summer-camp-august-lexington-tickets-21394811457
 ---
+
+{% include woc-buttons.html %}
 
 What if your child spent their summer learning to make apps instead of playing them? This camp for middle and high school students introduces the fundamentals of coding. Students will create websites, hardware projects, and video games all while having fun with our energetic team.
 
@@ -25,3 +27,10 @@ More than just coding - Week of Code boosts creativity, logical thinking skills 
 - Demo a final project at the end of the camp
 
 Want to see the course materials? Check out the [class notes](/notes/weekofcode/)!
+
+### Week of Code Dates
+
+- [June 5th - June 8th](https://www.eventbrite.com/e/week-of-code-summer-camp-june-lexington-tickets-32132513212)
+- [June 19th - June 22nd](https://www.eventbrite.com/e/week-of-code-summer-camp-june-lexington-tickets-32166551020)
+- [July 10th - July 13th](https://www.eventbrite.com/e/week-of-code-summer-camp-july-lexington-tickets-32167073583)
+- [Aug. 7th - Aug. 10th](https://www.eventbrite.com/e/week-of-code-summer-camp-august-lexington-tickets-32167133763)
