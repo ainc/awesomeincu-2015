@@ -12,7 +12,7 @@ permalink: /bootcamp/
 press_footer: true
 ---
 
-<!-- {% include special-announcement.html %} -->
+{% include special-announcement.html %}
 
 ## LEARN TO CODE IN 12 WEEKS. LAND A JOB AS A WEB DEVELOPER.
 
@@ -64,3 +64,5 @@ Our curriculum provides what we and our employer partners see as necessary skill
 There are two reasons. First, we want to hit the ground running on week one. Our students start with different prior experiences, so we want to make sure everyone is starting at (nearly) the same spot. And we want that spot to be somewhere beyond absolute zero. Our program is an intense 12 weeks, but without the prework, we couldn't fit in all that you'll need. Don't worry, Bootcamp week 1 will include a review of material you'll be covering on your own during Prework.
 
 Second, one of our Awesome Inc co-founders is a physician and an author. As such, Dr. Luke Murray has interviewed hundreds of medical students from across the country. These are people who have spent their whole lives focused on becoming doctors, starting with high school biology classes, volunteering to help sick kids, all the way through taking the MCAT and getting into medical school. Something odd that Luke noticed was this: many medical students never _tried being a doctor_ until it was too late. Maybe they didn't like seeing blood, or maybe they were no good at talking with patients. We like to get this out of the way early. Maybe you don't actually like programming, or maybe you're way better at graphic design or video production. Again, our program is not a good fit for everyone, so the Prework helps you to figure this out.
+
+{% include special-announcement.html %}
