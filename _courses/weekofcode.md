@@ -1,12 +1,11 @@
 ---
 layout: course
 title: Week of Code Summer Camp
-description: Awesome Inc U's Kids Coding Camp
+description: Kentucky's &#35;1 Summer Coding Camp
 cover: /img/Awesome-Inc-Week-Of-Code.jpg
 applications: 
 permalink: /weekofcode/
-dates:
-  August (Lexington): https://www.eventbrite.com/e/week-of-code-summer-camp-august-lexington-tickets-21394811457
+
 ---
 
 {% include woc-buttons.html %}
