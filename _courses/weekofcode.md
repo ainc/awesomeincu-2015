@@ -12,7 +12,7 @@ permalink: /weekofcode/
 
 What if your child spent their summer learning to make apps instead of playing them? This camp for middle and high school students introduces the fundamentals of coding. Students will create websites, hardware projects, and video games all while having fun with our energetic team.
 
-![Week of Code screenshots of app, game, website](/img/weekofcode_screenshots.png)
+<img alt="Week of Code screenshots of app, game, website" src="/img/weekofcode_screenshots.png" class="img-responsive">
 
 By the end of the week, each student will have built at least one web page, app, and video game using programming languages like HTML, CSS, JavaScript, and C#. The camp is kept small to ensure everyone gets focused attention and learns at their own pace.
 
