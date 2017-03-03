@@ -77,7 +77,7 @@ $mobile-width: $tablet-width - 1;
 	color: white;
 	border-color: $color_cardinal_approx;
 	border-radius: 6px;
-	font-size: 24px;
+	font-size: 18px;
 	padding: 2px 14px;
 	font-weight: 400;
 	margin-bottom: 20px;
@@ -153,7 +153,7 @@ $mobile-width: $tablet-width - 1;
 		}
 		@include mobile {
 			p {
-				font-size: 14px;
+				font-size: 11px;
 			}
 		}
 	}
