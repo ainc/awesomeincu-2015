@@ -45,7 +45,7 @@ Employers around the country are experiencing a shortage of well-qualified softw
 
 Our ideal applicants are professional men and women who are looking to transition into a career in software development. This program is not for everyone. Like all Awesome Inc initiatives, we've built this program with our [Core Values](http://www.awesomeinc.org/about/#core-values) in mind. CV #2 (Be Excellent) is a big part of this program. We expect that many of our candidates will have deep experience in a related field, such as graphic design, math/finance, or project management. Some applicants will have prior programming experience, maybe a class back in high school or college, but many will not.
 
-We expect than many of our applicants will be from Kentucky and surrounding states, such as Indiana, Ohio, Tennessee, and West Virginia. Since our 12-week program is full-time (8am - 5pm, five days per week), our candidates must be willing to sacrifice other commitments (such as outside employment) to focus on learning for that duration.
+We expect that many of our applicants will be from Kentucky and surrounding states, such as Indiana, Ohio, Tennessee, and West Virginia. Since our 12-week program is full-time (8am - 5pm, five days per week), our candidates must be willing to sacrifice other commitments (such as outside employment) to focus on learning for that duration.
 
 ### What is the cost of the Bootcamp?
 
