@@ -116,10 +116,10 @@ $mobile-width: $tablet-width - 1;
 	.panel-custom {
 		border: none;
 		background-color: $color_gray;
-		min-height: 350px;
+		/*min-height: 350px;*/
 		position: relative;
 		@include mobile {
-			min-height: 320px;
+			min-height: 300px;
 		}
 		.panel-heading {
 			background-color: $color_cardinal_approx;
@@ -133,13 +133,10 @@ $mobile-width: $tablet-width - 1;
 			margin-bottom: 25px;
 		}
 		div.panel-body {
-			margin: 30px 30px 10px 30px;
 			text-align: justify;
-			padding: 0;
 		}
 		@include mobile {
 			div.panel-body {
-				margin: 15px;
 				height: 175px;
 			}
 		}
@@ -153,15 +150,23 @@ $mobile-width: $tablet-width - 1;
 		}
 		@include mobile {
 			p {
-				font-size: 11px;
+				font-size: 12px;
 			}
 		}
 	}
-	.panel > a.btn {
+	.panel-footer {
+		background-color: $color_gray;
+		border-top: none;
+	}
+	.panel-footer > a.btn {
 		width: 30%;
-		position: absolute;
-		bottom: 0;
-		right: 35%;
+		@include mobile {
+			width:50%;
+		}
+	}
+	.panel-body {
+		display: flex;
+   		flex-grow:1;
 	}
 	@include mobile {
 		.panel > a.btn {
