@@ -116,7 +116,7 @@ $mobile-width: $tablet-width - 1;
 	.panel-custom {
 		border: none;
 		background-color: $color_gray;
-		min-height: 360px;
+		min-height: 350px;
 		position: relative;
 		@include mobile {
 			min-height: 320px;
@@ -161,7 +161,7 @@ $mobile-width: $tablet-width - 1;
 		width: 30%;
 		position: absolute;
 		bottom: 0;
-		right: 190px;
+		right: 35%;
 	}
 	@include mobile {
 		.panel > a.btn {
