@@ -18,6 +18,8 @@ By the end of the week, each student will have built at least one web page, app,
 
 More than just coding - Week of Code boosts creativity, logical thinking skills and brain power! In addition to programming time inside, campers will interact with our upbeat team for unplugged activities and games. Week of Code is a blend of computer programming, problem-solving, and teamwork!
 
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/daWr1oOWd-Y" frameborder="0" allowfullscreen></iframe></div>
+
 ### Outcomes
 
 - Develop a Mobile App with Android
