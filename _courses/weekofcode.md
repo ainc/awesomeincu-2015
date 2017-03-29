@@ -10,7 +10,7 @@ permalink: /weekofcode/
 
 {% include woc-buttons.html %}
 
-What if your child spent their summer learning to make apps instead of playing them? This camp for middle and high school students introduces the fundamentals of coding. Students will create websites, hardware projects, and video games all while having fun with our energetic team.
+What if your child spent their summer learning to make apps instead of playing them? This camp, for 10-15-year-old students, introduces the fundamentals of coding. Students will create websites, hardware projects, and video games all while having fun with our energetic team.
 
 <img alt="Week of Code screenshots of app, game, website" src="/img/weekofcode_screenshots.png" class="img-responsive">
 
