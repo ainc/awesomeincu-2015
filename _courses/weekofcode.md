@@ -7,6 +7,8 @@ applications:
 permalink: /weekofcode/
 ---
 <div>
+	
+	### Unsure of your summer plans? Make changes with no fees up to 30 days before camp.
 	<h2 style="padding-bottom:10px;">Unsure of your summer plans? Make changes with no fees up to 30 days before camp.</h2>
 </div>
 {% include woc-buttons.html %}
