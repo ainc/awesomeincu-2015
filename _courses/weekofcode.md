@@ -15,7 +15,10 @@ What if your child spent their summer learning to create video games instead of 
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/daWr1oOWd-Y" frameborder="0" allowfullscreen></iframe></div>
 
+
 ### Unsure of your summer plans? Make changes with no fees up to 30 days before camp.
+
+
 {% include woc-buttons.html %}
 
 In addition to programming time inside, campers will interact with our upbeat team for unplugged activities and games. More than just coding - Week of Code boosts creativity, logical thinking skills, and brain power. The camp is kept small to ensure everyone gets focused attention and learns at their own pace.
@@ -29,5 +32,5 @@ In addition to programming time inside, campers will interact with our upbeat te
 - Build a Video Game with Unity 3D / C#
 - Demo a final project at the end of the camp
 
-### Register for Week of Code Summer Camp Now, Early Bird Price Ends Soon!
+### Register now and save $100, early bird price ends soon!
 {% include woc-buttons.html %}
