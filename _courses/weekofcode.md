@@ -10,7 +10,7 @@ permalink: /weekofcode/
 
 {% include woc-buttons.html %}
 
-What if your child spent their summer learning to create video games instead of playing them? This camp, for 10-15-year-olds, introduces the fundamentals of coding while teaching students how to become responsible digital citizens. Campers will create websites, apps, and video games all while having fun with our energetic team.
+What if your child spent their summer learning to create video games instead of playing them? This camp, for 10-15-year-olds, introduces the fundamentals of coding while teaching students how to become responsible digital citizens. Campers will design websites, apps, and video games all while having fun with our energetic team.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/daWr1oOWd-Y" frameborder="0" allowfullscreen></iframe></div>
 
@@ -30,8 +30,4 @@ More than just coding - Week of Code boosts creativity, logical thinking skills,
 - Demo a final project at the end of the camp
 
 ### Register for Week of Code Summer Camp - Early-Bird Price Ends Soon! 
-
-- [June 5th - June 8th](https://www.eventbrite.com/e/week-of-code-summer-camp-june-lexington-tickets-32132513212)
-- [June 19th - June 22nd](https://www.eventbrite.com/e/week-of-code-summer-camp-june-lexington-tickets-32166551020)
-- [July 10th - July 13th](https://www.eventbrite.com/e/week-of-code-summer-camp-july-lexington-tickets-32167073583)
-- [Aug. 7th - Aug. 10th](https://www.eventbrite.com/e/week-of-code-summer-camp-august-lexington-tickets-32167133763)
+{% include woc-buttons.html %}
