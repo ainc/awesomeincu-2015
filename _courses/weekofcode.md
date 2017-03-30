@@ -7,7 +7,7 @@ applications:
 permalink: /weekofcode/
 ---
 <div>
-	<h2 style="padding-bottom:10px;">Week of Code</h2>
+	<h2 style="padding-bottom:10px;">Register now and save $100, early bird price ends soon!</h2>
 </div>
 {% include woc-buttons.html %}
 
