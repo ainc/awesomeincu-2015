@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Week of Code Summer Camp
-description: Kentucky's &#35;1 Summer Coding Camp
+description: Lexington's &#35;1 Summer Coding Camp
 cover: /img/Awesome-Inc-Week-Of-Code.jpg
 applications: 
 permalink: /weekofcode/
@@ -10,13 +10,13 @@ permalink: /weekofcode/
 
 {% include woc-buttons.html %}
 
-What if your child spent their summer learning to make video games instead of playing them? This camp, for 10-15-year-old students, introduces the fundamentals of coding. Students will create websites, apps, and video games all while having fun with our energetic team.
+What if your child spent their summer learning to create video games instead of playing them? This camp, for 10-15-year-olds, introduces the fundamentals of coding while teaching students how to become responsible digital citizens. Campers will create websites, apps, and video games all while having fun with our energetic team.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/daWr1oOWd-Y" frameborder="0" allowfullscreen></iframe></div>
 
 By the end of the week, each student will have built at least one web page, app, and video game using programming languages like HTML, CSS, JavaScript, and C#. The camp is kept small to ensure everyone gets focused attention and learns at their own pace.
 
-More than just coding - Week of Code boosts creativity, logical thinking skills and brain power! In addition to programming time inside, campers will interact with our upbeat team for unplugged activities and games. Week of Code is a blend of computer programming, problem-solving, and teamwork!
+More than just coding - Week of Code boosts creativity, logical thinking skills, and brain power! In addition to programming time inside, campers will interact with our upbeat team for unplugged activities and games. Week of Code is a blend of computer programming, problem-solving, and teamwork!
 
 <img alt="Week of Code screenshots of app, game, website" src="/img/weekofcode_screenshots.png" class="img-responsive">
 
@@ -27,9 +27,7 @@ More than just coding - Week of Code boosts creativity, logical thinking skills 
 - Build a Video Game with Unity 3D / C#
 - Demo a final project at the end of the camp
 
-Want to see the course materials? Check out the [class notes](/notes/weekofcode/)!
-
-### Week of Code Dates
+### Register for Week of Code Summer Camp - Early-Bird Price Ends Soon! 
 
 - [June 5th - June 8th](https://www.eventbrite.com/e/week-of-code-summer-camp-june-lexington-tickets-32132513212)
 - [June 19th - June 22nd](https://www.eventbrite.com/e/week-of-code-summer-camp-june-lexington-tickets-32166551020)
