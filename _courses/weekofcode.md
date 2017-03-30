@@ -6,6 +6,9 @@ cover: /img/Awesome-Inc-Week-Of-Code.jpg
 applications: 
 permalink: /weekofcode/
 ---
+<div>
+	<h2 style="padding-bottom:10px;">Register Week of Code</h2>
+</div>
 {% include woc-buttons.html %}
 
 What if your child spent their summer learning to create video games instead of playing them? This camp, for 10-15-year-olds, introduces the fundamentals of coding while teaching students how to become responsible digital citizens. Campers will design websites, apps, and video games all while having fun with our energetic team.
