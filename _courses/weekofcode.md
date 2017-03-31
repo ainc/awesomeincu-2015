@@ -23,7 +23,7 @@ What if your child spent their summer learning to create video games instead of 
 
 In addition to programming time inside, campers will interact with our upbeat team for unplugged activities and games. More than just coding - Week of Code boosts creativity, logical thinking skills, and brain power. The camp is kept small to ensure everyone gets focused attention and learns at their own pace.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/awesomeinc/28256493426/in/album-72157670273711732/" title="IMG_9300"><img src="https://c1.staticflickr.com/9/8629/28256493426_b84442d7fa_b.jpg" style="max-width:100%;" alt="IMG_9300"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c1.staticflickr.com/9/8629/28256493426_b84442d7fa_b.jpg" style="max-width:100%;" alt="IMG_9300">
 
 ### Outcomes
 
