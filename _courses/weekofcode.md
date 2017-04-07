@@ -13,7 +13,7 @@ permalink: /weekofcode/
 
 Every parent today wants their kids to learn how to interact with technology in a healthy way, make friends, and be prepared for a 21st-century world, including getting into college and finding a job they love and at which they will succeed. Week of Code Summer Camp does all of that. 
 
-### Summer Fun Meets Real-World Skills
+### Prepare Your Child for a 21st Century World
 
 At Week of Code, you learn by doing - it's hands-on, at your pace. You'll design and develop your very own website, mobile app, and video game in one week. Work with industry-standard hardware and software, complete a final project of your choice, build a portfolio, and bring your new tech knowledge and skills into the real world. 
 
