@@ -11,6 +11,8 @@ permalink: /weekofcode/
 </div>
 {% include woc-buttons.html %}
 
+Every parent today wants their kids to learn how to interact with technology in a healthy way, make friends, and be prepared for a 21st-century world, including getting into college and finding a job they love and at which they will succeed. Week of Code Summer Camp does all that. 
+
 What if your child spent their summer learning to create video games instead of playing them? This camp, for 10-15-year-olds, introduces the fundamentals of coding while teaching students how to become responsible digital citizens. Campers will learn how to design their own website, app, and video game in one week. 
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/daWr1oOWd-Y" frameborder="0" allowfullscreen></iframe></div>
