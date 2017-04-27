@@ -14,7 +14,7 @@ press_footer: true
 
 <!-- {% include special-announcement.html %} -->
 
-The Web Developer Bootcamp is a 12-week, full-time training program for aspiring web developers. We've worked with companies throughout the region to design a curriculum to prepare you to dive into a career in web development. This intense training program is designed to quickly take you from the basics of programming to a level of competency in building modern web applications. With over 500 hours of hands-on training, you'll gain experience while building 10+ projects using HTML, CSS, JavaScript, jQuery, AngularJS, AWS, GitHub, Agile, and more.
+The Web Developer Bootcamp is a 12 week, full-time training program for aspiring web developers. We've worked with companies throughout the region to design a curriculum to prepare you to dive into a career in web development. This intense training program is designed to quickly take you from the basics of programming to a level of competency in building modern web applications. With over 500 hours of hands-on training, you'll gain experience while building 10+ projects using HTML, CSS, JavaScript, jQuery, AngularJS, AWS, GitHub, Agile, and more.
 
 <img alt="Learn to code and make websites and mobile apps" src="/img/Responsive_Web_Design.png" class="img-responsive">
 
