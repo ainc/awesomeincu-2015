@@ -4,7 +4,7 @@
   linkedin: https://www.linkedin.com/in/travis-baumann-a85684104
   image: travis_baumann.jpg
   job: true
-  position: Cirrusmio
+  position: CirrusMio
 
 - name: Thomas Cothran
   website: https://thomascothran.github.io/
@@ -28,13 +28,15 @@
   linkedin: https://www.linkedin.com/in/brett-fraley-446134125
   image: brett_fraley.jpg
   job: true
-  position: Fusion Corp
+  position: Fusioncorp
 
 - name: Anders Friis
   website: https://andersfriis.github.io/
   github: https://github.com/AndersFriis
   linkedin: https://www.linkedin.com/in/anders-friis-1b815134
   image: anders_friis.jpg
+  job: true
+  position: Inet-Pub
 
 - name: William Hurst
   website: https://billbunkum.github.io/
@@ -47,6 +49,8 @@
   github: https://github.com/LavanyaMano/
   linkedin: https://www.linkedin.com/in/lavanya-manoharan-269a7b17
   image: lavanya_manoharan.jpg
+  job: true
+  position: HTRI
 
 - name: Jason Mize
   website: http://www.jasonmize.com/
