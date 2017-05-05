@@ -6,9 +6,7 @@ cover: /img/Awesome-Inc-Week-Of-Code.jpg
 applications: 
 permalink: /weekofcode/
 ---
-<div>
-	<h2 style="padding-bottom:10px;">Save $100 on Camp Today, early bird price ends soon</h2>
-</div>
+
 {% include woc-buttons.html %}
 
 Every parent today wants their kids to learn how to interact with technology in a healthy way, make friends, and be prepared for a 21st-century world, including getting into college and finding a job they love and at which they will succeed. Week of Code Summer Camp does all of that. 
@@ -37,5 +35,4 @@ In addition to programming time inside, campers will interact with our upbeat te
 - Build skills that can be used in college and beyond
 - Demo a final project at the end of the camp
 
-### Register now and save $100, early bird price ends soon!
 {% include woc-buttons.html %}
