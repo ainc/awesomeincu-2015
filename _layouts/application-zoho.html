@@ -8,8 +8,8 @@ layout: page
         
         <div class="row">
           <div class="col-md-10 col-md-offset-1" >
-            <h2>Awesome Inc {{ page.title }} Application</h2>
-            <p>This is the application for <a href="{{page.course}}">Awesome Inc {{ page.title }}</a>.</p>
+            <h1>{{ page.title }}</h1>
+            <p>This is the application for <a href="{{page.course}}">Awesome Inc U {{ page.title | remove: ' Application' }}</a>.</p>
             {{content}}
           </div>
         </div>
