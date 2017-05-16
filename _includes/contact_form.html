@@ -1,7 +1,7 @@
 <!-- Note :
-   - You can modify the font style and form style to suit your website. 
-   - Code lines with comments “Do not remove this code”  are required for the form to work properly, make sure that you do not remove these lines of code. 
-   - The Mandatory check script can modified as to suit your business needs. 
+   - You can modify the font style and form style to suit your website.
+   - Code lines with comments “Do not remove this code”  are required for the form to work properly, make sure that you do not remove these lines of code.
+   - The Mandatory check script can modified as to suit your business needs.
    - It is important that you test the modified form before going live.-->
 <div id='crmWebToEntityForm'>
    <META HTTP-EQUIV ='content-type' CONTENT='text/html;charset=UTF-8'>
@@ -13,7 +13,7 @@
 	<input type='text' style='display:none;' name='xmIwtLD' value='36de0141405c9ef2e1f0f24b9f65b31775ec52b6d4bbb4ff439dbb70ec59f1a7'/>
 	<input type='text' style='display:none;'  name='actionType' value='TGVhZHM='/>
 
-	<input type='text' style='display:none;' name='returnURL' value='http&#x3a;&#x2f;&#x2f;awesomeincu.com' /> 
+	<input type='text' style='display:none;' name='returnURL' value='http&#x3a;&#x2f;&#x2f;awesomeincu.com' />
 	 <!-- Do not remove this code. -->
         <legend>Want to learn more?</legend>
         <div class="form-group">
@@ -33,6 +33,12 @@
 
         <div class="form-group">
         	<textarea name='LEADCF3' placeholder="Question or Comment" maxlength='1000' class="form-control input-lg"></textarea>
+        </div>
+
+        <!-- Remove possible spam from bots
+             For more info refer to https://formspree.io/ -->
+        <div class="form-group">
+          <input type="text" name="_gotcha" style="display:none" />
         </div>
 
         <div class="form-group">
@@ -74,7 +80,7 @@
 
         <input type="hidden" name="_subject" value="Contact Us form submission">
         <input type="hidden" name="_next" value="//www.awesomeincu.com/thanks/">
-        <button type="submit" class="btn btn-default">Submit</button>  
+        <button type="submit" class="btn btn-default">Submit</button>
     </form>
 
     <script>
@@ -89,17 +95,17 @@
 		  if(fieldObj) {
 			if (((fieldObj.value).replace(/^\s+|\s+$/g, '')).length==0) {
 			 if(fieldObj.type =='file')
-				{ 
-				 alert('Please select a file to upload'); 
-				 fieldObj.focus(); 
+				{
+				 alert('Please select a file to upload');
+				 fieldObj.focus();
 				 return false;
-				} 
-			alert(fldLangVal[i] +' cannot be empty'); 
+				}
+			alert(fldLangVal[i] +' cannot be empty');
    	   	  	  fieldObj.focus();
    	   	  	  return false;
 			}  else if(fieldObj.nodeName=='SELECT') {
   	   	   	 if(fieldObj.options[fieldObj.selectedIndex].value=='-None-') {
-				alert(fldLangVal[i] +' cannot be none'); 
+				alert(fldLangVal[i] +' cannot be none');
 				fieldObj.focus();
 				return false;
 			   }
@@ -108,8 +114,8 @@
 				alert('Please accept  '+fldLangVal[i]);
 				fieldObj.focus();
 				return false;
-			   } 
-			 } 
+			   }
+			 }
 			 try {
 			     if(fieldObj.name == 'Last Name') {
 				name = fieldObj.value;
@@ -118,7 +124,7 @@
 		    }
 		}
 	     }
-	   
+
 </script>
 
 </div>
