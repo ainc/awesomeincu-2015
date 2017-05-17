@@ -49,15 +49,24 @@ We expect that many of our applicants will be from Kentucky and surrounding stat
 
 ### What is the cost of the Bootcamp?
 
-Tuition for the Bootcamp is $11,500. Financing and flexible payment plans are available. If the only thing keeping you from participating in the program is finances, please [contact us](/contact/) and we'll do our best to work with you to find a solution.
+Tuition for the Bootcamp is $11,500. Financing and flexible payment plans are available. Once accepted, a $1000 deposit is due to confirm your spot in the program. If the only thing keeping you from participating in the program is finances, please [contact us](/contact/) and we'll do our best to work with you to find a solution.
 
 ### Are scholarships available?
 
-Yes. In addition to combating the developer shortage, APAX Software and Awesome Inc U have joined forces to tackle diversity issues in the tech industry by offering scholarships to women, minorities, and veterans. Please [contact us](/contact/) for more information.
+Yes. Through employer partners such as [APAX Software](http://www.apaxsoftware.com), partial scholarships are available. Once you've applied for the Bootcamp, please [fill out the scholarship application](/contact/) for more information.
+
+### When is the next class?
+
+Our next Bootcamp cohort (Fall 2017) has classes from Monday, September 18th - Friday, December 7th. There is a free [informational lunch and learn session](https://www.eventbrite.com/e/become-a-web-developer-in-12-weeks-guaranteed-job-placement-lunch-learn-may-31st-1200-pm-tickets-33868736302) on Wednesday, May 31st for prospective students. The application deadline for the F17 cohort is Friday, July 14th.
 
 ### What will I learn?
 
-Our curriculum provides what we and our employer partners see as necessary skills for a junior-level software developer. First, we'll help you learn how to learn (seriously, there are some lifehacks you'll wish you had during college chemistry class). Then we will start with programming and computer science basics, dive into the building blocks of web pages (HTML, CSS, JS), then get into the server side of web applications (databases, SQL, Python/Node.js/Ruby, frameworks, AWS), all with plenty of exposure to modern development systems and tools (Git, GitHub, Agile, TDD, UI/UX design). Through all of this, our focus is on making real, working software projects. We can print off a certificate for you at the end if you're the sentimental type, but this experience is really about making things, working with a team, building your project portfolio, and networking with the local developers and companies who we hope will be your future co-workers and employers.
+Our curriculum provides what we and our employer partners see as necessary skills for a junior-level software developer. First, we'll help you learn how to learn (seriously, there are some lifehacks you'll wish you had during college chemistry class). Then we will start with programming and computer science basics, dive into the building blocks of web pages (HTML, CSS, JS), then get into the server side of web applications (databases, SQL, Python/Node.js/Ruby/PHP, web frameworks, AWS), all with plenty of exposure to modern development systems and tools (Git, GitHub, Agile, TDD, UI/UX design). Through all of this, our focus is on making real, working software projects. We can print off a certificate for you at the end if you're the sentimental type, but this experience is really about making things, working with a team, building your project portfolio, and networking with the local developers and companies who we hope will be your future co-workers and employers.
+
+As software development is a rapidly-changing field, we update some our specific technology offerings for each cohort. A few past offerings:
+
+- Summer 2017: PHP, Laravel, AngularJS (1.5x)
+- [Fall 2016](/alumni/bootcamp-f16/) Python, Flask, Django, AngularJS (1.5x)
 
 ### Why do you require prework before the bootcamp?
 
