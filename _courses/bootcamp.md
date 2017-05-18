@@ -79,7 +79,7 @@ There's no way I would have been able to figure any of it out or do so well, wit
         </div>
         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
           <div class="panel-body">
-            <p>Tuition for the Bootcamp is $11,500. Financing and flexible payment plans are available. If the only thing keeping you from participating in the program is finances, please <a href="/contact/">contact us</a> and we'll do our best to work with you to find a solution.</p>
+            <p>Tuition for the Bootcamp is $11,500. Financing and flexible payment plans are available. Once accepted, a $1000 deposit is due to confirm your spot in the program. If the only thing keeping you from participating in the program is finances, please <a href="/contact/">contact us</a> and we'll do our best to work with you to find a solution.</p>
           </div>
         </div>
       </div>
@@ -93,7 +93,7 @@ There's no way I would have been able to figure any of it out or do so well, wit
         </div>
         <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
           <div class="panel-body">
-            <p>Yes. In addition to combating the developer shortage, APAX Software and Awesome Inc U have joined forces to tackle diversity issues in the tech industry by offering scholarships to women, minorities, and veterans. Please <a href="/contact/">contact us</a> for more information.</p>
+            <p>Yes. Through employer partners such as <a href="http://www.apaxsoftware.com">APAX Software</a>, partial scholarships are available. Once you've applied for the Bootcamp, please <a href="/contact/">fill out the scholarship application</a> for more information.</p>
           </div>
         </div>
       </div>
@@ -101,13 +101,13 @@ There's no way I would have been able to figure any of it out or do so well, wit
         <div class="panel-heading" role="tab" id="headingFive">
           <h4 class="panel-title">
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-              <h3>What will I learn?</h3>
+              <h3>When is the next class?</h3>
             </a>
           </h4>
         </div>
         <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
           <div class="panel-body">
-            <p>Our curriculum provides what we and our employer partners see as necessary skills for a junior-level software developer. First, we'll help you learn how to learn (seriously, there are some lifehacks you'll wish you had during college chemistry class). Then we will start with programming and computer science basics, dive into the building blocks of web pages (HTML, CSS, JS), then get into the server side of web applications (databases, SQL, Python/Node.js/Ruby, frameworks, AWS), all with plenty of exposure to modern development systems and tools (Git, GitHub, Agile, TDD, UI/UX design). Through all of this, our focus is on making real, working software projects. We can print off a certificate for you at the end if you're the sentimental type, but this experience is really about making things, working with a team, building your project portfolio, and networking with the local developers and companies who we hope will be your future co-workers and employers.</p>
+            <p>Our next Bootcamp cohort (Fall 2017) has classes from Monday, September 18th - Friday, December 7th. There is a free <a href="https://www.eventbrite.com/e/become-a-web-developer-in-12-weeks-guaranteed-job-placement-lunch-learn-may-31st-1200-pm-tickets-33868736302">informational lunch and learn session</a> on Wednesday, May 31st for prospective students. The application deadline for the F17 cohort is Friday, July 14th.</p>
           </div>
         </div>
       </div>
@@ -115,11 +115,30 @@ There's no way I would have been able to figure any of it out or do so well, wit
         <div class="panel-heading" role="tab" id="headingSix">
           <h4 class="panel-title">
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-              <h3>Why do you require prework before the bootcamp?</h3>
+              <h3>What will I learn?</h3>
             </a>
           </h4>
         </div>
         <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+          <div class="panel-body">
+            <p>Our curriculum provides what we and our employer partners see as necessary skills for a junior-level software developer. First, we'll help you learn how to learn (seriously, there are some lifehacks you'll wish you had during college chemistry class). Then we will start with programming and computer science basics, dive into the building blocks of web pages (HTML, CSS, JS), then get into the server side of web applications (databases, SQL, Python/Node.js/Ruby/PHP, web frameworks, AWS), all with plenty of exposure to modern development systems and tools (Git, GitHub, Agile, TDD, UI/UX design). Through all of this, our focus is on making real, working software projects. We can print off a certificate for you at the end if you're the sentimental type, but this experience is really about making things, working with a team, building your project portfolio, and networking with the local developers and companies who we hope will be your future co-workers and employers.<br><br>
+
+            As software development is a rapidly-changing field, we update some our specific technology offerings for each cohort. A few past offerings:<br><br>
+
+            Summer 2017: PHP, Laravel, AngularJS (1.5x)<br>
+            <a href="/alumni/bootcamp-f16/">Fall 2016</a> Python, Flask, Django, AngularJS (1.5x)</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default"> <!-- QUESTION 7 -->
+        <div class="panel-heading" role="tab" id="headingSeven">
+          <h4 class="panel-title">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+              <h3>Why do you require prework before the bootcamp?</h3>
+            </a>
+          </h4>
+        </div>
+        <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
           <div class="panel-body">
             <p>There are two reasons. First, we want to hit the ground running on week one. Our students start with different prior experiences, so we want to make sure everyone is starting at (nearly) the same spot. And we want that spot to be somewhere beyond absolute zero. Our program is an intense 12 weeks, but without the prework, we couldn't fit in all that you'll need. Don't worry, Bootcamp week 1 will include a review of material you'll be covering on your own during Prework.<br><br>
 
