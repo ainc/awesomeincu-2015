@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learn The Basics Of Jekyll and GitHub
+title: Learn The Basics of Jekyll
 ---
 
 
