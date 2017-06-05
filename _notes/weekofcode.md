@@ -28,19 +28,19 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 ## Schedule Summary
 
-[Mon/Pre-work](#monday) - Intro to programming concepts with Angry Birds, Codecademy, Scratch, JavaScript
+[Sun/Pre-work](#prework-day) - Intro to programming concepts with Angry Birds, Codecademy, Scratch, JavaScript
 
-[Tues](#tuesday) - Making Mobile Apps with MIT App Inventor
+[Mon](#mobile-day) - Making Mobile Apps with MIT App Inventor
 
-[Wed](#wednesday) - Making Websites with HTML, CSS, and JavaScript
+[Tues](#web-day) - Making Websites with HTML, CSS, and JavaScript
 
-[Thurs](#thursday) - Making Video Games with Unity 3D
+[Wed](#game-day) - Making Video Games with Unity 3D
 
-[Fri](#friday) - Project day: go in-depth on a track (Web, Mobile, Game) of your choice
+[Thurs](#project-day) - Project day: go in-depth on a track (Web, Mobile, Game) of your choice
 
 ## Detailed Schedule
 
-<h3 id="monday">Monday (optional setup / prework session)</h3>
+<h3 id="prework-day">Sunday (optional setup / pre-work session)</h3>
 
 #### 1pm
 
@@ -85,7 +85,7 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 * * *
 
-<h3 id="tuesday">Tuesday - Mobile Apps</h3>
+<h3 id="mobile-day">Monday - Mobile Apps</h3>
 
 ![MIT App Inventor screenshot](/img/notes/weekofcode-appinventor.png)
 
@@ -133,7 +133,6 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 * [Whack-a-Mole game](http://appinventor.mit.edu/explore/ai2/molemash.html)
     * Get a [Meow noise](http://appinventor.mit.edu/explore/sites/all/files/tutorials/helloPurr/meow.mp3) from [HelloPurr](http://appinventor.mit.edu/explore/content/hellopurr.html)
-    * Get a [Pikachu sprite](http://vignette1.wikia.nocookie.net/pokemon/images/f/fc/025Pikachu_OS_anime_5.png) and [Pikachu Sound](/files/weekofcode/pika.wav)
 * My Favorite Team
     * [Sportsball Fanatic sample app](http://ai2.appinventor.mit.edu/?galleryId=4884510797201408)
     * Launcher with 3 buttons (Catch game, Profile, Website)
@@ -161,7 +160,7 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 * * *
 
-<h3 id="wednesday">Wednesday - Websites</h3>
+<h3 id="web-day">Tuesday - Websites</h3>
 
 ![Website about animals](/img/notes/weekofcode-animal-website.png)
 
@@ -240,7 +239,7 @@ If times remains:
 
 * * *
 
-<h3 id="thursday">Thursday - Video Games</h3>
+<h3 id="game-day">Wednesday - Video Games</h3>
 
 ![Making Minecraft with Unity 3D](/img/notes/weekofcode-unity-minecraft.png)
 
@@ -277,7 +276,7 @@ If times remains:
 
 * * *
 
-<h3 id="friday">Friday - Project Day</h3>
+<h3 id="project-day">Thursday - Project Day</h3>
 
 ![Week of Code projects](/img/notes/weekofcode-screenshots.png)
 
