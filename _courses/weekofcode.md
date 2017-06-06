@@ -40,10 +40,10 @@ In addition to programming time inside, campers will interact with our upbeat te
 ### <b> FAQs
 
 ### Are scholarships available for this course?
-Yes, a very limited number of partial scholarships are available. You can apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9t_ECAVqVVHWNalx-hiUiOeRk7hk94uZQEGBu7Vt48Uu5PQ/viewform">here.</a>
+Yes, a very limited number of partial scholarships are available. You can apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9t_ECAVqVVHWNalx-hiUiOeRk7hk94uZQEGBu7Vt48Uu5PQ/viewform" target="_blank">here.</a>
 
 ### Where is the best place to park near Awesome Inc?
-Free Parking is available for drop-off/pickup. The best location is the parking lot to the east side of our building, in spaces 1-19. See <a href="https://www.awesomeinc.org/parking/">parking map</a> for more details.
+Free Parking is available for drop-off/pickup. The best location is the parking lot to the east side of our building, in spaces 1-19. See <a href="https://www.awesomeinc.org/parking/" target="_blank">parking map</a> for more details.
 
 ### Do students need their own computer for this course?
-Yes, each student will need to provide his/her own laptop for the course. Either Microsoft Windows-based PC's, or Apple Mac OS X computers will work, but iPads and Chromebooks will not work for this course. We recommend a laptop made within the past 3-4 years. Computers should be free from viruses/malware. We have a limited number of <a href="https://squareup.com/market/awesome-inc/laptop-rental">rental laptops available for $25/day.</a>
+Yes, each student will need to provide his/her own laptop for the course. Either Microsoft Windows-based PC's, or Apple Mac OS X computers will work, but iPads and Chromebooks will not work for this course. We recommend a laptop made within the past 3-4 years. Computers should be free from viruses/malware. We have a limited number of <a href="https://squareup.com/market/awesome-inc/laptop-rental" target="_blank">rental laptops available for $25/day.</a>
