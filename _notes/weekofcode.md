@@ -20,9 +20,9 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 ### Prerequisites
 
-* The ability to type text on a computer (e.g. write an email, edit a Word document)
-* Access to a computer with OSX/Windows (must have permission to install programs, including necessary passwords)
-* Software: [Google Chrome](http://www.google.com/chrome/), [Unity - personal edition](https://store.unity.com/download?ref=personal), [MIT App Inventor](http://appinventor.mit.edu/explore/ai2/setup-emulator.html), [FileZilla](https://filezilla-project.org/download.php?type=client), and [Sublime Text](http://www.sublimetext.com/3)
+* The ability to type text on a computer (e.g. write an email, edit a Word document). We recommend [20 WPM](https://10fastfingers.com/typing-test/english) or faster.
+* Access to a computer with macOS/Windows (must have permission to install programs, including necessary passwords)
+* Software: [Google Chrome](http://www.google.com/chrome/), [Unity - personal edition](https://store.unity.com/download?ref=personal), [MIT App Inventor](http://appinventor.mit.edu/explore/ai2/setup-emulator.html), [FileZilla](https://filezilla-project.org/download.php?show_all=1), and [Sublime Text](http://www.sublimetext.com/3)
 * Google Account (Gmail, Google Drive, etc) - used to sign into MIT App Inventor
 * Experience using a variety of websites, games, and apps
 
@@ -61,7 +61,7 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 * CS Topics - [slides](https://docs.google.com/presentation/d/19xKp0xGAZlptzgbX612Zg3Q9kh-zLFhbGxg63VOZurk/edit)
 * JavaScript basics
     * [Codecademy Hour of Code](http://www.codecademy.com/hour-of-code/)
-    * [JSBin](http://jsbin.com/) or [JSFiddle](http://jsfiddle.net/)
+    * [CodePen](https://codepen.io/) or [JSFiddle](https://jsfiddle.net/)
 
 #### 3pm
 
@@ -210,11 +210,11 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 * Deployment with FTP
     * FileZilla
-        * Host: [projects.awesomeincu.com](ftp://projects.awesomeincu.com/)
-        * Protocol: FTP
-        * Encryption: Use explicit FTP over TLS if available
-        * Logon Type: Anonymous
-        * After login, go to [`/woc/` directory](ftp://projects.awesomeincu.com/woc)
+        * Host: [woc.awesomeincu.com](http://woc.awesomeincu.com)
+        * Protocol: SFTP
+        * Logon Type: Normal
+        * User / PW: Ask instructor
+        * After login, go to [`woc.awesomeincu.com/` directory](http://woc.awesomeincu.com/)
     * Server
     * Relative links
 * How to register a Domain Name
@@ -241,16 +241,16 @@ If times remains:
 
 <h3 id="game-day">Wednesday - Video Games</h3>
 
-![Making Minecraft with Unity 3D](/img/notes/weekofcode-unity-minecraft.png)
+![Making Pong with Unity](/img/notes/weekofcode-unity-pong.png)
 
 #### 1pm
 
-* Unity 3D interface
+* Unity Game Engine interface overview
 * Run a sample project
 
 #### 1:30pm
 
-* Start [Making Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02)
+* Start [Unity Pong tutorial](https://www.awesomeincu.com/tutorials/unity-pong/)
 
 #### 3pm
 
@@ -258,7 +258,7 @@ If times remains:
 
 #### 3:15pm
 
-* More [Making Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02)
+* More [Unity Pong](https://www.awesomeincu.com/tutorials/unity-pong/)
 
 #### 4:30pm
 
@@ -270,7 +270,7 @@ If times remains:
 #### 5pm
 
 * Homework:
-    * Finish [Making Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02)
+    * Finish [Unity Pong](https://www.awesomeincu.com/tutorials/unity-pong/)
     * Pick a tutorial/project for Friday
 * Remind students to bring headphones for Friday tutorials
 
@@ -300,6 +300,7 @@ If times remains:
         * [Javascript on Codecademy](http://www.codecademy.com/en/tracks/javascript)
     * Game
         * [Pong Tutorial](http://www.awesomeincu.com/tutorials/unity-pong/)
+        * [Making Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02)
         * Other Project from [official Unity 3D tutorials](http://unity3d.com/learn/tutorials/)
             * [Roll-a-Ball](http://unity3d.com/learn/tutorials/projects/roll-ball-tutorial)
             * [Space Shooter](http://unity3d.com/learn/tutorials/projects/space-shooter-tutorial)
@@ -335,7 +336,8 @@ Note: most projects here will take longer than 4 hours to complete. That's OK! O
 * Recap
 * Next steps for learning
     1. Online resources: [Codecademy](http://www.codecademy.com/), [Awesome Inc U on Udemy](https://www.udemy.com/u/awesomeinc/)
-    2. [Awesome Inc Academy](http://www.awesomeincu.com/academy/)
-    3. [Awesome Inc After-School Coding Club](http://www.awesomeincu.com/after-school/)
+    2. Advanced:[Awesome Inc Academy](http://www.awesomeincu.com/academy/)
+    3. Intermediate: [Awesome Inc Coding League](http://www.awesomeincu.com/coding-league/)
+    4. Beginner: [Awesome Inc Coding Club](http://www.awesomeincu.com/coding-club/)
 
 #### 5pm
