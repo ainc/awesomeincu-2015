@@ -292,7 +292,8 @@ If times remains:
         * (Mac only) [Bitfountain iOS 8 / Swift intro course](http://fedora.bitfountain.io/courses/mini-ios8)
         * (Mac only) [Awesome Inc U iPhone App Development - Objective-C](https://www.udemy.com/iphone-app-crash-course/?couponCode=woc14)
     * Web
-        * [Bootstrap / Responsive Web Design](https://www.udemy.com/front-end-web-development-with-bootstrap/)
+        * [Basic Web crash course](https://www.udemy.com/basic-web-crash-course/?couponCode=WEEKOFCODE) (same as Web Day)
+        * [Bootstrap / Responsive Web Design](https://www.udemy.com/front-end-web-development-with-bootstrap/?couponCode=WEEKOFCODE)
         * [Coderbyte algorithm challenges](http://www.coderbyte.com/CodingArea/Challenges/)
         * [p5.js animation projects](http://p5js.org/examples/), see [samples](https://jsfiddle.net/nicksuch/48Lxhjwu/)
         * [RailsBridge](http://docs.railsbridge.org/docs/)
@@ -308,7 +309,6 @@ If times remains:
         * [Flappy Bird tutorial](http://anwell.me/articles/unity3d-flappy-bird/)
     * Hardware
         * [Maker Board - Base Kit projects](http://www.letsstartcoding.com/base-kit-projects)
-        * [Build a Pebble watchface](http://developer.getpebble.com/getting-started/watchface-tutorial/part1/)
         * [Sonic Pi - Aerodynamic](https://aimxhaisse.com/aerodynamic-en.html), make music with code
 
 Note: most projects here will take longer than 4 hours to complete. That's OK! Our goal during project day is to help you get started on something significant that you can continue working on after the Week of Code.
@@ -335,9 +335,11 @@ Note: most projects here will take longer than 4 hours to complete. That's OK! O
 
 * Recap
 * Next steps for learning
-    1. Online resources: [Codecademy](http://www.codecademy.com/), [Awesome Inc U on Udemy](https://www.udemy.com/u/awesomeinc/)
-    2. Advanced:[Awesome Inc Academy](http://www.awesomeincu.com/academy/)
-    3. Intermediate: [Awesome Inc Coding League](http://www.awesomeincu.com/coding-league/)
-    4. Beginner: [Awesome Inc Coding Club](http://www.awesomeincu.com/coding-club/)
+    1. Online resources: [Codecademy](https://www.codecademy.com/), [Code.org](https://www.code.org), [Udacity](https://www.udacity.com)
+    2. Awesome Inc Fall/Spring weekly classes:
+        * Beginner: [Coding Club](https://www.awesomeincu.com/coding-club/)
+        * Intermediate: [Coding League](https://www.awesomeincu.com/coding-league/)
+        * Advanced:[The Academy](https://www.awesomeincu.com/academy/)
+
 
 #### 5pm
