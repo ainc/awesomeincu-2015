@@ -35,6 +35,10 @@ There's no way I would have been able to figure any of it out or do so well, wit
 <p style="clear: both;"><a href="https://www.linkedin.com/in/brett-fraley-446134125">Brett Fraley</a>, <a href="/alumni/bootcamp-f16/">Bootcamp F16</a> alumnus
 <br>Developer, Fusioncorp Design&trade; Creative Solutions</p>
 
+<img src="/img/100-percent-hired.jpg" class="img-responsive" style="padding-bottom: 5px;">
+
+100% of our Bootcamp grads have jobs in the software development field. <a href="https://www.awesomeincu.com/applications/bootcamp/">Applications</a> are open for our next Bootcamp
+
 <div>
   <div>
   <h1 style="font-weight:bold;">FAQs</h1>
