@@ -37,13 +37,53 @@ In addition to programming time inside, campers will interact with our upbeat te
 
 {% include woc-buttons.html %}
 
-### <b> FAQs
 
-### Are scholarships available for this course?
-Yes, a very limited number of partial scholarships are available. You can apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9t_ECAVqVVHWNalx-hiUiOeRk7hk94uZQEGBu7Vt48Uu5PQ/viewform" target="_blank">here.</a>
-
-### Where is the best place to park near Awesome Inc?
-Free Parking is available for drop-off/pickup. The best location is the parking lot to the east side of our building, in spaces 1-19. See <a href="https://www.awesomeinc.org/parking/" target="_blank">parking map</a> for more details.
-
-### Do students need their own computer for this course?
-Yes, each student will need to provide his/her own laptop for the course. Either Microsoft Windows-based PC's, or Apple Mac OS X computers will work, but iPads and Chromebooks will not work for this course. We recommend a laptop made within the past 3-4 years. Computers should be free from viruses/malware. We have a limited number of <a href="https://squareup.com/market/awesome-inc/laptop-rental" target="_blank">rental laptops available for $25/day.</a>
+<div>
+  <div>
+  <h1 style="font-weight:bold;">FAQs</h1>
+    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+      <div class="panel panel-default"> <!-- QUESTION 1 -->
+        <div class="panel-heading" role="tab" id="headingOne">
+          <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              <h3>Are scholarships available for this course?</h3>
+            </a>
+          </h4>
+        </div>
+        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+          <div class="panel-body">
+            <p>Yes, a very limited number of partial scholarships are available. You can apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9t_ECAVqVVHWNalx-hiUiOeRk7hk94uZQEGBu7Vt48Uu5PQ/viewform" target="_blank">here.</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default"> <!-- QUESTION 2 -->
+        <div class="panel-heading" role="tab" id="headingTwo">
+          <h4 class="panel-title">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+              <h3>Where is the best place to park near Awesome Inc?</h3>
+            </a>
+          </h4>
+        </div>
+        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+          <div class="panel-body">
+            <p>Free Parking is available for drop-off/pickup. The best location is the parking lot to the east side of our building, in spaces 1-19. See <a href="https://www.awesomeinc.org/parking/" target="_blank">parking map</a> for more details.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default"> <!-- QUESTION 3 -->
+        <div class="panel-heading" role="tab" id="headingThree">
+          <h4 class="panel-title">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              <h3>Do students need their own computer for this course?</h3>
+            </a>
+          </h4>
+        </div>
+        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+          <div class="panel-body">
+            <p>Yes, each student will need to provide his/her own laptop for the course. Either Microsoft Windows-based PC's, or Apple Mac OS X computers will work, but iPads and Chromebooks will not work for this course. We recommend a laptop made within the past 3-4 years. Computers should be free from viruses/malware. We have a limited number of <a href="https://squareup.com/market/awesome-inc/laptop-rental" target="_blank">rental laptops available for $25/day.</a></p>
+          </div>
+        </div>
+      </div>
+    </div> <!-- panel-group -->
+  </div>
+</div> <!-- /container -->
