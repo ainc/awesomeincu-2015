@@ -213,6 +213,7 @@ $mobile-width: $tablet-width - 1;
 		@include tablet {
 			img {
 				margin-top: 80px;
+				max-width: 400px;
 			}
 		}
 	}
