@@ -108,7 +108,7 @@ a:hover, a:focus, a:active{ color: #557991;}
   Bootstrap Carousel Fade Transition (for Bootstrap 3.3.x)
   CSS from:       http://codepen.io/transportedman/pen/NPWRGq
   and:            http://stackoverflow.com/questions/18548731/bootstrap-3-carousel-fading-to-new-slide-instead-of-sliding-to-new-slide
-  Inspired from:  http://codepen.io/Rowno/pen/Afykb 
+  Inspired from:  http://codepen.io/Rowno/pen/Afykb
 */
 .carousel-fade .carousel-inner .item {
   opacity: 0.2;
@@ -203,7 +203,7 @@ a:hover, a:focus, a:active{ color: #557991;}
 
 .featurette-heading a {
   text-decoration: none;
-  
+
 }
 
 .text-muted {color: #557991;}
@@ -222,7 +222,7 @@ a:hover, a:focus, a:active{ color: #557991;}
   left:0;
   z-index: -1;
   background-size: cover;
-  background-repeat: no-repeat; 
+  background-repeat: no-repeat;
   background-position: center;
 }
 
@@ -247,8 +247,8 @@ background:transparent;
   opacity: 1;
   height: 500px;
   z-index: 1;
-  background-repeat: no-repeat; 
-  background-position: center; 
+  background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
   z-index: -1;
 }
@@ -315,7 +315,7 @@ form {
   line-height: 1.5;
 }
 
-.blog-main p, .content-main p { 
+.blog-main p, .content-main p {
   margin-bottom: 30px;
 }
 
@@ -343,7 +343,7 @@ form {
     list-style: none;
 }
 
-/* PRESS PAGE 
+/* PRESS PAGE
 -------------------------------------------------- */
 .press img {
   width: 30%;
@@ -446,15 +446,15 @@ form {
 }
 
 /* Fix padding for hash tag links, via https://css-tricks.com/hash-tag-links-padding/ */
-h2:before { 
-  display: block; 
-  content: " "; 
-  margin-top: -60px; 
-  height: 60px; 
-  visibility: hidden; 
+h2:before {
+  display: block;
+  content: " ";
+  margin-top: -60px;
+  height: 60px;
+  visibility: hidden;
 }
 
-/* SYNTAX HIGHLIGHTING for embedded code blocks 
+/* SYNTAX HIGHLIGHTING for embedded code blocks
 -------------------------------------------------- */
 
 /* .highlight  { background: #ffffff; } */
@@ -519,7 +519,7 @@ h2:before {
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
 /* Make line numbers unselectable: excludes line numbers from copy-paste user ops */
-.highlight .lineno {-webkit-user-select: none;-moz-user-select: none; -o-user-select: none;} 
+.highlight .lineno {-webkit-user-select: none;-moz-user-select: none; -o-user-select: none;}
 .lineno::-moz-selection {background-color: transparent;} /* Mozilla specific */
 .lineno::selection {background-color: transparent;} /* Other major browsers */
 
@@ -530,7 +530,7 @@ h2:before {
 *****************************************************/
 
 
-/*ribbon adjustments per size*/ 
+/*ribbon adjustments per size*/
 .ribbon-wrapper-green{
   margin-top: 3px;
   margin-right: 127px;
@@ -571,7 +571,7 @@ h2:before {
   overflow: hidden;
   position: absolute;
   top: -3px;
-  right: -3px; 
+  right: -3px;
 }
 
 .ribbon-green {
@@ -589,11 +589,11 @@ h2:before {
   top: 15px;
   width: 120px;
   background-color: #cb232e;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#BFDC7A), to(#8EBF45)); 
-  background-image: -webkit-linear-gradient(top, #cb232e, #cb232e); 
-  background-image:    -moz-linear-gradient(top, #cb232e, #cb232e); 
-  background-image:     -ms-linear-gradient(top, #cb232e, #cb232e); 
-  background-image:      -o-linear-gradient(top, #cb232e, #cb232e); 
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#BFDC7A), to(#8EBF45));
+  background-image: -webkit-linear-gradient(top, #cb232e, #cb232e);
+  background-image:    -moz-linear-gradient(top, #cb232e, #cb232e);
+  background-image:     -ms-linear-gradient(top, #cb232e, #cb232e);
+  background-image:      -o-linear-gradient(top, #cb232e, #cb232e);
   color: #FFFFFF;
   -webkit-box-shadow: 0px 0px 3px rgba(0,0,0,0.3);
   -moz-box-shadow:    0px 0px 3px rgba(0,0,0,0.3);
@@ -602,7 +602,7 @@ h2:before {
 
 .ribbon-green:before, .ribbon-green:after {
   content: "";
-  border-top:   3px solid #6e8900;   
+  border-top:   3px solid #6e8900;
   border-left:  3px solid transparent;
   border-right: 3px solid transparent;
   position:absolute;
@@ -635,7 +635,7 @@ h2:before {
 
 
  width: 32%;
-    
+
  position: relative;
  background: #cb232e;
  color: #FFFFFF;
