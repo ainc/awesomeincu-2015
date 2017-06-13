@@ -67,7 +67,7 @@ $mobile-width: $tablet-width - 1;
 	padding-left: 20px;
 }
 
-/******************************* 
+/*******************************
  * Red button
  * Rounded edges
  * White font
@@ -194,7 +194,7 @@ $mobile-width: $tablet-width - 1;
 		}
 
 	}
-	
+
 }
 
 .Programming {
@@ -202,5 +202,22 @@ $mobile-width: $tablet-width - 1;
 		font-weight: 600;
 	}
 }
+
+.row {
+	@include desktop {
+		img {
+			margin-top: 75px;
+		}
+	}
+	.col-md-5 {
+		@include tablet {
+			img {
+				margin-top: 80px;
+			}
+		}
+	}
+
+}
+
 
 
