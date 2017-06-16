@@ -110,20 +110,26 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 #### 1:15pm
 
-* Look at Android Studio
-* Use [MIT App Inventor](http://appinventor.mit.edu/explore/hour-of-code.html)
-* Hello world
-* Password app
-    * Variables (hardcode `myName`, get `yourName` via user input)
-    * If Statements (check if variables match, do something)
-    * [For Loops](https://docs.google.com/spreadsheets/d/1ih5AsT1SWX2493nGQ6JoXbu7PojJdM8GqtssRMYr_6w/edit#gid=1560899409) (repeat what you do `n` times)
-* Add Talk to Me features
-    * [Part 1](http://appinventor.mit.edu/explore/sites/all/files/hourofcode/TalkToMePart1.pdf) - press button speak out loud (generate sound)
-    * [Part 2](http://appinventor.mit.edu/explore/sites/all/files/hourofcode/TalkToMePart2.pdf) - get user input (ask user what to say)
+* Mobile Apps with [MIT App Inventor](http://appinventor.mit.edu/explore/hour-of-code.html) Overview
+* Getting Started
+* [TalkToMe](http://explore.appinventor.mit.edu/sites/all/files/hourofcode/TalkToMePart1.pdf) App
+    * Part 1 "Hello World"
+    * Part 2 UserInput
+    * [Part 3 Accelerometer](http://explore.appinventor.mit.edu/sites/all/files/hourofcode/TalkToMePart2.pdf)
 
 #### 2:00pm
 
-* [Ball Bounce game](http://appinventor.mit.edu/explore/sites/all/files/hourofcode/BallBounceTutorial.pdf)
+* Break/Snack
+
+#### 2:15pm
+* [SpaceInvaders App V1](http://explore.appinventor.mit.edu/ai2/space-invaders)
+* Download Images
+    * <a href="/img/notes/weekofcode-rocket.png download" download>Rocket</a>
+    * <a href="/img/notes/weekofcode-saucer.png download" download>Saucer</a>
+* Part 1: Moving the Rocket
+* Part 2: Moving the Saucer
+* Part 3: Bullet Behavior
+* Testing Game Play
 
 #### 3pm
 
@@ -131,25 +137,29 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 #### 3:30pm
 
-* [Whack-a-Mole game](http://appinventor.mit.edu/explore/ai2/molemash.html)
-    * Get a [Meow noise](http://appinventor.mit.edu/explore/sites/all/files/tutorials/helloPurr/meow.mp3) from [HelloPurr](http://appinventor.mit.edu/explore/content/hellopurr.html)
-* My Favorite Team
-    * [Sportsball Fanatic sample app](http://ai2.appinventor.mit.edu/?galleryId=4884510797201408)
-    * Launcher with 3 buttons (Catch game, Profile, Website)
-    * Team Profile
-    * Team Website
+* SpaceInvaders App V2
+    * Keeping Score
+    * Resetting the Game
+    * Testing Game Play
+* [Bulding, Packaging, & Installing Your App](http://appinventor.mit.edu/explore/ai2/share.html)
 
 #### 4:30pm
 
 * Confirm Web (Sublime Text, FileZilla) setup for Wednesday
 * More App Inventor
-    * Add [Get the Gold](http://appinventor.mit.edu/explore/ai2/get-gold.html) to Pokemon app
-    * Add [Mini Golf](http://appinventor.mit.edu/explore/content/minigolf.html)
-    * Create [Space Invaders](http://appinventor.mit.edu/explore/ai2/space-invaders.html)
-        * Here’s a [video of the original game](https://www.youtube.com/watch?v=437Ld_rKM2s), if you missed the launch in 1978
-    * Danny’s Sample apps
-        * [Circles](https://dl.dropboxusercontent.com/u/15010097/circles.aia)
-        * [Bars](https://dl.dropboxusercontent.com/u/15010097/bars.aia)
+    * SpaceInvadors App
+        * Cusomize colors and font
+        * Change up speeds/clocktime
+        * Code an end to the game
+    * [Whack-a-Mole game](http://appinventor.mit.edu/explore/ai2/molemash.html)
+        * Get a [Meow noise](http://appinventor.mit.edu/explore/sites/all/files/tutorials/helloPurr/meow.mp3) from [HelloPurr](http://appinventor.mit.edu/explore/content/hellopurr.html)
+    * [Get the Gold](http://appinventor.mit.edu/explore/ai2/get-gold.html)
+    * [Mini Golf](http://appinventor.mit.edu/explore/content/minigolf.html)
+    * My Favorite Team
+        * [Sportsball Fanatic sample app](http://ai2.appinventor.mit.edu/?galleryId=4884510797201408)
+        * Launcher with 3 buttons (Catch game, Profile, Website)
+        * Team Profile
+        * Team Website
 * Want to go more in-depth with Android?
     * See [Android on Udacity](https://www.udacity.com/course/ud853)
     * Install [Android Studio](https://developer.android.com/sdk/installing/studio.html)
