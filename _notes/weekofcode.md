@@ -147,8 +147,8 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 * Confirm Web (Sublime Text, FileZilla) setup for Wednesday
 * More App Inventor
-    * SpaceInvadors App
-        * Cusomize colors and font
+    * SpaceInvaders App
+        * Customize colors and font
         * Change up speeds/clocktime
         * Code an end to the game
     * [Whack-a-Mole game](http://appinventor.mit.edu/explore/ai2/molemash.html)
