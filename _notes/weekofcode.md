@@ -124,8 +124,8 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 #### 2:15pm
 * [SpaceInvaders App V1](http://explore.appinventor.mit.edu/ai2/space-invaders)
 * Download Images
-    * <a href="/img/notes/weekofcode-rocket.png download" download>Rocket</a>
-    * <a href="/img/notes/weekofcode-saucer.png download" download>Saucer</a>
+    * <a href="/img/notes/weekofcode-rocket.png" download>Rocket</a>
+    * <a href="/img/notes/weekofcode-saucer.png" download>Saucer</a>
 * Part 1: Moving the Rocket
 * Part 2: Moving the Saucer
 * Part 3: Bullet Behavior
