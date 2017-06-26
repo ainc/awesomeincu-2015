@@ -3,15 +3,17 @@ layout: course
 title: Coding Club
 description: "Learn Code, Make Friends"
 cover: /img/coding-club.jpg
-redirect_from: 
+redirect_from:
   - /programs/afterschool/
   - /after-school/
 permalink: /coding-club/
 ---
 
+{% include coding-club-buttons.html %}
+
 ### **Do you have a student at home who enjoys spending time on the computer, could play Minecraft for hours, or has done the Hour of Code at school?**
 
-The Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls in elementary and middle school who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting. Our program is for students who want to learn a basic understanding of computer programming under the instruction of our fun and energetic team. 
+The Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls in elementary and middle school who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting. Our program is for students who want to learn a basic understanding of computer programming under the instruction of our fun and energetic team.
 
 The Coding Club meets one evening a week for 90 minutes, with 16 weeks of classes in the Spring and Fall. The Club starts on a new project every four weeks, so the fun and the knowledge keeps on building. Sign up with friends, or meet new people with similar interests. No prior programming experience is required, but students should be comfortable using a mouse, keyboard, and web browser.
 
@@ -127,7 +129,7 @@ The Coding Club meets one evening a week for 90 minutes, with 16 weeks of classe
             <p>Yes, a very limited number of partial scholarships are available. You can apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9t_ECAVqVVHWNalx-hiUiOeRk7hk94uZQEGBu7Vt48Uu5PQ/viewform">here</a>!</p>
           </div>
         </div>
-      </div> 
+      </div>
       <div class="panel panel-default"> <!-- QUESTION 7 -->
         <div class="panel-heading" role="tab" id="headingSeven">
           <h4 class="panel-title">
@@ -141,7 +143,7 @@ The Coding Club meets one evening a week for 90 minutes, with 16 weeks of classe
             <p>See <a href="https://www.awesomeinc.org/parking/">map for parking options</a>.</p>
           </div>
         </div>
-      </div> 
+      </div>
       <div class="panel panel-default"> <!-- QUESTION 8 -->
         <div class="panel-heading" role="tab" id="headingEight">
           <h4 class="panel-title">
@@ -169,7 +171,7 @@ The Coding Club meets one evening a week for 90 minutes, with 16 weeks of classe
             <p>You can sign up for a single session or sign up for the whole semester (4 sessions) at a discounted rate.</p>
           </div>
         </div>
-      </div> 
+      </div>
       <div class="panel panel-default"> <!-- QUESTION 10 -->
         <div class="panel-heading" role="tab" id="headingTen">
           <h4 class="panel-title">

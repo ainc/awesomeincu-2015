@@ -3,11 +3,13 @@ layout: course
 title: Coding League
 description: "Learn To Code Like The Pros"
 cover: /img/coding-league.jpg
-redirect_from: 
+redirect_from:
   - /codingleague/
   - /league/
 permalink: /coding-league/
 ---
+
+{% include coding-league-buttons.html %}
 
 ### **What happens when you’ve pushed the limits of block-based programming languages like Scratch?**
 
@@ -50,7 +52,7 @@ Come back for as many sessions as you’d like, the fun and the knowledge keeps 
         <div class="panel-heading" role="tab" id="headingOne">
           <h4 class="panel-title">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              <h3>Does the student need to bring a computer?</h3> 
+              <h3>Does the student need to bring a computer?</h3>
             </a>
           </h4>
         </div>
@@ -87,7 +89,7 @@ Come back for as many sessions as you’d like, the fun and the knowledge keeps 
         <p>This course is capped at 20 students, so be sure to reserve your spot!</p>
           </div>
         </div>
-      </div> 
+      </div>
       <div class="panel panel-default"> <!-- QUESTION 4 -->
         <div class="panel-heading" role="tab" id="headingFour">
           <h4 class="panel-title">
@@ -129,7 +131,7 @@ Come back for as many sessions as you’d like, the fun and the knowledge keeps 
             <p>Yes, a very limited number of partial scholarships are available. You can apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9t_ECAVqVVHWNalx-hiUiOeRk7hk94uZQEGBu7Vt48Uu5PQ/viewform">here</a>!</p>
           </div>
         </div>
-      </div> 
+      </div>
       <div class="panel panel-default"> <!-- QUESTION 7 -->
         <div class="panel-heading" role="tab" id="headingSeven">
           <h4 class="panel-title">
@@ -143,7 +145,7 @@ Come back for as many sessions as you’d like, the fun and the knowledge keeps 
             <p>See <a href="https://www.awesomeinc.org/parking/">map for parking options</a>.</p>
           </div>
         </div>
-      </div> 
+      </div>
       <div class="panel panel-default"> <!-- QUESTION 8 -->
         <div class="panel-heading" role="tab" id="headingEight">
           <h4 class="panel-title">
@@ -171,7 +173,7 @@ Come back for as many sessions as you’d like, the fun and the knowledge keeps 
             <p>You can sign up for a single session or sign up for the whole semester (4 sessions) at a discounted rate.</p>
           </div>
         </div>
-      </div> 
+      </div>
       <div class="panel panel-default"> <!-- QUESTION 10 -->
         <div class="panel-heading" role="tab" id="headingTen">
           <h4 class="panel-title">
