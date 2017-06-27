@@ -19,14 +19,6 @@ At Week of Code, you learn by doing - it's hands-on, at your pace. You'll design
 
 ### Unsure of your summer plans? Make changes with no fees up to 30 days before camp.
 
-<div style="width:100%; text-align:left;">
-  <iframe src="//eventbrite.com/tickets-external?eid=34525070415&ref=etckt" frameborder="0" height="308" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-    <div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" >
-      <a style="color: #ADB0B6; text-decoration: none;" href="http://www.eventbrite.com/">Powered by Eventbrite</a>
-    </div>
-</div>
-
-
 {% include woc-buttons.html %}
 
 In addition to programming time inside, campers will interact with our upbeat team for unplugged activities and games. More than just coding - Week of Code boosts creativity, logical thinking skills, and brain power. The camp is kept small to ensure everyone gets focused attention.
