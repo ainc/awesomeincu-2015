@@ -19,13 +19,13 @@ course_link: /register/
 ### Prerequisites
 
 * The ability to type text on a computer (e.g. write an email, edit a Word document)
-* Access to a computer with OS X/Windows/Linux (must have permission to install programs)
+* Access to a computer with macOS/Windows/Linux (must have permission to install programs)
 * We’ll be installing [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), [Sublime Text](https://www.sublimetext.com/3), and [Filezilla](https://filezilla-project.org/download.php?show_all=1)
+* Google Account (ie Gmail account)
 * Experience using a variety of websites
 
 ### Course material
 
-* [Overview](https://docs.google.com/document/edit?id=1D03Nh-_lqjdbiZU8B78vZw5eVrQVY-BHYM3lPiJZgMI#) (this document)
 * [Sample Code](https://github.com/ainc/basicweb-crash)
 * [Sample Website](http://ainc.github.io/basicweb-crash/index.html) (inspired by [this](http://www.kingscountyjerky.com/))
 * [Tutorial](/tutorials/business-website/)
