@@ -195,8 +195,6 @@ In other words, always make sure you have stopped Play Mode (by pressing the pla
 
 Go back to the scene view, and click on our 'Player01' object. Under the Inspector pane, you should see a place to change the key bindings for up and down, the speed that it moves at, and the bounding value for the paddle's position. Mess around with those as you please.
 
-![PlayerControls script](/img/tutorials/unity-pong/playercontrols.png)
-
 The next step is to make a second paddle. All we need to do is <kbd>right click</kbd> 'Player01' in the Hierarchy menu, and choose Duplicate from the menu that appears when we right click. Rename it to be 'Player02'. Next, change its key bindings (I recommend using 'Up Arrow' for up and 'Down Arrow' for down), and move it to be the opposite location on the board - change the X value in its Transform Position to be positive. Player01 should be on the left, Player02 on the right. Now go to 'Game' and test this one too. That work? AWESOME! You should have something that looks like this now:
 
 ![image alt text](/img/tutorials/unity-pong/image_12.png)
@@ -295,9 +293,7 @@ void OnCollisionEnter2D (Collision2D coll) {
 }
 ```
 
-Nifty swifty, neato spedito, our game is looking swell. Let's recap. We have two paddles that work, and now a ball that bounces around realistically. Does yours look like this in the Scene view, with a ball underneath the Camera symbol? The completed script we just added should look like this: [BallControl.cs](https://github.com/ainc/unity-pong/blob/unity5/Assets/BallControl.cs). The Game view should have just two paddles and a ball there, while the Scene view looks like this:
-
-![Player paddles and ball complete](/img/tutorials/unity-pong/paddles_ball_finished.png)
+Nifty swifty, neato spedito, our game is looking swell. Let's recap. We have two paddles that work, and now a ball that bounces around realistically. The completed script we just added should look like this: [BallControl.cs](https://github.com/ainc/unity-pong/blob/unity5/Assets/BallControl.cs). The Game view should have two paddles and a ball, ready for us to play!
 
 So we're done right? Not quite!
 
@@ -444,7 +440,7 @@ You already added the script to 'LeftWall', and now, since it's written, go to '
 
 Now, in order for Unity to call our `OnTriggerEnter2D` method, we have to make sure both the LeftWall and RightWall have the "Is Trigger" checkbox selected on their Box Colliders in the Inspector pane. This means that Unity won't treat these walls as physical walls, but rather they "trigger" something in the game (in this case, they give a player a point).
 
-![Is Trigger checkbox](img/tutorials/unity-pong/istrigger.png)
+![Is Trigger checkbox](/img/tutorials/unity-pong/istrigger.png)
 
 Test your game to make sure both players can score a point. If so, know what that means? We're DONE! Almost.
 
