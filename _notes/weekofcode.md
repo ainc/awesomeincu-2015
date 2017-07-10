@@ -21,10 +21,13 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 ### Prerequisites
 
 * The ability to type text on a computer (e.g. write an email, edit a Word document). We recommend [20 WPM](https://10fastfingers.com/typing-test/english) or faster.
-* Access to a computer with macOS/Windows (must have permission to install programs, including necessary passwords)
-* Software: [Google Chrome](http://www.google.com/chrome/), [Unity - personal edition](https://store.unity.com/download?ref=personal), [MIT App Inventor](http://appinventor.mit.edu/explore/ai2/setup-emulator.html), [FileZilla](https://filezilla-project.org/download.php?show_all=1), and [Sublime Text](http://www.sublimetext.com/3)
-* Google Account (Gmail, Google Drive, etc) - used to sign into MIT App Inventor
 * Experience using a variety of websites, games, and apps
+
+### Equipment and Account setup
+
+* Students each need to bring a computer with macOS/Windows (must have permission to install programs, including necessary passwords)
+* Software: [Google Chrome](http://www.google.com/chrome/), [Unity - personal edition](https://store.unity.com/download?ref=personal), [MIT App Inventor](http://appinventor.mit.edu/explore/ai2/setup-emulator.html), and [Sublime Text](http://www.sublimetext.com/3)
+* Accounts: [Google account](accounts.google.com) (Gmail, Google Drive, etc), [Unity account](https://id.unity.com/), [Mozilla Webmaker account](https://id.webmaker.org/signup), [CodeCombat account](https://codecombat.com/) (get special class code from instructors)
 
 ## Schedule Summary
 
@@ -41,6 +44,8 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 ## Detailed Schedule
 
 <h3 id="prework-day">Sunday (optional setup / pre-work session)</h3>
+
+** Note: times may change for setup session. See class email for details.
 
 #### 1pm
 
@@ -145,7 +150,7 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 #### 4:30pm
 
-* Confirm Web (Sublime Text, FileZilla) setup for Wednesday
+* Confirm Web (Mozilla Thimble, Sublime Text) setup for Wednesday
 * More App Inventor
     * SpaceInvaders App
         * Customize colors and font
@@ -196,7 +201,7 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
     * [HTML Cheatsheet](https://developer.mozilla.org/en-US/Learn/HTML/Cheatsheet)
     * [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * Create our own site - [My Favorite Animal](http://nicksuch.github.io/weekofcode-web/)
-    * Use Sublime Text (a "text editor")
+    * Create new project with Mozilla Thimble
     * [Website manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit)
     * [COPY THIS CSS CODE](https://raw.githubusercontent.com/nicksuch/weekofcode-web/gh-pages/styles.css)
 
@@ -218,23 +223,20 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 #### 4pm
 
-* Deployment with FTP
-    * FileZilla
-        * Host: [woc.awesomeincu.com](http://woc.awesomeincu.com)
-        * Protocol: SFTP
-        * Logon Type: Normal
-        * User / PW: Ask instructor
-        * After login, go to [`woc.awesomeincu.com/` directory](http://woc.awesomeincu.com/)
-    * Server
-    * Relative links
-* How to register a Domain Name
+* Publish and share
+* Remix sample projects
 
 #### 4:30pm
 
 If times remains:
 
-* [Weebly](http://www.weebly.com/) - [beginner's guide](http://help.weebly.com/beginners-guide.html), [sample Weebly site](http://nicksuch.weebly.com)
-* [Wordpress.com](http://wordpress.com/) - [19% of the Web uses this](http://venturebeat.com/2013/07/27/19-percent-of-the-web-runs-on-wordpress/), [Sample Wordpress.com site](http://nick12013.wordpress.com)
+* Use Sublime Text (a "text editor")
+* Deployment with FTP
+    * FileZilla
+        * Host: [woc.awesomeincu.com](http://woc.awesomeincu.com)
+    * Server
+    * Relative links
+* How to register a Domain Name with [Google Domains](https://domains.google/)
 * [Codecademy web practice](http://www.codecademy.com/skills/make-a-website)
 * [Bootstrap](http://getbootstrap.com/)
 * [JavaScript](http://www.codecademy.com/goals/hour-of-code)
@@ -298,28 +300,21 @@ If times remains:
     * Mobile
         * [App Inventor intermediate tutorials](http://appinventor.mit.edu/explore/ai2/tutorials.html)
             * [Get the Gold](http://appinventor.mit.edu/explore/ai2/get-gold.html)
-        * [Ray’s Android App](https://www.raywenderlich.com/120177/beginning-android-development-tutorial-installing-android-studio)
-        * (Mac only) [Bitfountain iOS 8 / Swift intro course](http://fedora.bitfountain.io/courses/mini-ios8)
-        * (Mac only) [Awesome Inc U iPhone App Development - Objective-C](https://www.udemy.com/iphone-app-crash-course/?couponCode=woc14)
+        * (Mac only) [Start developing iOS apps with Swift](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
     * Web
-        * [Basic Web crash course](https://www.udemy.com/basic-web-crash-course/?couponCode=WEEKOFCODE) (same as Web Day)
-        * [Bootstrap / Responsive Web Design](https://www.udemy.com/front-end-web-development-with-bootstrap/?couponCode=WEEKOFCODE)
-        * [Coderbyte algorithm challenges](http://www.coderbyte.com/CodingArea/Challenges/)
         * [p5.js animation projects](http://p5js.org/examples/), see [samples](https://jsfiddle.net/nicksuch/48Lxhjwu/)
-        * [RailsBridge](http://docs.railsbridge.org/docs/)
-        * [Learn Python The Hard Way](http://learnpythonthehardway.org/book)
-        * [Javascript on Codecademy](http://www.codecademy.com/en/tracks/javascript)
+        * [Javascript on Codecademy](https://www.codecademy.com/learn/learn-javascript)
     * Game
         * [Pong Tutorial](http://www.awesomeincu.com/tutorials/unity-pong/)
         * [Making Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02)
-        * Other Project from [official Unity 3D tutorials](http://unity3d.com/learn/tutorials/)
-            * [Roll-a-Ball](http://unity3d.com/learn/tutorials/projects/roll-ball-tutorial)
-            * [Space Shooter](http://unity3d.com/learn/tutorials/projects/space-shooter-tutorial)
-            * [2D UFO game](https://unity3d.com/learn/tutorials/projects/2d-ufo-tutorial)
-        * [Flappy Bird tutorial](http://anwell.me/articles/unity3d-flappy-bird/)
-    * Hardware
-        * [Maker Board - Base Kit projects](http://www.letsstartcoding.com/base-kit-projects)
+        * [Roll-a-Ball](http://unity3d.com/learn/tutorials/projects/roll-ball-tutorial)
+        * [Space Shooter](http://unity3d.com/learn/tutorials/projects/space-shooter-tutorial)
+        * [2D UFO game](https://unity3d.com/learn/tutorials/projects/2d-ufo-tutorial)
+    * Other
         * [Sonic Pi - Aerodynamic](https://aimxhaisse.com/aerodynamic-en.html), make music with code
+        * [Learn Python The Hard Way](http://learnpythonthehardway.org/book)
+        * [Coderbyte algorithm challenges](http://www.coderbyte.com/CodingArea/Challenges/)
+
 
 Note: most projects here will take longer than 4 hours to complete. That's OK! Our goal during project day is to help you get started on something significant that you can continue working on after the Week of Code.
 
@@ -336,7 +331,7 @@ Note: most projects here will take longer than 4 hours to complete. That's OK! O
 
 * Work time
 
-#### 4:00pm
+#### 4:15pm
 
 * Show & Tell
     1. Show us one thing you made this week
