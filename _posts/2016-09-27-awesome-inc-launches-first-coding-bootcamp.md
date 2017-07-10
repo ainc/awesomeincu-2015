@@ -26,3 +26,11 @@ The inaugural Bootcamp launched August 22nd and will end in November. Awesome In
 
 **About Awesome Inc**
 Based in Lexington, Kentucky, Awesome Inc exists to help grow the Kentucky startup and tech community.  Its Awesome Inc U coding school trains children and adults in software development. Its Fellowship program provides training, pro bono business services and access to mentors and investors for startup companies with demonstrated market potential.  Awesome Inc is also the founder of the Kentucky Entrepreneur Hall of Fame. To find out more, go to www.awesomeincu.org
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_twitter"></a>
+	<a class="a2a_button_linkedin"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>

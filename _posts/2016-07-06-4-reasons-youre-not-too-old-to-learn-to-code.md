@@ -41,3 +41,11 @@ Fortunately, many apps and[ programs](http://www.awesomeincu.com/) have been cre
 * Have a child interested in code? Sign them up for an immersive experience such as Awesome Inc U's[ Week of Code Summer Camp](https://www.eventbrite.com/e/week-of-code-summer-camp-august-lexington-tickets-21394811457).
 
 * [Programming Tutorials From Made With Code by Google](https://www.madewithcode.com/): Google's Made With Code project has a mission of encouraging girls to pursue careers in computer science. The Made With Code projects are easy to follow and designed for both intermediate and beginner coders. 
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_twitter"></a>
+	<a class="a2a_button_linkedin"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>

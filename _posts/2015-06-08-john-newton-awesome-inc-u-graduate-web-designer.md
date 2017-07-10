@@ -35,3 +35,11 @@ To the budding web developers of the world, John Newton gives this advice: "Just
 John's very modest goal for the future is to have a nice business card that says "John Newton, Web designer." We think John's future in web development looks way brighter than just a business card, in fact, we think it's just as bright as the stars he used to work with.
   
 > Originally posted on the [Awesome Inc Blog](http://blog.awesomeinc.org/post/120552649816/john-newton-awesome-inc-u-graduate-web-designer)
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_twitter"></a>
+	<a class="a2a_button_linkedin"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>

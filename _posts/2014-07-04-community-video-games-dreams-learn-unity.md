@@ -33,3 +33,11 @@ And in fact, Unity has been the magic behind the curtain for many games you may 
 [![Logo for Unity course on Udemy](/img/blog/learn_unity_3.jpg)](https://www.udemy.com/make-a-unity-game-today/)
 
 Here at Awesome Inc, and especially Awesome Inc U, we love Unity. It’s the epitome of what we want to see grow in all aspects of technology - the ability for someone at home to sit down and decide to learn to do something, and then do it. If you’ve been designing games for fifteen years, or want to think about starting next week, then Unity has a niche and an opportunity for you. If you’re interested in capitalizing on the opportunity to do something fun and get involved in some great communities - local and otherwise - then check out our own Unity tutorials - they’ll help you hit the ground running, and get you involved that much sooner. If 2D games are your thing, and you miss the days when Atari was as common a name as Coke, then check out our [Make Your Own Pong tutorial](http://www.awesomeincu.com/tutorials/unity-pong/). If you’re all about mobile gaming, and want to jump a bit more into Unity 3D then check out our Udemy-hosted course on [How to build an Angry Boxes game with Unity](https://www.udemy.com/make-a-unity-game-today/) - our own adaptation of Angry Birds. Either way, we strongly encourage you to get interested and involved with coding and game design - there’s nothing quite like the communities you’ll find because of it. Good Luck, and Game (Develop) On!
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_twitter"></a>
+	<a class="a2a_button_linkedin"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>

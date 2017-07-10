@@ -37,3 +37,11 @@ The most important thing I learned from playing sports as a kid was not how to h
 It’s hard to argue with the impact that software has had on our world over the past decade. From [political revolutions](http://en.wikipedia.org/wiki/Arab_Spring) to [industrial revolutions](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), the enabling power of this new layer of software has changed the way we live. But this impact has not yet been felt everywhere. As our population shifts toward primarily city dwelling, our transportation systems and other utilities will rely on software to make more intelligent adjustments. The educational systems that we developed a century ago for a different era of industrial work must grow to adapt to the children of today and the jobs of tomorrow. What if your algorithms could help with the [analysis of public health data](http://www.knightfoundation.org/press-room/press-release/knight-news-challenge-health-data-contest-opens/) that leads to a cure for cancer? Could your wellness app help someone to make better lifestyle choices and avoid the risk of obesity and diabetes?
 
 From startups to the star tech companies of the Fortune 500, from government and nonprofits to sports and entertainment, software development is a powerful skill. It can land you a job, help you start your own company, enable you to create new forms of art, change the way you think about the world, and change the way the world thinks about itself. [If you want to learn to code, we’re ready to help you get started.](http://awesomeincu.com/)
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_twitter"></a>
+	<a class="a2a_button_linkedin"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>

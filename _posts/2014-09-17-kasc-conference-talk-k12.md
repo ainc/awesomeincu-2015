@@ -19,3 +19,11 @@ When I arrived at the conference, I sat in on a talk with Mark Harrell from [Pro
 My presentation at the KASC Conference was on a topic we've shared before - How To Host An Hour of Code in Your School. In addition to referencing our [Udemy course on the Hour of Code](https://www.udemy.com/hourofcode/), we also put together [a list of online and local resources](http://bit.ly/codekasc) so that teachers can direct their most-interested students to more advanced learning opportunities.
 
 According to [Code.org](http://code.org/stats), 9 out of 10 schools don't offer a single computer programming class. Our team at Awesome Inc, along with our friends at [AdvanceKentucky](http://www.advancekentucky.com/kycoders?showall=1&limitstart=), PLTW, Newton's Attic, and others, are working to change this in Kentucky. If we can help with a professional development session for teachers in your school/district, Hour of Code activities for your students, or programming summer camps for your kids, [let us know](mailto:founders@awesomeinc.org?Subject=Awesome%20Inc%20U%20K-12%20training).
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_twitter"></a>
+	<a class="a2a_button_linkedin"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>

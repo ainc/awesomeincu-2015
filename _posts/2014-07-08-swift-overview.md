@@ -27,3 +27,11 @@ The most glaring drawback to Swift is the simple fact that it is a new language,
 There are a few things missing in Swift. There is no exception handling. There are currently no concurrency features built in to the Swift language. Swift does not include garbage collection, instead relying on ARC, the same automatic reference counting mechanism used for Objective-C in LLVM. There is currently no access control (e.g., public, private, protected) in user defined types. Some of these omissions will undoubtedly be addressed in future versions.
 
 It is too early to judge Swift, but, based on the first week of buzz in the community, optimism and excitement prevail for now!
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_twitter"></a>
+	<a class="a2a_button_linkedin"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
