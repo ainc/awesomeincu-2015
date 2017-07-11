@@ -301,9 +301,15 @@ If times remains:
     * Mobile
         * [App Inventor intermediate tutorials](http://appinventor.mit.edu/explore/ai2/tutorials.html)
             * [Get the Gold](http://appinventor.mit.edu/explore/ai2/get-gold.html)
+            * [Stock Quotes](http://appinventor.mit.edu/explore/ai2/stockquotes.html)
+            * [QuizMe](http://appinventor.mit.edu/explore/ai2/quizme.html)
+            * [Mole Mash 2](http://appinventor.mit.edu/explore/ai2/molemash-2.html)
         * (Mac only) [Start developing iOS apps with Swift](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
     * Web
-        * [p5.js animation projects](http://p5js.org/examples/), see [samples](https://jsfiddle.net/nicksuch/48Lxhjwu/)
+        * [Homework Excuse Generator](https://thimbleprojects.org/mozillalearning/11698/)
+        * [Back to School postcard](https://thimbleprojects.org/mozillalearning/220079/)
+        * [Build with HTML Bricks](https://thimbleprojects.org/mozillalearning/279519/)
+        * [p5.js animation projects](http://p5js.org/examples/), remix from [p5.js sample](https://thimbleprojects.org/mozillalearning/213461/)
         * [Javascript on Codecademy](https://www.codecademy.com/learn/learn-javascript)
     * Game
         * [Pong Tutorial](http://www.awesomeincu.com/tutorials/unity-pong/)
@@ -312,10 +318,10 @@ If times remains:
         * [Space Shooter](http://unity3d.com/learn/tutorials/projects/space-shooter-tutorial)
         * [2D UFO game](https://unity3d.com/learn/tutorials/projects/2d-ufo-tutorial)
     * Other
-        * [Sonic Pi - Aerodynamic](https://aimxhaisse.com/aerodynamic-en.html), make music with code
+        * [MIT Scratch](https://scratch.mit.edu/) - tutorials from [Scratch Programming Playground](https://inventwithscratch.com/book/)
+        * [Sonic Pi](http://sonic-pi.net/), make music like [Aerodynamic](https://aimxhaisse.com/aerodynamic-en.html) with code
         * [Learn Python The Hard Way](http://learnpythonthehardway.org/book)
         * [Coderbyte algorithm challenges](http://www.coderbyte.com/CodingArea/Challenges/)
-
 
 Note: most projects here will take longer than 4 hours to complete. That's OK! Our goal during project day is to help you get started on something significant that you can continue working on after the Week of Code.
 
