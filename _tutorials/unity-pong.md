@@ -8,7 +8,7 @@ course_link: /register/
 
 ![Classic Pong screenshot](/img/tutorials/unity-pong/classic_pong_screenshot.png)
 
-By Will Oldham
+By Will Oldham. Updates by [Nick Such](https://github.com/nicksuch/){:target="_blank"} and [Caleb Cornett](https://github.com/TheSpydog/){:target="_blank"}.
 
 > Note, July 2017: Updated for Unity 5.6
 
@@ -34,14 +34,13 @@ Seems simple enough. Let's get started!
 
 ## Step One: The Setup
 
-First, download this [Unity Pong assets file](/files/unity-pong-assets.zip). It contains images and other assets that we'll be using in this tutorial.
+First, download this [Unity Pong assets file](/files/unity-pong-assets.zip){:target="_blank"}. It contains images and other assets that we'll be using in this tutorial.
 
 Now, let's start with the paddles. Open up Unity and follow these steps:
 
 1. From the welcome screen, click 'Projects'. (If the Unity editor is already open, click 'File' > 'New Project' instead.)
 
 2. Click 'New'. Then you should see something like this:
-
 ![Unity's New Project window](/img/tutorials/unity-pong/new_project.png)
 
 3. Name the Project something like 'Pong Game'.
@@ -58,7 +57,7 @@ Once the project has been created, you should see a 2D grid appear in the Scene 
 
 Setting up Unity in 2D mode does several things. First off, it sets up our game camera so that everything is viewed from a 2D perspective. It also tells Unity to import images as Sprites instead of Textures. You'll see how this helps us in just a bit.
 
-Remember that [Unity Pong assets file](/files/unity-pong-assets.zip) that we downloaded? Now's a great time to unzip that file. You'll see a folder called `unitypong-assets`, which will contain a set of images, fonts, and other assets that we'll be using today. Select all, <kbd>click + drag</kbd> these files into the Project pane at the bottom of your Unity window. They should end up in your Assets folder. If your Unity Editor window looks much different, then you may want to set your editor Layout to "Default".
+Remember that [Unity Pong assets file](/files/unity-pong-assets.zip){:target="_blank"} that we downloaded? Now's a great time to unzip that file. You'll see a folder called `unitypong-assets`, which will contain a set of images, fonts, and other assets that we'll be using today. Select all, <kbd>click + drag</kbd> these files into the Project pane at the bottom of your Unity window. They should end up in your Assets folder. If your Unity Editor window looks much different, then you may want to set your editor Layout to "Default".
 
 ![Downloaded assets](/img/tutorials/unity-pong/unitypong-assets.png)
 

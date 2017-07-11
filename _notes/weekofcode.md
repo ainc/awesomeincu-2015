@@ -104,18 +104,19 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
     * Be a Friend
     * Be You
 * What ground rules should we have?
-    * When the instructor is talking, _____.
-    * Keep your hands to _____.
-    * Keep your _____ for refills.
-    * The _____ are back by the water fountain.
-    * Try, Read, Friend, TA.
+    * When the instructor is talking, <abbr title="listen">_____</abbr>.
+    * Keep your hands to <abbr title="yourself">_____</abbr>.
+    * Read, Try, <abbr title="friend">_____</abbr>, Coach.
+    * Be positive and <abbr title="encouraging">_____</abbr>.
+    * No <abbr title="food">_____</abbr> or <abbr title="drinks">_____</abbr> on the table.
+    * Bring the <abbr title="fun">_____</abbr>.
 * Text editor skills and vocabulary
     * Copy, Cut, Paste, Switch windows
     * Arrow keys vs Mouse, Shift-to-select
 
 #### 1:15pm
 
-* Mobile Apps with [MIT App Inventor](http://appinventor.mit.edu/explore/hour-of-code.html) Overview
+* Mobile Apps with [MIT App Inventor](http://appinventor.mit.edu/){:target="_blank"} Overview
 * Getting Started
 * [TalkToMe](http://explore.appinventor.mit.edu/sites/all/files/hourofcode/TalkToMePart1.pdf) App
     * Part 1 "Hello World"
@@ -187,7 +188,7 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 * View Page Source, see HTML, CSS, JavaScript
 * Chrome Developer Tools
     * Go to [Twitter.com/awesome_inc](https://twitter.com/awesome_inc)
-* Use [Mozilla Thimble](https://thimble.mozilla.org/) to make our first web page
+* Use [Mozilla Thimble](https://thimble.mozilla.org/){:target="_blank"} to make our first web page
     * HTML Elements
         * Headings
         * Paragraph
@@ -262,7 +263,7 @@ If times remains:
 
 #### 1:30pm
 
-* Start [Unity Pong tutorial](https://www.awesomeincu.com/tutorials/unity-pong/)
+* Start [Unity Pong tutorial](https://www.awesomeincu.com/tutorials/unity-pong/){:target="_blank"}
 
 #### 3pm
 
