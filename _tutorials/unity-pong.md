@@ -313,7 +313,7 @@ For the RightWall, set its Position to `(5.8, 0, 0)` and its Scale to `(1, 6, 1)
 
 TopWall should be positioned at `(0, 3.5, 0)` with a scale of `(10.7, 1, 1)`, and BottomWall has the same scale but with a Y Position of `-3.5`. If you click on the parent 'Walls' object, you should now see this in the Scene view:
 
-![Walls in the scene view](img/tutorials/unity-pong/walls_sceneview.png)
+![Walls in the scene view](/img/tutorials/unity-pong/walls_sceneview.png)
 
 One cool thing: you can now hit play (&#9658;), and the ball will bounce off the walls! Next comes an important, but slightly harder part. We need to make this an actual *game*, not just a ball bouncing around. We need a score system, a way to display the score, some win condition, and a reset button. That's right. It's time for….
 
