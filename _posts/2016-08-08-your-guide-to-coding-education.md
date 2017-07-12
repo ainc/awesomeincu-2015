@@ -45,11 +45,3 @@ Source:  [http://www.exploringcs.org/resources/cs-statistics](http://www.explori
 At the end of the day, these programs are working. Not only are the big programs placing people in jobs; every one-day class and every online campaign is generating interest. Remember the stat about the woeful number of engaged high-school students from College Board? That was from 2010. Now, more than double that many students take the test. From 2013 to 2014, there was a 19% increase in participation, more than any other test. 792 more schools offered the test. The numbers still aren&#39;t great, but they are getting better, and it&#39;s programs like Awesome Inc. U that are helping people get there.
 
 More than anything, especially if you aren&#39;t looking into a computer science or engineering career, learning code isn&#39;t always about the code. It&#39;s about how to think. It&#39;s about breaking down a big problem into something solvable. Being a thinker and a problem solver is something that goes far in any field for anyone, anywhere, and that is why, now more than ever, everyone should learn to code.
-
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-	<a class="a2a_button_facebook"></a>
-	<a class="a2a_button_twitter"></a>
-	<a class="a2a_button_linkedin"></a>
-</div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>

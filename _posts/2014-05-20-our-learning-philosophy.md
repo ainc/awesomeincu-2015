@@ -59,11 +59,3 @@ These tactics are some of the things that we remind our students and teaching as
 ## Additional Reading
 
 The above are just a few guidelines that we’re following as we’re growing Awesome Inc U into a premier training program for technical skills. We’re constantly learning through this process as well, so we hope to add further insights to this list. There are some other great resources out there for improving the learning process. We’re a big fan of the work the [Khan Academy](https://www.khanacademy.org/) is doing. Purely online education still has a long way to go, but Sal Khan and his team are thinking about it in the right way. Jeff Casimir’s [How to Teach Anyone Anything](http://blip.tv/rubynation/jeff-casimir-4337403) is a great reference, especially for others who are helping people learn to code. But perhaps the best advice comes from my one of my math professors in college. He asked our class a question, which most of us initially thought to be self-serving, but was quite the opposite: “Who’s the best teacher you’ve ever had?” After shooting down a series of answers, he let us know the only answer that he would accept: “You, yourself, are the best teacher you will ever have.”
-
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-	<a class="a2a_button_facebook"></a>
-	<a class="a2a_button_twitter"></a>
-	<a class="a2a_button_linkedin"></a>
-</div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>

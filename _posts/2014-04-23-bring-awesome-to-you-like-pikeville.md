@@ -29,11 +29,3 @@ As with all our Awesome Inc U courses, we made sure to take a break to stretch o
 While most of our 1-day crash courses are hosted at our headquarters in Lexington, Kentucky, we’ve enjoyed the opportunity to bring on-site courses to various organizations. We’ve been to a few dozen K-12 schools for Hour of Code sessions. In March alone, our team traveled to the University of Pikeville for this iOS App 1-day course (through a partnership with the [KY Innovation Network](http://kyinnovation.com/)) and to Dreamhost in Los Angeles, California to present a class on the increasingly-popular static site generator, [Jekyll](https://www.udemy.com/jekyll-and-github-pages/?couponCode=aincwebsite). For many organizations, being able to offer an on-site class makes it easier for their key team members to attend. Along with our live instruction, each course includes supplementary materials like sample code files, course manuals, and screencast videos of your training session.
 
 Visit us at [www.awesomeincu.com](http://www.awesomeincu.com) and check out what we have to offer. Does your school or business need a coding course, however you don’t see one that you need? [Contact our team](http://awesomeincu.com/info) and we can build a class to your specifications. One of the great aspects about these classes is that they can be catered to fit your school or company’s needs in terms of content, skill level, and more! Our team is experienced, professional, and ready to assist you with all of your coding educational needs.
-
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-	<a class="a2a_button_facebook"></a>
-	<a class="a2a_button_twitter"></a>
-	<a class="a2a_button_linkedin"></a>
-</div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>

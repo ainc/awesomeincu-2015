@@ -19,11 +19,3 @@ One of the ways that we're helping to make this a reality is sharing our insight
 Here's my presentation called [Coding Demystified: How to teach programming without a CS degree](http://bit.ly/codeoc15) from the [Innovate, Integrate, Motivate](http://summeredtechpd.wordpress.com) EdTech conference:
 
 <iframe src="https://docs.google.com/presentation/d/1Uz-Cjit_eKTAAOa9hio5hLkOw_rp-JZZpZ4VBX0uZZM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-	<a class="a2a_button_facebook"></a>
-	<a class="a2a_button_twitter"></a>
-	<a class="a2a_button_linkedin"></a>
-</div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>

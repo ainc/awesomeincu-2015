@@ -31,11 +31,3 @@ The [Bootcamp Open House](https://www.eventbrite.com/e/what-is-a-coding-bootcamp
 {% include special-announcement.html %}
 
 I can't wait to see you at our [Bootcamp Open House](https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-24488142694) on May 12th.
-
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-	<a class="a2a_button_facebook"></a>
-	<a class="a2a_button_twitter"></a>
-	<a class="a2a_button_linkedin"></a>
-</div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>

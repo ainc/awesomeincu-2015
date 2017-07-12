@@ -33,11 +33,3 @@ Starting in September and ending in December, the Academy will give student an i
 Of course, you don’t have to take it from us that starting early is great for a programmer’s career.  Bill Gates had his first experience with computers when he made a tic-tac-toe game at the age of 13.  Mark Zuckerberg was creating video games in middle school.  Larry Page, co-founder of Google, had two programmers for parents and was surrounded by computers and technology throughout his childhood.  
 
 There are many other programmers whose life story shows that it’s never too early to start learning to code.  The students at our Code Camp events have been the most creative, attentive, and enthusiastic learners we could have hoped for and they’re off to a great start mastering an invaluable set of skills.  Hopefully, they’ll keep on learning, and in a decade or two they’ll be the professionals we invite back to help inspire the next generation of young programmers!
-
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-	<a class="a2a_button_facebook"></a>
-	<a class="a2a_button_twitter"></a>
-	<a class="a2a_button_linkedin"></a>
-</div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>

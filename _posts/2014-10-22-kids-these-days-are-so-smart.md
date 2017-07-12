@@ -29,11 +29,3 @@ I've been inspired watching these kids learn computer science principles and bui
 There are a variety of great learn-to-code opportunities that have shown up on the scene over the past few years. The best place to start is with the Hour of Code from [Code.org](http://code.org/). Over 10 million people got their introduction to coding during this event, which launched last December. Many students get exposed to the Hour of Code in their schools, but the free resources organized by Code.org can be accessed at home on any computer with a web browser. A great next step is the self-guided curriculum from Codecademy.com. This site offers a smooth introduction to a variety of popular programming languages like JavaScript and Ruby. From there, taking in-person courses is a solid option. While only 10% of K-12 schools offer computer courses, there are a variety of other offerings. There are some free options like [CoderDojo](https://coderdojo.com/), as well as paid summer programs like [iD Tech Camps](http://www.idtech.com/), [One Day Crash Courses](http://www.awesomeincu.com/curriculum/#k12-day) and semester-long programs like our [Awesome Inc Academy](http://awesomeincu.com).
 
 Kids these days are so smart. Let's treat them that way and give them the opportunities they deserve.
-
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-	<a class="a2a_button_facebook"></a>
-	<a class="a2a_button_twitter"></a>
-	<a class="a2a_button_linkedin"></a>
-</div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>

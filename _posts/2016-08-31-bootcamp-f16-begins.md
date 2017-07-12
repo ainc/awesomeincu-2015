@@ -27,11 +27,3 @@ For the duration of the Bootcamp program, our students are collaborating by usin
 As this is no academic exercise, the other key piece of the program is preparing our students for getting their first job as a software developer. The program comes with a money-back guarantee that each student will receive a job offer from a regional company within six months of program completion. Since this program was started in the midst of a software developer shortage in Kentucky, it has been designed with the needs of area technology employers in mind. Ranging from hot new tech startups, to established corporations in major regional industries like healthcare and manufacturing, Awesome Inc U has a set of employer partners who will be sending representatives to get to know students during the Bootcamp program. Before the program concludes on November 11th, students may already know their future employer and co-workers.
 
 Applications are now open for the Spring 2017 cohort, and can be accessed via the [Bootcamp application page](/applications/bootcamp).
-
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-	<a class="a2a_button_facebook"></a>
-	<a class="a2a_button_twitter"></a>
-	<a class="a2a_button_linkedin"></a>
-</div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>

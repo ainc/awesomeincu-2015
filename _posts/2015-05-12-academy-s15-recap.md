@@ -25,11 +25,3 @@ The first semester of the Awesome Inc Academy began in September 2014 with nine 
 Last week marked the completion of our second semester of the Academy, and once again our students rose to the occasion. These boys and girls, representing 11 different area schools, both public and private, not only designed, created, and tested their own software, but also had the eloquence to present it in front of a group. Nearly 50 people were in attendance for [Academy final presentations](https://www.flickr.com/photos/awesomeinc/sets/72157652375068985/), ranging from parents and siblings of our students, to Awesome Inc staff and Academy coaches, to software developers and executives of local tech companies. While these teenage students may not be starting tech companies in their parents' basements this summer, they're well on their way to polishing the skills that will enable them to do so in the future. If the likes of Bill Gates and Mark Zuckerberg got started programming before they graduated high school, shouldn't more of Kentucky's kids be doing the same?
 
 PS: [Academy applications for Fall 2015](http://www.awesomeincu.com/academy/) are now open.
-
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-	<a class="a2a_button_facebook"></a>
-	<a class="a2a_button_twitter"></a>
-	<a class="a2a_button_linkedin"></a>
-</div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>

@@ -35,11 +35,3 @@ The best way to open up the world of computer programming to kids is through sch
 A good resource to help introduce kids to coding is through [Awesome Inc U](http://www.awesomeincu.com/). They offer a [Coding Camp](http://www.awesomeincu.com/weekofcode/), a [Day of Code](http://www.awesomeincu.com/curriculum/#k12-day) Program for educators, and [one day courses](http://www.awesomeincu.com/register) for individual coding languages.
 
 _This post originally appeared on the [Awesome Inc blog](http://blog.awesomeinc.org/post/86507708111/why-21st-century-kids-should-learn-the-21st-century)._
-
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-	<a class="a2a_button_facebook"></a>
-	<a class="a2a_button_twitter"></a>
-	<a class="a2a_button_linkedin"></a>
-</div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>

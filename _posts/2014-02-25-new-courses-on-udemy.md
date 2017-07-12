@@ -35,11 +35,3 @@ We currently have 3 courses up on Udemy:
 * [Jekyll and GitHub Pages Web Development](https://www.udemy.com/jekyll-and-github-pages/?couponCode=aincwebsite)
 
 The first two of these are our most popular Crash Courses, while [Jekyll](http://jekyllrb.com/) is a tool that we use internally to manage the [Awesome Inc and Awesome Inc U websites](http://github.com/ainc) (and if WordPress isn’t doing the trick for your site, you should check out Jekyll, too). We’ll continue to add more courses as time goes on. If there are any topics that you’d like for us to cover in future courses, please [let us know](https://www.facebook.com/awesomeincorporated). In the mean time, you can [follow us on Udemy](https://www.udemy.com/u/awesomeinc/) to keep updated as courses roll out.
-
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-	<a class="a2a_button_facebook"></a>
-	<a class="a2a_button_twitter"></a>
-	<a class="a2a_button_linkedin"></a>
-</div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>

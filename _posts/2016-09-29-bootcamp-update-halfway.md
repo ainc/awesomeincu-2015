@@ -36,11 +36,3 @@ We couldn’t be more proud of our Bootcamp students and how far they’ve come 
 
 
 PS: Applications are now open for our Spring 2017 cohort, and can be accessed via the [Bootcamp application page](/applications/bootcamp).
-
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-	<a class="a2a_button_facebook"></a>
-	<a class="a2a_button_twitter"></a>
-	<a class="a2a_button_linkedin"></a>
-</div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>
