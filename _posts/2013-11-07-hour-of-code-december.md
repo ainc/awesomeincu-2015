@@ -21,3 +21,11 @@ I’d argue that the actual process of learning to code is actually much easier 
 I want you to commit to just get started. Pick just one hour during national [CS Education Week](http://csedweek.org/) (December 9-15) and do something. If you know a K-12 school who would like to bring the Hour of Code to their classroom this December, let us know how [Awesome Inc U can help](http://awesomeincu.com/hourofcode.html).
 
 And if all else fails, hit me up on [Twitter](https://twitter.com/aerosuch) or [Facebook](https://www.facebook.com/nicksuch) and I’ll sit down with you 1-on-1 for an hour.
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_twitter"></a>
+	<a class="a2a_button_linkedin"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>

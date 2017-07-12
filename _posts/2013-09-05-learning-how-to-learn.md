@@ -43,3 +43,11 @@ We hoped that this shortage of technical co-founders would improve on its own ov
 ## Learning Is Hard, But It's Easier Than Ever
 
 As my team at [Awesome Inc](http://awesomeincu.com/) spent the past few months exploring the technical co-founder drought, we learned that our society's journey to help people learn to code is still in its infancy. In spite of all our modern advances in [MOOCs](https://www.coursera.org/), [K-12 STEM curriculum programs](http://alum.mit.edu/volunteering/VolunteerTools/K12Toolkit?destination=node/18117), and some [ridiculously awesome Q&A sites](http://stackoverflow.com/), **learning is still hard work**. We have made great strides increasing access to educational content, but that content is only part of the challenge of education. It still takes time, money, discipline, and some great teachers to create a capable software developer. And while the learn-to-code movement has gotten some [mixed reviews](http://www.slate.com/articles/technology/future_tense/2013/08/everybody_does_not_need_to_learn_to_code.html), I think its major benefit is in paving the way for helping people learn *anything* more easily. With the abundance of educational content, huge employment demand, and boundless startup opportunities, we have some potent resources for training people in today's crop of technical skills. Tomorrow will bring some new technology to learn, some new skill *du jour*. If I am ever going to consider my work on the learn-to-code movement to be a success, it will be that our impact goes well beyond helping some people learn how to make their first iPhone app. I hope we help a whole new generation learn how to learn.
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_twitter"></a>
+	<a class="a2a_button_linkedin"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>

@@ -48,3 +48,11 @@ The 8 awesome schools we worked with last week:
 [The Learning Center at Linlee](http://www.tlc.fcps.net/)
 
 Following the success of the Hour of Code last week, we’re not sure we can wait for [Grace Hopper](http://www.engadget.com/2013/12/09/google-doodle-grace-hopper/) to have another birthday. If you’d like to bring the Awesome Inc U team to your K-12 school (or office/church/university, etc), [let us know](http://www.awesomeincu.com/info/).
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_twitter"></a>
+	<a class="a2a_button_linkedin"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>

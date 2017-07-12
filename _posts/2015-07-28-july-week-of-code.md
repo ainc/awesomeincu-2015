@@ -21,3 +21,11 @@ The latter topic was introduced using a new, locally-crafted tutorial on [how to
 In addition to gaining experience with specific programming languages and tools, they learned some general aspects of computer programming like the importance of precise syntax and attention to detail. They also developed an appreciation for what kind of work goes into making the video games that they play so much. A central objective for the week was to empower them to build with code. We hope they go on to build things that impact the world and enhance our lives!
   
 > Originally posted on the [Awesome Inc Blog](http://blog.awesomeinc.org/post/125270723281/july-week-of-code)
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_twitter"></a>
+	<a class="a2a_button_linkedin"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>

@@ -39,3 +39,10 @@ I always laugh when someone refers to a company that develops a physical product
 
 What is powerful about our new type of code is the level of expressiveness that it affords us. I can't manufacture automobiles using football code. While the "[Battle Hymn of the Republic](http://www.youtube.com/watch?v=wpZ3jPMM5Ac)" may seem to the contrary, I can't devise military plans using a Treble Clef. But we can use software code to build time-wasting mobile game apps, and to guide an Earthly vessel to a safe (and spectacular) landing on the planet Mars. Its power lies not in itself, but in us. Code is only as powerful as the human imagination. So my friends, think of all who preceded you in history, who held great ideas yet lacked a truly powerful way to express them globally, instantly. You have a chance, unique to this time in history, to wield a particularly awesome power. So dream big, and use it for good.
 
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_twitter"></a>
+	<a class="a2a_button_linkedin"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>

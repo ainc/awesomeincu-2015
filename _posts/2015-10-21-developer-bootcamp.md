@@ -35,3 +35,11 @@ So, who is the ideal candidate for our bootcamp program? It's not for everyone. 
 What will you be able to do once you complete the Bootcamp? You should be able to build web applications. If I was hiring someone to make me a new chair, I'd want to see that she had built chairs before, and I'd want to sit in one of those chairs to make sure it could hold up. Our employer partners are looking for people who can build digital products, such as [full-stack web](https://www.quora.com/What-does-the-term-full-stack-programmer-mean) applications, so you'll be making several of those during the program. Your future employer will want to see what you've made, and poke around a bit to make sure it holds up. You'll also learn how to work with a technical team, how to communicate with customers, and how to keep your development skills in top shape for years to come.
 
 We'll have more info in the coming months about our curriculum, schedule, employer partners, and other opportunities for the technology community to be involved. For now, check out the [Bootcamp page](/bootcamp/) for the details. This journey into the future is one that we couldn't make alone. Awesome Inc U wouldn't be at this point, ready to grow our region's base of technical talent, without help from our friends at [Apax Software](http://www.apaxsoftware.com), [Commerce Lexington](http://www.commercelexington.com), and a host of individuals who have advised our team over the past few years. 
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_twitter"></a>
+	<a class="a2a_button_linkedin"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>

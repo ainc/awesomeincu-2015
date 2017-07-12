@@ -26,3 +26,11 @@ We reviewed several options, but selected these dates for a few important reason
 We were super impressed with the students in our F16 cohort, and can't wait to meet our Summer and Fall 2017 students. Like all educational institutions, we have a special opportunity to influence our students, who will in-turn influence the technology community of which they are now members. Awesome Inc exists to help grow the technology and startup communities throughout Kentucky, so we're particularly excited that Awesome Inc U students have become part of that fabric. Through a mix of curiosity, discipline, teamwork, and persistence, our graduates are now building software that helps local companies grow, which helps our economy grow, and helps make Kentucky a better place to live, work, and play.
 
 For the Summer 2017 cohort, we've already matched the number of applicants from our first cohort, but [applications remain open](https://www.awesomeincu.com/applications/bootcamp/) through March 17th. Interviews begin in January 2017.
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_twitter"></a>
+	<a class="a2a_button_linkedin"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
