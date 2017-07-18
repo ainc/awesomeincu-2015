@@ -276,7 +276,7 @@ void ResetBall(){
 ```csharp
 void RestartGame(){
     ResetBall();
-    Invoke("GoBall");
+    Invoke("GoBall", 1);
 }
 ```
 
