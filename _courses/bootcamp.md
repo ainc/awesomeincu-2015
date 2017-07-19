@@ -112,7 +112,7 @@ There's no way I would have been able to figure any of it out or do so well, wit
         </div>
         <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
           <div class="panel-body">
-            <p>Our next Bootcamp cohort (Fall 2017) has classes from Monday, September 18th - Friday, December 7th. There is a free <a href="https://www.eventbrite.com/e/become-a-web-developer-in-12-weeks-guaranteed-job-placement-lunch-learn-may-31st-1200-pm-tickets-33868736302">informational lunch and learn session</a> on Wednesday, May 31st for prospective students. The application deadline for the F17 cohort is Friday, July 14th.</p>
+            <p>Our next Bootcamp cohort (Fall 2017) has classes from Monday, September 18th - Friday, December 8th. There is a free <a href="https://www.eventbrite.com/e/become-a-web-developer-in-12-weeks-guaranteed-job-placement-lunch-learn-may-31st-1200-pm-tickets-33868736302">informational lunch and learn session</a> on Wednesday, May 31st for prospective students. The application deadline for the F17 cohort is Friday, July 14th.</p>
           </div>
         </div>
       </div>
