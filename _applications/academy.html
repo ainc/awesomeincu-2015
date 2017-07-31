@@ -42,9 +42,23 @@ Zoho Forms Note :
 
     <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Email<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Email' /></td></tr>
 
-    <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Parent Phone Number<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='30' name='Phone' /></td></tr>
+    <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Phone Number<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='30' name='Phone' /></td></tr>
 
     <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Why are you applying to the Awesome Inc &#x28;U&#x29;&#x3f; </td><td> <textarea name='LEADCF13' maxlength='2000' style='width:250px;'>&nbsp;</textarea></td></tr>
+
+    <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Course<span style='color:red;'>*</span></td><td style='width:250px;'>
+        <select style='width:250px;' name='LEADCF4'>
+            <option value='-None-'>-None-</option>
+            <option value='Coding&#x20;Club'>Coding Club</option>
+            <option value='Tech&#x20;Association'>Tech Association</option>
+            <option value='Coding&#x20;League'>Coding League</option>
+            <option value='Week&#x20;of&#x20;Code'>Week of Code</option>
+            <option value='Academy'>Academy</option>
+            <option value='Bootcamp'>Bootcamp</option>
+            <option value='Membership'>Membership</option>
+            <option value='Minecraft&#x20;Party'>Minecraft Party</option>
+            <option value='Other'>Other</option>
+        </select></td></tr>
 
     <tr><td colspan='2' style='text-align:center; padding-top:15px;'>
         <input style='font-size:12px;color:#131307' type='submit' value='Submit' />
@@ -53,8 +67,8 @@ Zoho Forms Note :
     </tr>
    </table>
     <script>
-      var mndFileds=new Array('First Name','Last Name','Email','Phone');
-      var fldLangVal=new Array('First Name','Last Name','Email','Parent Phone Number');
+      var mndFileds=new Array('First Name','Last Name','Email','LEADCF4','Phone');
+      var fldLangVal=new Array('First Name','Last Name','Email','Course','Phone Number');
         var name='';
         var email='';
 
