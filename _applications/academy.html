@@ -13,8 +13,7 @@ Zoho Forms Note :
    - It is important that you test the modified form before going live.
 {% endcomment %}
 
-<div id='crmWebToEntityForm' style='width:600px;margin:auto;'>
-   <META HTTP-EQUIV ='content-type' CONTENT='text/html;charset=UTF-8'>
+<div id='crmWebToEntityForm'>
    <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads1947581000002007013 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory()' accept-charset='UTF-8'>
 
      <!-- Do not remove this code. -->
@@ -25,7 +24,8 @@ Zoho Forms Note :
 
     <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;www.awesomeincu.com&#x2f;thanks&#x2f;' />
      <!-- Do not remove this code. -->
-    <style>
+
+<!--     <style>
         tr , td {
             padding:6px;
             border-spacing:0px;
@@ -34,19 +34,46 @@ Zoho Forms Note :
     </style>
     <table style='width:600px;background-color:white;color:black'>
 
-    <tr><td colspan='2' style='text-align:left;color:black;font-family:Arial;font-size:14px;'><strong>Academy Application</strong></td></tr>
+    <tr><td colspan='2' style='text-align:left;color:black;font-family:Arial;font-size:14px;'><strong>Academy Application</strong></td></tr> -->
 
-    <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>First Name<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='40' name='First Name' /></td></tr>
+    <legend>Fill out this form to start your application process</legend>
 
-    <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Last Name<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='80' name='Last Name' /></td></tr>
+ <!--    <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>First Name<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='40' name='First Name' /></td></tr> -->
 
-    <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Email<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Email' /></td></tr>
+    <div class="form-group">
+        <label for="First Name">First Name</label>
+        <input type="text" maxlength="40" name="First Name" placeholder="First Name" class="form-control input-lg" />
+    </div>
 
-    <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Phone Number<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='30' name='Phone' /></td></tr>
+ <!--    <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Last Name<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='80' name='Last Name' /></td></tr>
+ -->
+    <div class="form-group">
+        <label for="Last Name">Last Name</label>
+        <input type="text" maxlength="40" name="Last Name" placeholder="Last Name" class="form-control input-lg" />
+    </div>
 
-    <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Why are you applying to the Awesome Inc &#x28;U&#x29;&#x3f; </td><td> <textarea name='LEADCF13' maxlength='2000' style='width:250px;'>&nbsp;</textarea></td></tr>
+    <!-- <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Email<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Email' /></td></tr> -->
 
-    <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Course<span style='color:red;'>*</span></td><td style='width:250px;'>
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="text" maxlength="100" name="Email" placeholder="Email Address" class="form-control input-lg"/>
+    </div>
+
+    <!-- <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Phone Number<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='30' name='Phone' /></td></tr> -->
+
+    <div class="form-group">
+        <label for="Phone">Phone</label>
+        <input type="text" maxlength="30" name="Phone" placeholder="Phone Number" class="form-control input-lg"/>
+    </div>
+
+    <!-- <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Why are you applying to the Awesome Inc &#x28;U&#x29;&#x3f; </td><td> <textarea name='LEADCF13' maxlength='2000' style='width:250px;'>&nbsp;</textarea></td></tr> -->
+
+    <div class="form-group">
+        <label for="LEADCF13">Why are you applying to the Awesome Inc &#x28;U&#x29;&#x3f; </label>
+        <input type="text" maxlength="255" name="LEADCF13" class="form-control input-lg"/>
+    </div>
+
+<!--     <tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Course<span style='color:red;'>*</span></td><td style='width:250px;'>
         <select style='width:250px;' name='LEADCF4'>
             <option value='-None-'>-None-</option>
             <option value='Coding&#x20;Club'>Coding Club</option>
@@ -58,14 +85,22 @@ Zoho Forms Note :
             <option value='Membership'>Membership</option>
             <option value='Minecraft&#x20;Party'>Minecraft Party</option>
             <option value='Other'>Other</option>
-        </select></td></tr>
+        </select></td></tr> -->
 
-    <tr><td colspan='2' style='text-align:center; padding-top:15px;'>
+    <div style="display:none;">
+        Course
+        <select name="LEADCF4">
+        <option selected value="Academy">Academy</option>
+        </select>
+    </div>
+    <input type="submit" value="Submit" class="btn btn-default" />
+
+<!--     <tr><td colspan='2' style='text-align:center; padding-top:15px;'>
         <input style='font-size:12px;color:#131307' type='submit' value='Submit' />
         <input type='reset' style='font-size:12px;color:#131307' value='Reset' />
         </td>
     </tr>
-   </table>
+   </table> -->
     <script>
       var mndFileds=new Array('First Name','Last Name','Email','LEADCF4','Phone');
       var fldLangVal=new Array('First Name','Last Name','Email','Course','Phone Number');
