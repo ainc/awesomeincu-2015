@@ -43,19 +43,26 @@ Zoho Forms Note :
         <input type="text" maxlength="30" name="Phone" placeholder="Phone Number" class="form-control input-lg"/>
     </div>
     <div class="form-group">
-        <label for="LEADCF13">Why are you applying to the Awesome Inc &#x28;U&#x29;&#x3f; </label>
-        <input type="text" maxlength="255" name="LEADCF13" class="form-control input-lg"/>
+        <label for="LEADCF6">How did you find out about Awesome Inc U?</label>
+        <input type="text" maxlength="255" name="LEADCF6" placeholder="Google search, Facebook, Signage, From a friend..." class="form-control input-lg"/>
     </div>
     <div style="display:none;">
         Course
         <select name="LEADCF4">
         <option selected value="Academy">Academy</option>
         </select>
+        Lead Source
+        <select name="Lead Source">
+        <option selected value='Website&#x20;Application&#x20;Form'>Website Application Form</option>
+        </select>
     </div>
+
+
+
     <input type="submit" value="Submit" class="btn btn-default" />
     <script>
-      var mndFileds=new Array('First Name','Last Name','Email','LEADCF4','Phone');
-      var fldLangVal=new Array('First Name','Last Name','Email','Course','Phone Number');
+      var mndFileds=new Array('First Name','Last Name','Email','LEADCF6','Phone');
+      var fldLangVal=new Array('First Name','Last Name','Email','Phone','How did you find out about Awesome Inc?');
         var name='';
         var email='';
 
