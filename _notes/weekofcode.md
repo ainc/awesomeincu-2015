@@ -26,7 +26,7 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 ### Equipment and Account setup
 
 * Students each need to bring a computer with macOS/Windows (must have permission to install programs, including necessary passwords)
-* Software: [Google Chrome](http://www.google.com/chrome/), [Unity - personal edition](https://store.unity.com/download?ref=personal), [MIT App Inventor](http://appinventor.mit.edu/explore/ai2/setup-emulator.html), and [Sublime Text](http://www.sublimetext.com/3)
+* Software: [Google Chrome](http://www.google.com/chrome/), [Unity - personal edition](https://store.unity.com/download?ref=personal)
 * Accounts: [Google account](accounts.google.com) (Gmail, Google Drive, etc), [Unity account](https://id.unity.com/), [Mozilla Webmaker account](https://id.webmaker.org/signup), [CodeCombat account](https://codecombat.com/) (get special class code from instructors)
 
 ## Schedule Summary
@@ -80,7 +80,7 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 #### 4pm
 
-* Install help time
+* Setup / Install help time
     * Web: [Google Chrome](http://www.google.com/chrome/), [FileZilla](https://filezilla-project.org/download.php?type=client), [Sublime Text 2](http://www.sublimetext.com/download)
     * Mobile: [MIT App Inventor w/ Emulator](http://appinventor.mit.edu/explore/ai2/setup-emulator)
     * Games: [Unity 3D](https://unity3d.com/unity/download)
@@ -151,7 +151,7 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 #### 4:30pm
 
-* Confirm Web (Mozilla Thimble, Sublime Text) setup for Wednesday
+* Confirm Web (Google Chrome, Mozilla Thimble) setup for Tuesday
 * More App Inventor
     * SpaceInvaders App
         * Customize colors and font
