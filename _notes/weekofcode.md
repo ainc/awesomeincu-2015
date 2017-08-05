@@ -31,7 +31,7 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 ## Schedule Summary
 
-[Sun/Pre-work](#prework-day) - Intro to programming concepts with Angry Birds, Codecademy, Scratch, JavaScript
+[Pre-work](#prework-day) - Intro to programming concepts with Angry Birds, Codecademy, Scratch, JavaScript
 
 [Mon](#mobile-day) - Making Mobile Apps with MIT App Inventor
 
@@ -43,11 +43,11 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 ## Detailed Schedule
 
-<h3 id="prework-day">Sunday (optional setup / pre-work session)</h3>
+<h3 id="prework-day">Pre-work (optional setup help / self-guided prep session)</h3>
 
 ** Note: times may change for setup session. See class email for details.
 
-#### 1pm
+#### Coding Basics
 
 * Watch [video](http://www.youtube.com/watch?v=FC5FbmsH4fw)
 * Do [Angry Birds and Plants vs Zombies](http://learn.code.org/hoc/1) challenge
@@ -61,29 +61,21 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
     * [MIT Scratch](http://scratch.mit.edu/)
     * [RoboZZle](http://robozzle.com/)
 
-#### 2pm
+#### Deeper Dive into CS
 
 * CS Topics - [slides](https://docs.google.com/presentation/d/19xKp0xGAZlptzgbX612Zg3Q9kh-zLFhbGxg63VOZurk/edit)
 * JavaScript basics
     * [Codecademy Hour of Code](http://www.codecademy.com/hour-of-code/)
     * [CodePen](https://codepen.io/) or [JSFiddle](https://jsfiddle.net/)
 
-#### 3pm
-
-* Break / Game
-
-3:15pm
+#### Web Development
 
 * HTML and CSS basics
     * [Mozilla Thimble](https://thimble.webmaker.org/)
     * [Codecademy Web Track](http://www.codecademy.com/tracks/htmlcss)
 
-#### 4pm
-
-* Setup / Install help time
-    * Web: [Google Chrome](http://www.google.com/chrome/), [FileZilla](https://filezilla-project.org/download.php?type=client), [Sublime Text 2](http://www.sublimetext.com/download)
-    * Mobile: [MIT App Inventor w/ Emulator](http://appinventor.mit.edu/explore/ai2/setup-emulator)
-    * Games: [Unity 3D](https://unity3d.com/unity/download)
+#### Setup / Install help
+* See Equipment and Account Setup section above
 * Homework challenge
     * [Rock Paper Scissors in code](http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1)
     * [Sonic Pi - music from code](http://sonic-pi.net/)
@@ -312,11 +304,10 @@ If times remains:
         * [p5.js animation projects](http://p5js.org/examples/), remix from [p5.js sample](https://thimbleprojects.org/mozillalearning/213461/)
         * [Javascript on Codecademy](https://www.codecademy.com/learn/learn-javascript)
     * Game
-        * [Pong Tutorial](http://www.awesomeincu.com/tutorials/unity-pong/)
-        * [Making Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02)
-        * [Roll-a-Ball](http://unity3d.com/learn/tutorials/projects/roll-ball-tutorial)
-        * [Space Shooter](http://unity3d.com/learn/tutorials/projects/space-shooter-tutorial)
-        * [2D UFO game](https://unity3d.com/learn/tutorials/projects/2d-ufo-tutorial)
+        * [Pong Tutorial, 2D](http://www.awesomeincu.com/tutorials/unity-pong/)
+        * [Making Minecraft, 3D](https://github.com/dannythorne/MakingMinecraft_Take02)
+        * [Roll-a-Ball, 3D](http://unity3d.com/learn/tutorials/projects/roll-ball-tutorial)
+        * [UFO game, 2D](https://unity3d.com/learn/tutorials/projects/2d-ufo-tutorial)
     * Other
         * [MIT Scratch](https://scratch.mit.edu/) - tutorials from [Scratch Programming Playground](https://inventwithscratch.com/book/)
         * [Sonic Pi](http://sonic-pi.net/), make music like [Aerodynamic](https://aimxhaisse.com/aerodynamic-en.html) with code
@@ -349,9 +340,9 @@ Note: most projects here will take longer than 4 hours to complete. That's OK! O
 * Next steps for learning
     1. Online resources: [Codecademy](https://www.codecademy.com/), [Code.org](https://www.code.org), [Udacity](https://www.udacity.com)
     2. Awesome Inc Fall/Spring weekly classes:
-        * Beginner: [Coding Club](https://www.awesomeincu.com/coding-club/)
-        * Intermediate: [Coding League](https://www.awesomeincu.com/coding-league/)
-        * Advanced:[The Academy](https://www.awesomeincu.com/academy/)
+        * Beginner: register for [Coding Club](https://www.awesomeincu.com/coding-club/)
+        * Intermediate: register for [Coding League](https://www.awesomeincu.com/coding-league/)
+        * Advanced: apply for [The Academy](https://www.awesomeincu.com/academy/)
 
 
 #### 5pm
