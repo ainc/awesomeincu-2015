@@ -118,20 +118,6 @@ Come back for as many sessions as you’d like, the fun and the knowledge keeps 
           </div>
         </div>
       </div>
-      <div class="panel panel-default"> <!-- QUESTION 6 -->
-        <div class="panel-heading" role="tab" id="headingSix">
-          <h4 class="panel-title">
-            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-              <h3>Are scholarships available for this course?</h3>
-            </a>
-          </h4>
-        </div>
-        <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
-          <div class="panel-body">
-            <p>Yes, a very limited number of partial scholarships are available. You can apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9t_ECAVqVVHWNalx-hiUiOeRk7hk94uZQEGBu7Vt48Uu5PQ/viewform">here</a>!</p>
-          </div>
-        </div>
-      </div>
       <div class="panel panel-default"> <!-- QUESTION 7 -->
         <div class="panel-heading" role="tab" id="headingSeven">
           <h4 class="panel-title">
