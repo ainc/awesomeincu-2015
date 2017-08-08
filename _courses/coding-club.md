@@ -115,19 +115,7 @@ The Coding Club meets one evening a week for 90 minutes, with 16 weeks of classe
             <p>There is a one-week gap between sessions 3 and 4 due to Fayette Co. Schools Spring Break.</p>
           </div>
         </div>
-      </div>
-      <div class="panel panel-default"> <!-- QUESTION 6 -->
-        <div class="panel-heading" role="tab" id="headingSix">
-          <h4 class="panel-title">
-            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-            </a>
-          </h4>
-        </div>
-        <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
-          <div class="panel-body">
-          </div>
-        </div>
-      </div>
+	</div>
       <div class="panel panel-default"> <!-- QUESTION 7 -->
         <div class="panel-heading" role="tab" id="headingSeven">
           <h4 class="panel-title">
