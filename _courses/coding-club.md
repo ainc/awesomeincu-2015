@@ -126,7 +126,6 @@ The Coding Club meets one evening a week for 90 minutes, with 16 weeks of classe
         </div>
         <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
           <div class="panel-body">
-            <p>Yes, a very limited number of partial scholarships are available. You can apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9t_ECAVqVVHWNalx-hiUiOeRk7hk94uZQEGBu7Vt48Uu5PQ/viewform">here</a>!</p>
           </div>
         </div>
       </div>
