@@ -144,20 +144,6 @@ The Coding Club meets one evening a week for 90 minutes, with 16 weeks of classe
           </div>
         </div>
       </div>
-      <div class="panel panel-default"> <!-- QUESTION 9 -->
-        <div class="panel-heading" role="tab" id="headingNine">
-          <h4 class="panel-title">
-            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-              <h3>Can the student sign up for just one session?</h3>
-            </a>
-          </h4>
-        </div>
-        <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">
-          <div class="panel-body">
-            <p>You can sign up for a single session or sign up for the whole semester (4 sessions) at a discounted rate.</p>
-          </div>
-        </div>
-      </div>
       <div class="panel panel-default"> <!-- QUESTION 10 -->
         <div class="panel-heading" role="tab" id="headingTen">
           <h4 class="panel-title">
