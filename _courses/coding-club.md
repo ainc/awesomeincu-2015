@@ -120,7 +120,6 @@ The Coding Club meets one evening a week for 90 minutes, with 16 weeks of classe
         <div class="panel-heading" role="tab" id="headingSix">
           <h4 class="panel-title">
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-              <h3>Are scholarships available for this course?</h3>
             </a>
           </h4>
         </div>
