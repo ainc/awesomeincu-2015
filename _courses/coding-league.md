@@ -118,9 +118,6 @@ Come back for as many sessions as you’d like, the fun and the knowledge keeps 
           </div>
         </div>
       </div>
-          </div>
-        </div>
-      </div>
       <div class="panel panel-default"> <!-- QUESTION 7 -->
         <div class="panel-heading" role="tab" id="headingSeven">
           <h4 class="panel-title">
