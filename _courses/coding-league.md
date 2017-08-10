@@ -58,7 +58,9 @@ Come back for as many sessions as you’d like, the fun and the knowledge keeps 
         </div>
         <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
           <div class="panel-body">
-            <p>Students will need a laptop computer to participate in this course. We do offer rentals at $25/day.</p>
+            <p>Yes. Each student will need to provide his/her own laptop for the course. Microsoft Windows-based PC's, Apple macOS computers, or Google Chromebooks will work, but iPads will not work for this course. We recommend a laptop made within the past 3-4 years. Computers should be free from viruses/malware.
+We use MIT Scratch programming tools for this course. New students should create their own accounts (free) prior to class.
+We have a very limited number of rental laptops available for $25/day, which can be <a href="https://squareup.com/market/awesome-inc/laptop-rental/">reserved online.</a>.</p>
           </div>
         </div>
       </div>
@@ -86,7 +88,7 @@ Come back for as many sessions as you’d like, the fun and the knowledge keeps 
         </div>
         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
           <div class="panel-body">
-        <p>This course is capped at 20 students, so be sure to reserve your spot!</p>
+        <p>This course is capped at 12 students, so be sure to reserve your spot!</p>
           </div>
         </div>
       </div>
