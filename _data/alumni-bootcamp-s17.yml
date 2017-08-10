@@ -1,28 +1,4 @@
 -
-  name: Josh Stewart
-  website: https://jmstewart00.github.io
-  github: https://github.com/JMStewart00
-  linkedin: https://www.linkedin.com/in/josh-stewart-55557532?trk=nav_responsive_tab_profile
-  image: josh-stewart.jpg
-  job: false
-  position: 
--
-  name: Brandon Spencer
-  website: https://doubldragon.github.io/
-  github: https://github.com/doubldragon
-  linkedin: www.linkedin.com/in/brandonrspencer
-  image: brandon-spencer.jpg
-  job: false
-  position: 
--
-  name: Joshua Tucker
-  website: https://jctu225.github.io/
-  github: https://github.com/jctu225
-  linkedin: https://www.linkedin.com/in/joshua-tucker-a0943713a/
-  image: joshua-tucker.jpg
-  job: false
-  position: 
--
   name: Blake Atkinson
   website: https://btatkinson.github.io
   github: https://github.com/btatkinson
@@ -31,27 +7,11 @@
   job: false
   position: 
 -
-  name: Benjamin Wright
-  website: https://benwright3103.github.io/
-  github: https://github.com/benwright3103
-  linkedin: https://www.linkedin.com/in/benjamin-wright-355033138/
-  image: benjamin-wright.jpg
-  job: false
-  position: 
--
-  name: 'Cha''Sed Miller'
-  website: https://ChaChaSlide.github.io
-  github: https://github.com/ChaChaSlide
-  linkedin: https://www.linkedin.com/in/cha-sed-miller-296b5413b/
-  image: chased-miller.jpg
-  job: false
-  position: 
--
-  name: Robert Bryan
+  name: Robbie Bryan
   website: https://brayn7.github.io/
   github: https://github.com/Brayn7
   linkedin: https://www.linkedin.com/in/robbie-bryan-5b81b732/
-  image: robert-bryan.jpg
+  image: robbie-bryan.jpg
   job: false
   position: 
 -
@@ -63,11 +23,11 @@
   job: false
   position: 
 -
-  name: J.David Cupp
-  website: https://davecupp.github.io/
-  github: https://github.com/Davecupp
-  linkedin: https://www.linkedin.com/in/jdavidcupp
-  image: j.david-cupp.jpg
+  name: 'Cha''Sed Miller'
+  website: https://ChaChaSlide.github.io
+  github: https://github.com/ChaChaSlide
+  linkedin: https://www.linkedin.com/in/cha-sed-miller-296b5413b/
+  image: chased-miller.jpg
   job: false
   position: 
 -
@@ -79,11 +39,19 @@
   job: false
   position: 
 -
-  name: David Vanderhaar
-  website: https://david-vanderhaar.github.io/
-  github: https://github.com/david-vanderhaar
-  linkedin: https://www.linkedin.com/in/david-vanderhaar-096b7013b/
-  image: david-vanderhaar.jpg
+  name: Brandon Spencer
+  website: https://doubldragon.github.io/
+  github: https://github.com/doubldragon
+  linkedin: www.linkedin.com/in/brandonrspencer
+  image: brandon-spencer.jpg
+  job: false
+  position: 
+-
+  name: Josh Stewart
+  website: https://jmstewart00.github.io
+  github: https://github.com/JMStewart00
+  linkedin: https://www.linkedin.com/in/josh-stewart-55557532?trk=nav_responsive_tab_profile
+  image: josh-stewart.jpg
   job: false
   position: 
 -
@@ -92,5 +60,29 @@
   github: https://github.com/stockdalemark1978
   linkedin: https://www.linkedin.com/in/mark-stockdale-79b04410/
   image: mark-stockdale.jpg
+  job: false
+  position: 
+-
+  name: Joshua Tucker
+  website: https://jctu225.github.io/
+  github: https://github.com/jctu225
+  linkedin: https://www.linkedin.com/in/joshua-tucker-a0943713a/
+  image: joshua-tucker.jpg
+  job: false
+  position: 
+-
+  name: David Vanderhaar
+  website: https://david-vanderhaar.github.io/
+  github: https://github.com/david-vanderhaar
+  linkedin: https://www.linkedin.com/in/david-vanderhaar-096b7013b/
+  image: david-vanderhaar.jpg
+  job: false
+  position: 
+-
+  name: Benjamin Wright
+  website: https://benwright3103.github.io/
+  github: https://github.com/benwright3103
+  linkedin: https://www.linkedin.com/in/benjamin-wright-355033138/
+  image: benjamin-wright.jpg
   job: false
   position: 
