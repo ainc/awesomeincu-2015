@@ -58,7 +58,7 @@ The Coding Club meets one evening a week for 90 minutes, with 16 weeks of classe
           <div class="panel-body">
             <p>Yes. Each student will need to provide his/her own laptop for the course. Microsoft Windows-based PC's, Apple macOS computers, or Google Chromebooks will work, but iPads will not work for this course. We recommend a laptop made within the past 3-4 years. Computers should be free from viruses/malware.
 We use MIT Scratch programming tools for this course. New students should create their own accounts (free) prior to class.
-We have a very limited number of rental laptops available for $25/day, which can be <a href="https://squareup.com/market/awesome-inc/laptop-rental/">reserved online.</p>
+We have a very limited number of rental laptops available for $25/day, which can be <a href="https://squareup.com/market/awesome-inc/laptop-rental/">reserved online.</a>.</p>
           </div>
         </div>
       </div>
