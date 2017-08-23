@@ -16,6 +16,12 @@ $black: black;
 $color_silver_chalice_approx: #aaa;
 
 /*****************************************************
+						Variables
+*****************************************************/
+
+$background_image: url("/img/awesome-inc-learn-to-code-homepage-bg.jpg");
+
+/*****************************************************
 						Sizes
 *****************************************************/
 
@@ -221,6 +227,68 @@ $mobile-width: $tablet-width - 1;
 	}
 
 }
+
+/*****************************************************
+				Full Screen Header
+*****************************************************/
+
+.page-wrap {
+	z-index: 100;
+	header {
+		height: 100vh;
+		background-image: $background-image;
+		background-size: cover;
+		z-index: 2;
+		display: flex;
+		flex-flow: column;
+		justify-content: center;
+		position: relative;
+		&::after {
+			display: block;
+			position: fixed;
+		}
+		&::before {
+			content: "";
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			position: absolute;
+			background: rgba(101, 101, 101, 0.3);
+		}
+	}
+	
+	h1 {
+		position: relative;
+		display: inline-block;
+		text-align: center;
+		margin-bottom: -10px;
+		z-index: 1;
+		font-size: 36px;
+		font-weight: 600;
+		text-transform: none;
+		color: white;
+		text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+
+	}
+	p {
+		text-align: center;
+		z-index: 3;
+		margin: 50px;
+		a.btn {
+			background-color: white;
+			color: #c7254e;
+			border: none;
+			margin-right: 50px;
+			font-weight: 600;
+		}
+	}
+}
+
+
+
+
+
 
 
 
