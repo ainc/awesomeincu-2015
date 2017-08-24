@@ -19,7 +19,7 @@ $color_silver_chalice_approx: #aaa;
 						Variables
 *****************************************************/
 
-$background_image: url("/img/awesome-inc-learn-to-code-homepage-bg.jpg");
+$background_image: url("/img/awesome-inc-learn-to-code-homepage-bg-grayscale.jpg");
 
 /*****************************************************
 						Sizes
@@ -254,7 +254,8 @@ $mobile-width: $tablet-width - 1;
 			width: 100%;
 			height: 100%;
 			position: absolute;
-			background: rgba(101, 101, 101, 0.3);
+			background: rgba(0, 0, 0, 0.4);
+			
 		}
 	}
 	
@@ -264,29 +265,112 @@ $mobile-width: $tablet-width - 1;
 		text-align: center;
 		margin-bottom: -10px;
 		z-index: 1;
-		font-size: 36px;
+		font-size: 42px;
 		font-weight: 600;
-		text-transform: none;
 		color: white;
 		text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
-
+		font-family: 'Lato', sans-serif;
+	}
+	h2 {
+		position: relative;
+		display: inline-block;
+		text-align: center;
+		margin-bottom: -10px;
+		z-index: 1;
+		font-size: 52px;
+		font-weight: 800;
+		color: white;
+		text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+	}
+	hr {
+		border-top: 4px solid #ff3769;
+		width: 15%;
+		margin: 30px auto;
 	}
 	p {
 		text-align: center;
 		z-index: 3;
-		margin: 50px;
+		margin-bottom: 50px;
 		a.btn {
 			background-color: white;
 			color: #c7254e;
 			border: none;
-			margin-right: 50px;
+			margin: 0 25px;
 			font-weight: 600;
 		}
 	}
 }
 
+/*****************************************************
+				Creative Link Hovers
+*****************************************************/
 
+.cl-link-effect {
+	position: relative;
+	display: inline-block;
+	/*margin: 15px 25px;*/
+	/*outline: none;*/
+	/*color: #fff;*/
+	text-decoration: none;
+	/*text-transform: uppercase;*/
+	letter-spacing: 1px;
+	font-weight: 400;
+	text-shadow: 0 0 1px rgba(255,255,255,0.3);
+	font-size: 1em;
+	overflow: hidden;
+	padding: 0;
+	/*height: 1em;*/
+}
 
+.cl-link-effect  {
+	position: relative;
+	z-index: 1;
+}
+
+.cl-link-effect {
+	overflow: hidden;
+	margin: 0 15px;
+}
+
+.cl-link-effect span {
+	display: block;
+	padding: 10px 20px;
+	background: white;
+	-webkit-transition: -webkit-transform 0.3s;
+	-moz-transition: -moz-transform 0.3s;
+	transition: transform 0.3s;
+}
+
+.cl-link-effect::before {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	padding: 10px 20px;
+	width: 100%;
+	height: 100%;
+	background: #c7254e;
+	color: white;
+	content: attr(data-hover);
+	-webkit-transition: -webkit-transform 0.3s;
+	-moz-transition: -moz-transform 0.3s;
+	transition: transform 0.3s;
+	-webkit-transform: translateX(-25%);
+}
+
+.cl-link-effect:hover span,
+.cl-link-effect:focus span {
+	-webkit-transform: translateX(100%);
+	-moz-transform: translateX(100%);
+	transform: translateX(100%);
+}
+
+.cl-link-effect:hover::before,
+.cl-link-effect:focus::before {
+	-webkit-transform: translateX(0%);
+	-moz-transform: translateX(0%);
+	transform: translateX(0%);
+}
 
 
 
