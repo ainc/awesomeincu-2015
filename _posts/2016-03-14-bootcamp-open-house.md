@@ -18,7 +18,7 @@ Since our last Bootcamp blog post came on Back To The Future Day, I find it's on
 
 ## You're Invited. Yes, You.
 
-On May 12, Awesome Inc will be hosting a free [open house event](https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-24488142694) for our upcoming [Web Developer Bootcamp](/interest/bootcamp/). This 12-week program is meant to take you, a user of software, and turn you into a _creator_ of software. The Bootcamp is not meant for geniuses and prodigies. We've made it for ordinary men and women who want to do something extraordinary with their careers. Your most important skills are curiosity and determination, not prior experience with programming. If you're ready to take the leap, we can help you get there.
+On May 12, Awesome Inc will be hosting a free [open house event](https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-24488142694) for our upcoming [Web Developer Bootcamp](/applications/bootcamp/). This 12-week program is meant to take you, a user of software, and turn you into a _creator_ of software. The Bootcamp is not meant for geniuses and prodigies. We've made it for ordinary men and women who want to do something extraordinary with their careers. Your most important skills are curiosity and determination, not prior experience with programming. If you're ready to take the leap, we can help you get there.
 
 ## The Opportunity
 

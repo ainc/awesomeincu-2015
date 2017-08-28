@@ -52,8 +52,8 @@
   github: https://github.com/JMStewart00
   linkedin: https://www.linkedin.com/in/josh-stewart-55557532/
   image: josh-stewart.jpg
-  job: false
-  position: 
+  job: true
+  position: APAX
 -
   name: Mark Stockdale
   website: http://markstockdale.com/
@@ -76,8 +76,8 @@
   github: https://github.com/david-vanderhaar
   linkedin: https://www.linkedin.com/in/david-vanderhaar-096b7013b/
   image: david-vanderhaar.jpg
-  job: false
-  position: 
+  job: true
+  position: APAX
 -
   name: Benjamin Wright
   website: http://benjaminwright.co/
