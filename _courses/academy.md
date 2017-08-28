@@ -92,7 +92,7 @@ Academy Outcomes:
         </div>
         <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
           <div class="panel-body">
-            <p>We typically observe any holiday / weather cancellations from <a href="https://fcps.net/calendar">FCPS</a>.</p>
+            <p>We typically observe any holiday / weather cancellations from <a href="https://www.fcps.net/calendar">FCPS</a>.</p>
           </div>
         </div>
 	</div>
