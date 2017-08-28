@@ -28,7 +28,7 @@ There's no way I would have been able to figure any of it out or do so well, wit
 
 <p style="clear: both;"><a href="https://www.linkedin.com/in/brett-fraley-446134125">Brett Fraley</a>, <a href="/alumni/bootcamp-f16/">Bootcamp F16</a> alumnus
 <br>Developer, Fusioncorp Design&trade; Creative Solutions</p>
-<p><a class="btn cl-link-effect alumni" data-hover="Bootcamp S17 alumnus" href="/alumni/bootcamp-s17/"><span>Bootcamp S17 alumnus</span></a> </p>
+<p><a class="btn cl-link-effect alumni" data-hover="Bootcamp S17 alumni" href="/alumni/bootcamp-s17/"><span>Bootcamp S17 alumni</span></a> </p>
 
 
 <center><img src="/img/100-percent-hired.jpg" width="400" class="img-responsive" style="padding-bottom: 5px;"></center>
