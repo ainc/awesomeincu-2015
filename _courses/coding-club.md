@@ -13,13 +13,13 @@ permalink: /coding-club/
 
 ### **Do you have a student at home who enjoys spending time on the computer, could play Minecraft for hours, or has done the Hour of Code at school?**
 
-The Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls in elementary and middle school who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting. Our program is for students who want to learn a basic understanding of computer programming under the instruction of our fun and energetic team.
+The Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls in elementary and middle school who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting. Students are taught to code using the popular Scratch programming language from MIT. We make a series of video game projects, which we use to help students learn the core concepts of coding and computer science.
 
 The Coding Club meets one evening a week for 90 minutes, with 16 weeks of classes in the Spring and Fall. The Club starts on a new project every four weeks, so the fun and the knowledge keeps on building. Sign up with friends, or meet new people with similar interests. No prior programming experience is required, but students should be comfortable using a mouse, keyboard, and web browser.
 
 ## Coding Club Outcomes:
 - Learn to apply computational thinking to solve problems
-- Create your own programs and games using MIT Scratch
+- Create your own programs and video games using MIT Scratch
 - Meet other students learning to code
 
 <br>
