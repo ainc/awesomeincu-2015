@@ -8,7 +8,7 @@ permalink: /bootcamp/
 press_footer: true
 ---
 
-## Learn to code in 12 weeks, get a job as a web developer. Guaranteed.
+## Learn to code in 12 weeks, get a job as a web developer.
 
 The Web Developer Bootcamp is a 12-week, full-time training program for aspiring software developers. We've worked with companies throughout the region to design a curriculum to prepare you to dive into a career in software development. This intense training program is designed to quickly take you from the basics of programming to a level of competency in building modern web applications. With over 500 hours of hands-on training, you'll gain experience while building 10+ projects using HTML, CSS, JavaScript, jQuery, AngularJS, AWS, GitHub, Agile, and more.
 
@@ -109,7 +109,7 @@ There's no way I would have been able to figure any of it out or do so well, wit
         </div>
         <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
           <div class="panel-body">
-            <p>Our next Bootcamp cohort (Fall 2017) has classes from Monday, September 18th - Friday, December 8th. There is a free <a href="https://www.eventbrite.com/e/become-a-web-developer-in-12-weeks-guaranteed-job-placement-lunch-learn-may-31st-1200-pm-tickets-33868736302">informational lunch and learn session</a> on Wednesday, May 31st for prospective students. The application deadline for the F17 cohort is Friday, July 14th.</p>
+            <p>Our next Bootcamp cohort (Fall 2017) has classes from Monday, September 18th - Friday, December 8th. <!-- There is a free <a href="https://www.eventbrite.com/e/become-a-web-developer-in-12-weeks-guaranteed-job-placement-lunch-learn-may-31st-1200-pm-tickets-33868736302">informational lunch and learn session</a> on Wednesday, May 31st for prospective students. --> The application deadline for the F17 cohort is Friday, July 14th.</p>
           </div>
         </div>
       </div>
