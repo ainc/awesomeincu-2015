@@ -4,16 +4,16 @@
   github: https://github.com/btatkinson
   linkedin: https://www.linkedin.com/in/blake-atkinson-55bb5613b/
   image: blake-atkinson.jpg
-  job: false
-  position: 
+  job: true
+  position: Parker and <br>Marie Design
 -
   name: Robbie Bryan
   website: https://brayn7.github.io/
   github: https://github.com/Brayn7
   linkedin: https://www.linkedin.com/in/robbie-bryan-5b81b732/
   image: robbie-bryan.jpg
-  job: false
-  position: 
+  job: true
+  position: Able Engine
 -
   name: Daebrion Hopwood
   website: https://dhopwood.github.io
@@ -21,7 +21,7 @@
   linkedin: https://www.linkedin.com/in/daebrion-hopwood-303b4713b/
   image: daebrion-hopwood.jpg
   job: false
-  position: 
+  position:
 -
   name: 'Cha''Sed Miller'
   website: https://ChaChaSlide.github.io
@@ -29,7 +29,7 @@
   linkedin: https://www.linkedin.com/in/cha-sed-miller-296b5413b/
   image: chased-miller.jpg
   job: false
-  position: 
+  position:
 -
   name: Sean Montgomery
   website: https://seancmont.github.io
@@ -37,7 +37,7 @@
   linkedin: https://www.linkedin.com/in/sean-montgomery-aa600a88/
   image: sean-montgomery.jpg
   job: false
-  position: 
+  position:
 -
   name: Brandon Spencer
   website: https://doubldragon.github.io/
@@ -45,7 +45,7 @@
   linkedin: https://www.linkedin.com/in/brandonrspencer/
   image: brandon-spencer.jpg
   job: false
-  position: 
+  position:
 -
   name: Josh Stewart
   website: https://jmstewart00.github.io
@@ -61,7 +61,7 @@
   linkedin: https://www.linkedin.com/in/mark-stockdale-79b04410/
   image: mark-stockdale.jpg
   job: false
-  position: 
+  position:
 -
   name: Joshua Tucker
   website: https://jctu225.github.io/
@@ -69,7 +69,7 @@
   linkedin: https://www.linkedin.com/in/joshua-tucker-a0943713a/
   image: joshua-tucker.jpg
   job: false
-  position: 
+  position:
 -
   name: David Vanderhaar
   website: https://david-vanderhaar.github.io/
@@ -84,5 +84,5 @@
   github: https://github.com/benwright3103
   linkedin: https://www.linkedin.com/in/benjamin-wright-355033138/
   image: benjamin-wright.jpg
-  job: false
-  position: 
+  job: true
+  position: Parker and <br>Marie Design
