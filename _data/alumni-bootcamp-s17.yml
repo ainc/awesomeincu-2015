@@ -28,8 +28,8 @@
   github: https://github.com/ChaChaSlide
   linkedin: https://www.linkedin.com/in/cha-sed-miller-296b5413b/
   image: chased-miller.jpg
-  job: false
-  position:
+  job: true
+  position: Infosys
 -
   name: Sean Montgomery
   website: https://seancmont.github.io
