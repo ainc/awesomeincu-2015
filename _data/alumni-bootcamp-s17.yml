@@ -44,8 +44,8 @@
   github: https://github.com/doubldragon
   linkedin: https://www.linkedin.com/in/brandonrspencer/
   image: brandon-spencer.jpg
-  job: false
-  position:
+  job: true
+  position: Fusion Corp
 -
   name: Josh Stewart
   website: https://jmstewart00.github.io
