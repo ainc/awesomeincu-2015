@@ -6,27 +6,51 @@ description: Awesome Inc U was formed in 2013, and our first <a href="/bootcamp/
 redirect_from:
 ---
 
+
 <div class="container">
+  <div class="blog-header">
+      <h1 class="blog-title">{{page.title}}</h1>
+    <p class="lead blog-description">{{page.description}}</p>
+  </div>
 
-      <div class="blog-header">
-          <h1 class="blog-title">{{page.title}}</h1>
-        <p class="lead blog-description">{{page.description}}</p>
+  <section class="content">
+      <div id = "bootcampAlumni" class="title">
+          <h2 >Alumni</h2>
+          <ul id="filters" class="hidden-phone">
+              <li><a href="#" data-filter="*">All</a></li>
+              <li><a href="#" data-filter= ".twenty-seventeen">2017</a></li>
+              <li><a href="#" data-filter= ".twenty-sixteen">2016</a></li>
+          </ul>
+          <!--
+          <select class="filter visible-phone">
+              <option data-filter="*">All</option>
+              <option data-filter=".twenty-seventeen">2017</option>
+              <option data-filter=".twenty-sixteen">2016</option>
+          </select>
+        -->
       </div>
+      <div id="gallery"  class="row-fluid">
+        <div class="span12">
+          <ul id="alumni" class="da-thumbs alumnis">
+              {% for ind in site.data.alumni-bootcamp %}
+              <li class="bootcampAlumni text-center {{ ind.year_class }}">
+                  <a href="/{{ ind.abbreviated_name }}">
+                      <img src="../img/alumni/{{ ind.image }}.jpg">
+                  </a>
+                  <div class = "text-center"  style = "font-size: 10pt; postion: absolute;">
+                      {{ ind.name }}
+                  </div>
+                  <div class="btn-group text-center" role="group">
+                    <a class="btn btn-default" href="{{ind.website}}" role="button">Portfolio</a>
+                    <a class="btn btn-default" href="{{ind.linkedin}}" role="button">LinkedIn</a>
+                    <a class="btn btn-default" href="{{ind.github}}" role="button">GitHub</a>
 
-      <div class="row">
-
-        <div class="col-sm-8 blog-main">
-
-          <div class="blog-post">
-            <ul>
-              {% for cohort in site.alumni %}
-              <li><a href={{cohort.url}}>{{ cohort.title }}</a></li>
+                  </div>
+              </li>
               {% endfor %}
-              </ul>
-            </div>
-            
-        </div><!-- /.blog-main -->
+          </ul>
 
-      </div><!-- /.row -->
-
-    </div><!-- /.container -->
+        </div>
+      </div>
+  </section>
+</div><!-- /.container -->
