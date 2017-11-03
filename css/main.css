@@ -532,8 +532,8 @@ h2:before {
 
 /*ribbon adjustments per size*/
 .ribbon-wrapper-green{
-  margin-top: 3px;
-  margin-right: 127px;
+  margin-top: 11px;
+  margin-right: 25px;
 }
 
 
@@ -566,8 +566,8 @@ h2:before {
 
 
 .ribbon-wrapper-green {
-  width: 85px;
-  height: 88px;
+  width: 120px;
+  height: 100px;
   overflow: hidden;
   position: absolute;
   top: -3px;
@@ -586,8 +586,8 @@ h2:before {
   position: relative;
   padding: 7px 0;
   left: -5px;
-  top: 15px;
-  width: 120px;
+  top: 19px;
+  width: 180px;
   background-color: #cb232e;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#BFDC7A), to(#8EBF45));
   background-image: -webkit-linear-gradient(top, #cb232e, #cb232e);

@@ -27,7 +27,7 @@
       "position": null,
       "year_class": "twenty-seventeen"
     },{
-      "name": "'Cha''Sed Miller'",
+      "name": "Cha'Sed Miller",
       "website": "https://ChaChaSlide.github.io",
       "github": "https://github.com/ChaChaSlide",
       "linkedin": "https://www.linkedin.com/in/cha-sed-miller-296b5413b/",
@@ -105,7 +105,7 @@
       "linkedin": "https://www.linkedin.com/in/travis-baumann-a85684104",
       "image": "travis_baumann",
       "job": true,
-      "postion": "CirrusMio",
+      "position": "CirrusMio",
       "year_class": "twenty-sixteen"
     },{
       "name": "Thomas Cothran",
@@ -114,7 +114,7 @@
       "linkedin": "https://www.linkedin.com/in/thomas-cothran-02b24995 ",
       "image":"thomas_cothran",
       "job": true,
-      "postion": "Ventre Tech",
+      "position": "Ventre Tech",
       "year_class": "twenty-sixteen"
     },{
       "name": "Gary Ditsch",
@@ -123,7 +123,7 @@
       "linkedin": "https://www.linkedin.com/in/garyditsch",
       "image": "gary_ditsch",
       "job": true,
-      "postion": "Ventre Tech",
+      "position": "Ventre Tech",
       "year_class": "twenty-sixteen"
     },{
       "name": "Brett Fraley",
@@ -132,7 +132,7 @@
       "linkedin": "https://www.linkedin.com/in/brett-fraley-446134125",
       "image": "brett_fraley",
       "job": true,
-      "postion": "Fusioncorp",
+      "position": "Fusioncorp",
       "year_class": "twenty-sixteen"
     },{
       "name": "Anders Friis",
@@ -141,7 +141,7 @@
       "linkedin": "https://www.linkedin.com/in/anders-friis-1b815134",
       "image": "anders_friis",
       "job": true,
-      "postion": "Inet-Pub",
+      "position": "Inet-Pub",
       "year_class": "twenty-sixteen"
     },{
       "name": "William Hurst",
@@ -150,7 +150,7 @@
       "linkedin": "https://www.linkedin.com/in/bill-bunkum-38064937/",
       "image": "william_hurst",
       "job": true,
-      "postion": "MedMyne",
+      "position": "MedMyne",
       "year_class": "twenty-sixteen"
     },{
       "name": "Lavanya Manoharan",
@@ -159,7 +159,7 @@
       "linkedin": "https://www.linkedin.com/in/lavanya-manoharan-269a7b17",
       "image": "lavanya_manoharan",
       "job": true,
-      "postion": "HTRI",
+      "position": "HTRI",
       "year_class": "twenty-sixteen"
     },{
       "name": "Jason Mize",
@@ -168,7 +168,7 @@
       "linkedin": "https://www.linkedin.com/in/jasonemize",
       "image": "jason_mize",
       "job": true,
-      "postion": "APAX",
+      "position": "APAX",
       "year_class": "twenty-sixteen"
 
     },{
@@ -178,7 +178,7 @@
       "linkedin": "https://www.linkedin.com/in/kelly-wright-80727560",
       "image": "kelly_wright",
       "job": true,
-      "postion": "APAX",
+      "position": "APAX",
       "year_class": "twenty-sixteen"
     }
 ]

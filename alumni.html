@@ -15,7 +15,7 @@ redirect_from:
 
   <section class="content">
       <div id = "bootcampAlumni" class="title">
-          <h2 >Alumni</h2>
+          <h2 >Bootcamp Alumni</h2>
           <ul id="filters" class="hidden-phone">
               <li><a href="#" data-filter="*">All</a></li>
               <li><a href="#" data-filter= ".twenty-seventeen">2017</a></li>
@@ -37,6 +37,12 @@ redirect_from:
                   <a href="/{{ ind.abbreviated_name }}">
                       <img src="../img/alumni/{{ ind.image }}.jpg">
                   </a>
+                  {% if ind.job == true %}
+                  <div class="ribbon-wrapper-green">
+                        <div class="ribbon-green">{{ ind.position }}</div>
+                  </div>
+                  {% endif %}
+
                   <div class = "text-center"  style = "font-size: 10pt; postion: absolute;">
                       {{ ind.name }}
                   </div>
@@ -44,7 +50,6 @@ redirect_from:
                     <a class="btn btn-default" href="{{ind.website}}" role="button">Portfolio</a>
                     <a class="btn btn-default" href="{{ind.linkedin}}" role="button">LinkedIn</a>
                     <a class="btn btn-default" href="{{ind.github}}" role="button">GitHub</a>
-
                   </div>
               </li>
               {% endfor %}
