@@ -111,16 +111,3 @@
   status: 'active'
 
 # Note: Inactive Courses below here
-
-
-
-- title: Awesome Inc U Membership
-  headline: Part-time / evening class for adults diving into code
-  age_range: adults
-  curriculum: membership
-  date: Sept 13 - Dec 13, Tuesdays
-  time: 7-9pm
-  standard-price: 179/month
-  url: https://www.eventbrite.com/e/membership-learn-to-code-part-time-evenings-tickets-27941254043
-  logo: logo_big.png
-  status: 'inactive'

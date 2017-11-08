@@ -6,7 +6,7 @@ category:
 tags: [learntocode, bootcamp, career]
 ---
 
-![A-Inc Web Developer Bootcamp classroom](/img/Awesome-Inc-Membership-2.jpg)
+![A-Inc Web Developer Bootcamp classroom](/img/bootcamp-web-development-awesome-inc.jpg)
 
 by [Nick Such](https://plus.google.com/+NickSuch/)
 
