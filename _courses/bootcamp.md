@@ -2,7 +2,7 @@
 layout: course
 title: Web Developer Bootcamp
 description: Become A Professional Web Developer
-cover: /img/Awesome-Inc-Membership-2.jpg
+cover: /img/bootcamp-web-development-awesome-inc.jpg
 application: /applications/bootcamp/
 permalink: /bootcamp/
 press_footer: true
