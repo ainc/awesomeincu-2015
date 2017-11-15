@@ -10,9 +10,6 @@ gems:
   - jekyll-sitemap
 exclude: [node_modules]
 collections:
-    alumni:
-        output: true
-        permalink: /alumni/:path/
     applications:
         output: true
         permalink: /applications/:path/
