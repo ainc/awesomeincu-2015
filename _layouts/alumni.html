@@ -3,9 +3,9 @@ layout: page
 ---
 
    <div>
-    
+
     	<div class="container">
-    		
+
   			<div class="row head1">
     			<div class="col-md-12" >
     				<h1>{{ page.title }}</h1>
@@ -25,23 +25,23 @@ layout: page
               <!--if they have a job-->
               {% if student.job == true %}
                 <!--insert ribbon onto image-->
-                    
-                      
+
+
                       <h1 class="ribbon">
                         <strong class="ribbon-content">{{ student.position }}</strong>
                       </h1>
-                      
+
                       <img class="img-thumbnail" src="/img/alumni/{{ student.image }}" alt="{{ student.name }} - Awesome Inc U Web Developer Bootcamp" width="140" height="140">
 
-                      
+
 
                       <h3>{{ student.name }}</h3>
 
                       <div class="ribbon-wrapper-green">
                         <div class="ribbon-green">{{ student.position }}</div>
                       </div>
-                    
-                               
+
+
                 <!--else-->
               {% else %}
                 <img class="img-thumbnail" src="/img/alumni/{{ student.image }}" alt="{{ student.name }} - Awesome Inc U Web Developer Bootcamp" width="140" height="140">
@@ -57,9 +57,9 @@ layout: page
             <br>
             <br>
             <br>
-          </div><!-- /.col-lg-4 -->   
+          </div><!-- /.col-lg-4 -->
           {% endfor %}
           </div> <!-- /row -->
     	</div> <!-- /container -->
-    
+
     </div> <!-- /about -->

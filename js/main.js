@@ -6,7 +6,6 @@ $(document).ready(function(){
   function initGallery(){
   	// isotope
   	var $alumni = $('.alumnis');
-  	console.log(alumni);
 
   	$alumni.isotope({
   	  itemSelector : '.bootcampAlumni',
@@ -15,7 +14,6 @@ $(document).ready(function(){
 
   	$('#filters a').on("click", function(){
   	  var selector = $(this).attr('data-filter');
-  		console.log(selector);
   	  $alumni.isotope({ filter: selector });
   	  return false;
   	});
