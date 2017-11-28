@@ -5,13 +5,13 @@ $(document).ready(function(){
   });
   function initGallery(){
   	// isotope
-  	var $alumni = $('.alumnis');
-  	console.log(alumni);
+  	// var $alumni = $('.alumnis');
+  	// console.log(alumni);
 
-  	$alumni.isotope({
-  	  itemSelector : '.bootcampAlumni',
-  	  layoutMode : 'fitRows'
-  	});
+  	// $alumni.isotope({
+  	//   itemSelector : '.bootcampAlumni',
+  	//   layoutMode : 'fitRows'
+  	// });
 
   	$('#filters a').on("click", function(){
   	  var selector = $(this).attr('data-filter');
