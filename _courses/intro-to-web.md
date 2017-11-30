@@ -8,6 +8,7 @@ redirect_from:
  - /membership/
  - /web-intro/
  - /web-basics/
+ - /intro-to-web/
 permalink: /intro-to-web-development/
 ---
 
@@ -17,7 +18,7 @@ Learning to code can be intimidating on your own. Maybe you’ve started an onli
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8IryuzzI2DA?rel=0&amp;controls=0"></iframe></div>
 
-This part-time, evening course covers introductory content used to prepare students for our full-time, intensive Bootcamp program. helping you build a solid foundation in HTML, CSS, and JavaScript.
+This part-time, evening course covers the same introductory content used to prepare students for our full-time, intensive Bootcamp program. It is designed to help you build a solid foundation in HTML, CSS, and JavaScript.
 
 Classes are two nights per week, two hours per night, for nine weeks. No prior programming experience is required, but basic computer skills (typing, using a web browser, etc) are helpful. Awesome Inc students have come from a variety of backgrounds, including manufacturing, design, food service, and healthcare. In addition to in-class hours, our instructional team is available for Q&A throughout the week via Slack.
 
@@ -25,24 +26,6 @@ Classes are two nights per week, two hours per night, for nine weeks. No prior p
 - Prepare your computer environment for web development with professional-quality tools
 - Write code in languages like HTML, CSS, and JavaScript
 - Make friends and learn how to continue practicing web development beyond this course
-
-<br>
-
-## Instructional Team:
-
-<div class="row">
-	<div class="text-center col-lg-6">
-		<h3><a href="https://www.linkedin.com/in/nicksuch">Nick Such</a></h3>
-		<h4>Founder of Awesome Inc U, Awesome Labs, and BuildingLayer.</h4>
-		<img src="/img/nick-such.png">
-	</div>
-	<div class="text-center col-lg-6">
-		<h3><a href="https://www.linkedin.com/in/brianraney">Brian Raney</a></h3>
-		<h4>Founder of APAX Software and Awesome Inc<br>
-			iOS and Web Instructor</h4>
-		<img src="/img/brian-raney.png">
-	</div>
-</div>
 
 <br>
 

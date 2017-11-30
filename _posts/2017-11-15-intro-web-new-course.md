@@ -3,7 +3,7 @@ layout: post
 title: "New Part-Time Course for Adults - Intro to Web"
 description: "Learn to develop websites in a new part-time, evening course for adult learners."
 category: 
-tags: [learntocode, bootcamp, php]
+tags: [learntocode, bootcamp, javascript]
 ---
 
 ![Adults learn to code at Awesome Inc](/img/blog/intro-to-web-development-awesome-inc.jpg)
@@ -18,7 +18,7 @@ While we discuss our Bootcamp course as a 12-week, full-time program, that actua
 
 ![Laptop with terminal and text editor with HTML code](/img/blog/intro-to-web-laptop-code.jpg)
 
-The Intro to Web course is a nine-week course that meets two nights per week (Mon and Wed, 6-8pm). By focusing on our Bootcamp Prework content, this new course is intended for at least two types of students. The first is the busy professional, who is curious about gaining web development skills, or needs a certain amount of web proficiency for their current career, but doesn’t have the time (or desire) to devote to a career-change program like the Bootcamp. The second type of student is one who is interested in the Bootcamp, but would like to try out web development in a smaller way before making the deep dive. This course is designed to help students become reasonably good at what is called "front-end" or “client-side” web development skills, as well to provide a foundation for future courses or self-study in web application development.
+The Intro to Web course is a nine-week course that meets two nights per week (Mon and Wed, 6:30-8:30pm). By focusing on our Bootcamp Prework content, this new course is intended for at least two types of students. The first is the busy professional, who is curious about gaining web development skills, or needs a certain amount of web proficiency for their current career, but doesn’t have the time (or desire) to devote to a career-change program like the Bootcamp. The second type of student is one who is interested in the Bootcamp, but would like to try out web development in a smaller way before making the deep dive. This course is designed to help students become reasonably good at what is called "front-end" or “client-side” web development skills, as well to provide a foundation for future courses or self-study in web application development.
 
 Things you’ll be able to do after completing this course:
 
