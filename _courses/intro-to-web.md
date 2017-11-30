@@ -36,7 +36,7 @@ Classes are two nights per week, two hours per night, for nine weeks. No prior p
         <div class="panel-heading" role="tab" id="headingOne">
           <h4 class="panel-title">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              <h3>Does I need to bring a computer?</h3>
+              <h3>Do I need to bring a computer?</h3>
             </a>
           </h4>
         </div>
@@ -48,7 +48,7 @@ Classes are two nights per week, two hours per night, for nine weeks. No prior p
     <div class="panel-heading" role="tab" id="headingTwo">
     <h4 class="panel-title">
     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-    <h3>Does I need to have prior programming experience?</h3>
+    <h3>Do I need to have prior programming experience?</h3>
   </a>
 </h4>
 </div>
