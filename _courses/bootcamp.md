@@ -10,11 +10,11 @@ press_footer: true
 
 ## Learn to code in 12 weeks, get a job as a web developer.
 
-The Web Developer Bootcamp is a 12-week, full-time training program for aspiring software developers. We've worked with companies throughout the region to design a curriculum to prepare you to dive into a career in software development. This intense training program is designed to quickly take you from the basics of programming to a level of competency in building modern web applications. With over 500 hours of hands-on training, you'll gain experience while building 10+ projects using HTML, CSS, JavaScript, jQuery, AngularJS, AWS, GitHub, Agile, and more.
+The Web Developer Bootcamp is a 12-week, full-time training program for aspiring software developers. We've worked with companies throughout the region to design a curriculum to prepare you to dive into a career in software development. This intense training program is designed to quickly take you from the basics of programming to a level of competency in building modern web applications. With over 500 hours of hands-on training, you'll gain experience while building 10+ projects using HTML, CSS, JavaScript, Heroku, GitHub, Agile, and more.
 
 <img alt="Learn to code and make websites and mobile apps" src="/img/Responsive_Web_Design.png" class="img-responsive">
 
-Participants are expected to be fully invested in the training process for a 12 week period. At the conclusion of the program, participants will be ready to interview with a number of our employer partners for the opportunity to earn a full time position in Kentucky at a competitive junior developer's salary.
+Participants are expected to be fully invested in the training process for a 12 week period. At the conclusion of the program, participants will be ready to interview with regional and national employers for the opportunity to earn a full-time position at a competitive junior developer's salary.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/PuOzhadFG_s" frameborder="0" allowfullscreen></iframe></div>
 
@@ -30,12 +30,9 @@ There's no way I would have been able to figure any of it out or do so well, wit
 <br>Developer, Fusioncorp Design&trade; Creative Solutions</p>
 <p><a class="btn cl-link-effect alumni" data-hover="Bootcamp Alumni" href="/alumni"><span>Bootcamp Alumni</span></a></p>
 
-
 <center><img src="/img/100-percent-hired.jpg" width="400" class="img-responsive" style="padding-bottom: 5px;"></center>
 
-
-
-100% of our Bootcamp grads have jobs in the software development field. <a href="https://www.awesomeincu.com/applications/bootcamp/">Applications</a> are open for our next Bootcamp
+<p>100% of our Bootcamp grads have landed jobs in the software development field. <a href="/applications/bootcamp/">Applications</a> are open for our next Bootcamp</p>
 
 <div>
   <div>
@@ -51,7 +48,7 @@ There's no way I would have been able to figure any of it out or do so well, wit
         </div>
         <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
           <div class="panel-body">
-            <p>Employers around the country are experiencing a shortage of well-qualified software developers, and Kentucky is no different. While there are several possible responses to this need, many regions have benefited from intensive training programs called Developer Bootcamps. The general model is a 3-month program, in batches of 10-20 students, with a curriculum for full-stack web development jobs. The bootcamp is taught by experienced software developers (10+ years industry experience), with a focus on quickly moving from basic skills to project experience. High job placement rates (close to 100%) are the target for these programs. Successful programs are highly selective of their applicants, typically targeting college graduates in their mid to late 20s and early 30s looking to make a career change.</p>
+            <p>Employers around the country are experiencing a shortage of well-qualified software developers, and Kentucky is no different. While there are several possible responses to this need, many regions have benefited from intensive training programs called Developer Bootcamps. The general model is a 3-month program, in batches of 10-20 students, with a curriculum for full-stack web development jobs. Bootcamps are taught by experienced software developers (10+ years industry experience), with a focus on quickly moving from basic skills to project experience. High job placement rates (close to 100%) are the target for these programs. Successful programs are highly selective of their applicants, typically targeting college graduates and experienced professionals in their 20s, 30s, and 40s looking to make a career change.</p>
           </div>
         </div>
       </div>
@@ -67,7 +64,7 @@ There's no way I would have been able to figure any of it out or do so well, wit
           <div class="panel-body">
             <p>Our ideal applicants are professional men and women who are looking to transition into a career in software development. This program is not for everyone. Like all Awesome Inc initiatives, we've built this program with our <a href="http://www.awesomeinc.org/about/#core-values">Core Values</a> in mind. CV #2 (Be Excellent) is a big part of this program. We expect that many of our candidates will have deep experience in a related field, such as graphic design, math/finance, or project management. Some applicants will have prior programming experience, maybe a class back in high school or college, but many will not.<br><br>
 
-            We expect that many of our applicants will be from Kentucky and surrounding states, such as Indiana, Ohio, Tennessee, and West Virginia. Since our 12-week program is full-time (8am - 5pm, five days per week), our candidates must be willing to sacrifice other commitments (such as outside employment) to focus on learning for that duration.</p>
+            Many of our applicants have been from Kentucky and surrounding states, such as Indiana, Ohio, Tennessee, and West Virginia. Since our 12-week program is full-time (8am - 5pm, five days per week), our candidates must be willing to sacrifice other commitments (such as outside employment) to focus on learning for that duration.</p>
           </div>
         </div>
       </div>
@@ -95,7 +92,7 @@ There's no way I would have been able to figure any of it out or do so well, wit
         </div>
         <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
           <div class="panel-body">
-            <p>Yes. Through employer partners such as <a href="http://www.apaxsoftware.com">APAX Software</a>, partial scholarships are available. Once you've applied for the Bootcamp, please <a href="/contact/">fill out the scholarship application</a> for more information.</p>
+            <p>Yes. Through employer partners such as <a href="http://www.apaxsoftware.com">APAX Software</a>, partial scholarships are available. Once you've applied for the Bootcamp, please <a href="/contact/#scholarship">fill out the scholarship application</a> for more information.</p>
           </div>
         </div>
       </div>
@@ -109,7 +106,8 @@ There's no way I would have been able to figure any of it out or do so well, wit
         </div>
         <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
           <div class="panel-body">
-            <p>Our next Bootcamp cohort (Fall 2017) has classes from Monday, September 18th - Friday, December 8th. <!-- There is a free <a href="https://www.eventbrite.com/e/become-a-web-developer-in-12-weeks-guaranteed-job-placement-lunch-learn-may-31st-1200-pm-tickets-33868736302">informational lunch and learn session</a> on Wednesday, May 31st for prospective students. --> The application deadline for the F17 cohort is Friday, July 14th.</p>
+            <p>Our next Bootcamp cohort (Summer 2018, i.e. S18) has classes from Monday, May 21st - Friday, August 10th. The application deadline for the S18 cohort is Friday, March 9th.</p>
+            <p>The Fall 2018 cohort runs September 17 - Dec 7, and applications for F18 are due July 13th.</p>
           </div>
         </div>
       </div>
@@ -127,8 +125,9 @@ There's no way I would have been able to figure any of it out or do so well, wit
 
             As software development is a rapidly-changing field, we update some our specific technology offerings for each cohort. A few past offerings:<br><br>
 
-            Summer 2017: PHP, Laravel, AngularJS (1.5x)<br>
-            <a href="/alumni/bootcamp-f16/">Fall 2016</a> Python, Flask, Django, AngularJS (1.5x)</p>
+            Fall 2017: JavaScript, PHP, VueJS, Laravel<br>
+            Summer 2017: JavaScript, PHP, AngularJS, Laravel<br>
+            Fall 2016: JavaScript, Python, AngularJS, Django</p>
           </div>
         </div>
       </div>
