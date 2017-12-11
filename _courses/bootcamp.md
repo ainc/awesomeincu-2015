@@ -32,7 +32,7 @@ There's no way I would have been able to figure any of it out or do so well, wit
 
 <center><img src="/img/100-percent-hired.jpg" width="400" class="img-responsive" style="padding-bottom: 5px;"></center>
 
-<p>100% of our Bootcamp grads have landed jobs in the software development field. <a href="/applications/bootcamp/">Applications</a> are open for our next Bootcamp</p>
+<p>100% of our Bootcamp grads from the F16 cohort landed jobs in the software development field within 6 months of completing our program. Recent graduates (S17 and F17 cohorts) are still in the job search phase, so aggregate data is not yet available. <a href="/applications/bootcamp/">Applications</a> are open for our next Bootcamp</p>
 
 <div>
   <div>
