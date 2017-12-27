@@ -18,14 +18,44 @@ Learning to code can be intimidating on your own. Maybe you’ve started an onli
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8IryuzzI2DA?rel=0&amp;controls=0"></iframe></div>
 
-This part-time, evening course covers the same introductory content used to prepare students for our full-time, intensive Bootcamp program. It is designed to help you build a solid foundation in HTML, CSS, and JavaScript.
+This part-time, evening course covers the same introductory topics used to prepare students for our full-time, intensive Bootcamp program. It is designed to help you build a solid foundation in front-end web development using technologies like HTML, CSS, and JavaScript.
 
-Classes are two nights per week, two hours per night, for nine weeks. No prior programming experience is required, but basic computer skills (typing, using a web browser, etc) are helpful. Awesome Inc students have come from a variety of backgrounds, including manufacturing, design, food service, and healthcare. In addition to in-class hours, our instructional team is available for Q&A throughout the week via Slack.
+This course is designed for adult learners who are interested in web development. It's a great place to start if you work with developers and want to learn to speak their language, or if you're considering our immersive Bootcamp program but want to try code before making a full-time commitment (see Tuition Credit below). Prior Awesome Inc students have come from a variety of backgrounds, including manufacturing, law, retail, design, food service, and healthcare.
 
-## {{page.title}} outcomes:
+Classes are two nights per week, two hours per night, for nine weeks. In addition to in-class hours, our instructional team is available remotely for Q&A throughout the week via Slack.
+
+## Curriculum
+
+1. Environment Setup, Command Line Interface, Git and GitHub
+2. HTML and How the Web Works
+3. Styling pages with CSS
+4. Jekyll, Templates, and the DRY Principle
+5. Basic JavaScript (variables, conditionals, loops)
+6. More JavaScript (arrays, objects, functions)
+7. Interactive JavaScript and the DOM
+8. Getting Data from APIs
+9. Final Project
+
+<br>
+
+<div class="row">
+  <div class="col-xs-4"><img src="/img/logos/logo-html.png" alt="HTML logo" class="img-responsive center-block"></div>
+  <div class="col-xs-4"><img src="/img/logos/logo-css.png" alt="CSS logo" class="img-responsive center-block"></div>
+  <div class="col-xs-4"><img src="/img/logos/logo-js.png" alt="JavaScript logo" class="img-responsive center-block"></div>
+</div>
+
+<br>
+
+## Course Outcomes
+
 - Prepare your computer environment for web development with professional-quality tools
 - Write code in languages like HTML, CSS, and JavaScript
+- Create interactive websites
 - Make friends and learn how to continue practicing web development beyond this course
+
+## Tuition Credit
+
+100% of this course payment can be used as tuition credit for our [Web Developer Bootcamp](/bootcamp/). Candidates must enroll in the Bootcamp program within one year of completing the Intro to Web Development course. Please note that completion of this course does not guarantee admission to the Web Developer Bootcamp -- the standard application process still applies.
 
 <br>
 
@@ -105,4 +135,4 @@ Classes are two nights per week, two hours per night, for nine weeks. No prior p
 </div> <!-- /container -->
 
 <!--Eventbrite generated ticket form widget-->
-<div style="width:100%; text-align:left;"><iframe src="//eventbrite.com/tickets-external?eid=39667189632&ref=etckt" frameborder="0" height="393" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe src="//eventbrite.com/tickets-external?eid=39667189632&ref=etckt" frameborder="0" height="393" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
