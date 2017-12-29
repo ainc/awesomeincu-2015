@@ -18,39 +18,41 @@ redirect_from:
       <div id = "bootcampAlumni" class="title">
           <h2 >Bootcamp Alumni</h2>
           <ul id="filters" class="hidden-phone">
-              <li><a href="#" data-filter="*">All</a></li>
-              <li><a href="#" data-filter= ".twenty-seventeen">2017</a></li>
-              <li><a href="#" data-filter= ".twenty-sixteen">2016</a></li>
+              <li><a href="#" data-filter="*">All Cohorts</a></li>
+              <li><a href="#" data-filter= ".f17">F17</a></li>
+              <li><a href="#" data-filter= ".s17">S17</a></li>
+              <li><a href="#" data-filter= ".f16">F16</a></li>
           </ul>
           <!--
           <select class="filter visible-phone">
-              <option data-filter="*">All</option>
-              <option data-filter=".twenty-seventeen">2017</option>
-              <option data-filter=".twenty-sixteen">2016</option>
+              <option data-filter="*">All Cohorts</option>
+              <option data-filter=".f17">F17</option>
+              <option data-filter=".s17">S17</option>
+              <option data-filter=".f16">F16</option>
           </select>
         -->
       </div>
       <div id="gallery"  class="row-fluid">
         <div class="span12">
           <ul id="alumni" class="da-thumbs alumnis">
-              {% for ind in site.data.alumni-bootcamp %}
-              <li class="bootcampAlumni text-center {{ ind.year_class }}">
-                  <a href="/{{ ind.abbreviated_name }}">
-                      <img src="../img/alumni/{{ ind.image }}.jpg">
+              {% for student in site.data.alumni-bootcamp %}
+              <li class="bootcampAlumni text-center {{ student.cohort }}">
+                  <a href="/{{ student.abbreviated_name }}">
+                      <img src="../img/alumni/{{ student.image }}.jpg" alt="{{ student.name }} - Awesome Inc U Web Developer Bootcamp">
                   </a>
-                  {% if ind.job == true %}
+                  {% if student.position %}
                   <div class="ribbon-wrapper-green">
-                        <div class="ribbon-green">{{ ind.position }}</div>
+                        <div class="ribbon-green">{{ student.position }}</div>
                   </div>
                   {% endif %}
 
                   <div class = "text-center"  style = "font-size: 10pt; postion: absolute;">
-                      {{ ind.name }}
+                      {{ student.name }}
                   </div>
                   <div class="btn-group text-center" role="group">
-                    <a class="btn btn-default" href="{{ind.website}}" role="button">Portfolio</a>
-                    <a class="btn btn-default" href="{{ind.linkedin}}" role="button">LinkedIn</a>
-                    <a class="btn btn-default" href="{{ind.github}}" role="button">GitHub</a>
+                    <a class="btn btn-default" href="{{student.website}}" role="button">Portfolio</a>
+                    <a class="btn btn-default" href="{{student.linkedin}}" role="button">LinkedIn</a>
+                    <a class="btn btn-default" href="{{student.github}}" role="button">GitHub</a>
                   </div>
               </li>
               {% endfor %}
