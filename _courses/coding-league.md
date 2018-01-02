@@ -20,7 +20,7 @@ Coding League participants should have some prior programming experience, such a
 Come back for as many sessions as you’d like, the fun and the knowledge keeps on building. Sign up with friends, or meet new people with similar interests.
 
 ## Coding League Outcomes:
-- Go beyond to block-based languages to use text-based programming
+- Go beyond block-based languages to use text-based programming
 - Learn Computer Science fundamentals
 - Explore the creative power of programming, start building a portfolio of professional-quality code
 
