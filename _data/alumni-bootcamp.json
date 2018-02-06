@@ -23,7 +23,7 @@
       "github": "https://github.com/caseydemo/",
       "linkedin": "https://www.linkedin.com/in/casey-demattina-29aa98103/",
       "image": "casey-demattina",
-      "position": null,
+      "position": "Bud's Gun Shop",
       "cohort": "f17"
     },
     {
@@ -106,14 +106,6 @@
       "position": "Able Engine",
       "cohort": "s17"
     },{
-      "name": "Daebrion Hopwood",
-      "website": "https://dhopwood.github.io",
-      "github": "https://github.com/dhopwood",
-      "linkedin": "https://www.linkedin.com/in/daebrion-hopwood-303b4713b/",
-      "image": "daebrion-hopwood",
-      "position": null,
-      "cohort": "s17"
-    },{
       "name": "Cha'Sed Miller",
       "website": "https://ChaChaSlide.github.io",
       "github": "https://github.com/ChaChaSlide",
@@ -152,14 +144,6 @@
       "linkedin": "https://www.linkedin.com/in/mark-stockdale-79b04410/",
       "image": "mark-stockdale",
       "position": "Prospect Trax",
-      "cohort": "s17"
-    },{
-      "name":"Joshua Tucker",
-      "website": "https://jctu225.github.io/",
-      "github": "https://github.com/jctu225",
-      "linkedin": "https://www.linkedin.com/in/joshua-tucker-a0943713a/",
-      "image": "joshua-tucker",
-      "position": null,
       "cohort": "s17"
     },{
       "name": "David Vanderhaar",
