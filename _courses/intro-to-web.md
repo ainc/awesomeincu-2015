@@ -26,12 +26,12 @@ Classes are two nights per week, two hours per night, for nine weeks. In additio
 
 ## Curriculum
 
-1. Environment Setup, Command Line Interface, Git and GitHub
-2. HTML and How the Web Works
-3. Styling pages with CSS
-4. Jekyll, Templates, and the DRY Principle
-5. Basic JavaScript (variables, conditionals, loops)
-6. More JavaScript (arrays, objects, functions)
+1. Developer Tools and Environment Setup
+2. Command Line Interface, Git and GitHub
+3. HTML and How the Web Works
+4. Styling pages with CSS and Bootstrap
+5. Templates and the DRY Principle
+6. JavaScript (variables, conditionals, loops, arrays, objects, functions)
 7. Interactive JavaScript and the DOM
 8. Getting Data from APIs
 9. Final Project
@@ -135,4 +135,23 @@ Classes are two nights per week, two hours per night, for nine weeks. In additio
 </div> <!-- /container -->
 
 <!--Eventbrite generated ticket form widget-->
-<div class="embed-responsive embed-responsive-16by9"><iframe src="//eventbrite.com/tickets-external?eid=39667189632&ref=etckt" frameborder="0" height="393" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
+<div id="eventbrite-widget-container"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '43177926340',
+        iframeContainerId: 'eventbrite-widget-container',
+
+        // Optional
+        iframeContainerHeight: 506,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
