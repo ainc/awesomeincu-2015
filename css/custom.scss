@@ -99,7 +99,7 @@ $mobile-width: $tablet-width - 1;
 
 
 /*****************************************************
-						Panels
+						Panels and Tables
 *****************************************************/
 .panels {
 	h2 {
@@ -226,6 +226,18 @@ $mobile-width: $tablet-width - 1;
 		}
 	}
 
+}
+
+.table thead {
+	background-color: #b81124; 
+	color: white; 
+	font-family: Exo;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.table tbody tr td:first-child {
+	font-weight: bold;
 }
 
 /*****************************************************

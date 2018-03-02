@@ -1,55 +1,64 @@
 ---
 layout: page
 title: Programming Courses For Adults
+description: "Full and Part-Time Courses for Career Switchers, Professionals, and Hobbyists"
+cover: /img/adult-coding-courses-5.jpg
 permalink: /adults/
 redirect_from:
 - /adult/
 ---
 
-<div class="container">
-	<h1>{{ page.title }}</h1>
-	<hr>
-	<p>Learning to code is difficult, but so is learning salsa dancing or playing the guitar. Consistent practice, week after week, is how you become a great programmer. </p>
-	<!-- Four columns of text -->
-	<div class="row panels" id="beginner"> <!-- BEGINNER -->
-		<div class="container">
-			<h2>Part-Time Courses for Adults</h2>
-			<div class="col-md-6 right-padding">
-				<div class="panel panel-danger panel-custom">
-					<div class="panel-heading center">Intro to Web Development</div>
-					<div class="panel-body">
-						<ul>
-							<li><strong>Topics</strong>: Programming Fundamentals, Front-End Web Development</li>
-							<li><strong>Technologies</strong>: HTML, CSS, JS, CLI, Git</li>
-							<li><strong>Schedule</strong>: 9 weeks, Mon &amp; Wed, 6:30-8:30pm</li>
-							<li><strong>Who It's For</strong>: professionals new to programming, future Bootcamp students</li>
-						</ul>
-					</div>
-					<div class="panel-footer">
-						<a href="/intro-to-web-development/" class="btn button btn-primary btn-action center">Course Details &raquo;</a>
-					</div>
-				</div>
+<!-- Main jumbotron for a primary marketing message or call to action -->
+<div class="bg-image" style="background-image: url({{page.cover}});"></div>
+<div class="jumbotron" >
+	<div class="container center">
+		<div class="row">
+			<div class="col-md-10 col-md-offset-1">
+				<h1>{{page.title}}</h1>
+				<p>{{page.description}}</p>
 			</div>
 		</div>
-	</div>
-	<div class="row panels equal" id="advanced">
-		<div class="container">
-			<h2>Full-Time Courses for Adults</h2>
-			<div class="col-md-6 right-padding">
-				<div class="panel panel-danger panel-custom">
-					<div class="panel-heading center">Bootcamp</div>
-					<div class="panel-body">
-						<ul>
-							<li><strong>Topics</strong>: CS and Programming Fundamentals, Full-Stack Web Development, Tech Job Skills</li>
-							<li><strong>Technologies</strong>: HTML, CSS, JS, CLI, Git, Jekyll, SQL, PHP, Laravel, Vue, Heroku</li>
-							<li><strong>Schedule</strong>: 4 weeks remote + 12 weeks in-person, Mon - Fri, 8am-5pm</li>
-							<li><strong>Who It's For</strong>: professionals who want to change careers</li>
-						</ul>
-					</div>
-					<div class="panel-footer">
-						<a href="/bootcamp" class="btn button btn-primary btn-action center">Course Details &raquo;</a>
-					</div>
-				</div>
+	</div> 
+</div>
+
+<div class="container scrollup">
+	<div class="row">
+		<div class="col-md-10 col-md-offset-1">
+			<p>Learning to code is difficult, but so is learning to salsa dance or learning to play the guitar. Consistent practice, week after week, is how you become a great programmer. </p>
+			<div class="table-responsive">
+				<table class="table table-striped table-bordered">
+					<thead>
+						<tr>
+							<td>Course</td>
+							<td>Format</td>
+							<td>Topics</td>
+							<td>Technologies</td>
+							<td>Schedule</td>
+							<td>Designed For</td>
+							<td>Learn More</td>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Intro to Web Development</td>
+							<td>Part-Time (evenings)<br>9 Weeks</td>
+							<td>Programming Fundamentals, Front-End Web Development</td>
+							<td>HTML, CSS, JavaScript, CLI, Git</td>
+							<td>Spring and Fall<br>Mondays and Wednesdays<br>6:30-8:30pm</td>
+							<td>Anyone new to programming, future Bootcamp students</td>
+							<td><a href="/intro-to-web-development/" class="btn btn-default center" role="button">Details &amp; Registration</a></td>
+						</tr>
+						<tr>
+							<td>Web Developer Bootcamp</td>
+							<td>Full-Time<br>4 weeks remote<br>12 weeks in-person</td>
+							<td>CS and Programming Fundamentals, Full-Stack Web Development, Tech Job Skills</td>
+							<td>HTML, CSS, JavaScript, CLI, Git, Jekyll, SQL, PHP, Laravel, Vue, Heroku</td>
+							<td>Summer and Fall<br>Mon - Fri<br>8am - 5pm</td>
+							<td>Career switchers</td>
+							<td><a href="/bootcamp/" class="btn btn-default center" role="button">Details &amp; Registration</a></td>
+						</tr>
+					</tbody>
+				</table>
 			</div>
 		</div>
 	</div>
