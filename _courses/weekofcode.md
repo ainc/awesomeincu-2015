@@ -85,3 +85,26 @@ In addition to programming time inside, campers will interact with our upbeat te
     </div> <!-- panel-group -->
   </div>
 </div> <!-- /container -->
+
+<!--Eventbrite generated ticket form widget-->
+<div id="eventbrite-widget-container"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '43142280723',
+        iframeContainerId: 'eventbrite-widget-container',
+
+        // Optional
+        iframeContainerHeight: 506,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+
