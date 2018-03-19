@@ -16,7 +16,7 @@ Every parent today wants their kids to learn how to interact with technology in 
 
 ### Prepare Your Child For a 21st Century World
 
-At Week of Code, you learn by doing - it's hands-on, at your pace. You'll design and develop your very own website, mobile app, and video game in one week. Work with industry-standard hardware and software, complete a final project of your choice, build a portfolio, and bring your new tech knowledge and skills into the real world.
+At Week of Code, you learn by doing - it's hands-on, at your pace, and balanced with fun, off-computer activities. You'll design and develop your very own website, mobile app, and video game in one week. Work with industry-standard hardware and software, complete a final project of your choice, build a portfolio, and bring your new tech knowledge and skills into the real world.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/daWr1oOWd-Y" frameborder="0" allowfullscreen></iframe></div>
 
