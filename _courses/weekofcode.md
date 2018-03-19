@@ -20,7 +20,7 @@ At Week of Code, you learn by doing - it's hands-on, at your pace. You'll design
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/daWr1oOWd-Y" frameborder="0" allowfullscreen></iframe></div>
 
-### Unsure of your summer plans? Make changes with no fees up to 30 days before camp.
+### Unsure of your summer plans? Make changes with no fees up to 30 days before your start date.
 
 {% include woc-buttons.html %}
 
@@ -28,13 +28,18 @@ In addition to programming time inside, campers will interact with our upbeat te
 
 <img src="/img/week-of-code-relay.jpg" style="max-width:100%;" alt="Week of Code Relay">
 
-### Outcomes
+### In this course, your student will:
 
-- Develop a Mobile App with Android
-- Create a Website with HTML, CSS, and JavaScript
-- Design and develop a Video Game with Unity 3D / C#
-- Build skills that can be used in college and beyond
-- Demo a final project at the end of the camp
+- Create a video game, website, and a mobile app in one week
+- Build a foundation of HTML, CSS, JavaScript, Android, C#, Unity 3D
+- Think like a computer with logic and gates
+- Analyze how programs work and how code functions
+- Develop computational thinking skills
+
+### Your student will take home:
+
+- Project files and portfolio
+
 
 {% include woc-buttons.html %}
 
