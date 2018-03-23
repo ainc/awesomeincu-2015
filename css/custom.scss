@@ -14,6 +14,7 @@ $color_gray: #CECECE;
 $color_light_gray: rgb(236, 236, 236);
 $black: black;
 $color_silver_chalice_approx: #aaa;
+$color_light_blue: #55CBF3;
 
 /*****************************************************
 						Variables
@@ -93,6 +94,16 @@ $mobile-width: $tablet-width - 1;
 	}
 	i {
 		margin-left: 2px;
+	}
+}
+.uppercase {
+	text-transform: uppercase;
+}
+.simple-link {
+	text-decoration: underline;
+	color: black;
+	&:hover {
+		color: $color_light_blue;
 	}
 }
 
@@ -238,6 +249,31 @@ $mobile-width: $tablet-width - 1;
 
 .table tbody tr td:first-child {
 	font-weight: bold;
+}
+
+#woc-section {
+	img {
+		padding: 15px 0 25px 0;
+	}
+
+	.table.woc-table {
+		thead tr {
+			background-color: $color_light_blue;
+			color: white;
+			text-transform: uppercase;
+		}
+		td {
+			color: black;
+		}
+		.table-within-table {
+			margin-bottom: 0;
+			td {
+				padding: 4px;	
+				font-weight: 400;
+			}
+			
+		}
+	}
 }
 
 /*****************************************************
