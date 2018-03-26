@@ -239,6 +239,10 @@ $mobile-width: $tablet-width - 1;
 
 }
 
+.table {
+	margin: 35px 0;
+}
+
 .table thead {
 	background-color: #b81124; 
 	color: white; 
@@ -253,7 +257,8 @@ $mobile-width: $tablet-width - 1;
 
 #woc-section {
 	img {
-		padding: 15px 0 25px 0;
+		padding: 15px 0 15px 0;
+		width: 200px;
 	}
 
 	.table.woc-table {
@@ -267,6 +272,7 @@ $mobile-width: $tablet-width - 1;
 		}
 		.table-within-table {
 			margin-bottom: 0;
+			margin-top: 0;
 			td {
 				padding: 4px;	
 				font-weight: 400;
