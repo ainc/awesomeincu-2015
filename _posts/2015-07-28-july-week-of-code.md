@@ -1,9 +1,13 @@
 ---
-layout: post
 title: July Week of Code
-description: Students learn more than programming at Awesome Inc U's learn-to-code summer camp
-category: 
-tags: [learntocode, weekofcode, students]
+date: 2015-07-28 00:00:00 Z
+tags:
+- learntocode
+- weekofcode
+- students
+layout: post
+description: Students learn more than programming at Awesome Inc U's learn-to-code
+  summer camp
 ---
 
 ![Classroom at Awesome Inc Week of Code - July 2015](/img/blog/july-15-week-of-code-classroom.jpg)

@@ -1,9 +1,14 @@
 ---
+title: 4 Reasons You're Not Too Old to Learn to Code
+date: 2016-07-06 00:00:00 Z
+tags:
+- learntocode
+- smart
+- camps
+- jobs
 layout: post
-title: "4 Reasons You're Not Too Old to Learn to Code"
-description: "It's been said that learning to code is as essential to a successful start in life as reading, writing, and math."
-category: 
-tags: [learntocode, smart, camps, jobs]
+description: It's been said that learning to code is as essential to a successful
+  start in life as reading, writing, and math.
 ---
 
 ![Laptop on coffee table coding](/img/blog/4_reasons_to_code.png)

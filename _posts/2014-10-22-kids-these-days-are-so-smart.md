@@ -1,9 +1,13 @@
 ---
+title: Kids these days are so…
+date: 2014-10-22 00:00:00 Z
+tags:
+- learntocode
+- smart
+- camps
+- jobs
 layout: post
-title: "Kids these days are so…"
-description: ""
-category: 
-tags: [learntocode, smart, camps, jobs]
+description: ''
 ---
 
 by [Brian Raney](https://plus.google.com/u/0/114667204038993827459/), Co-Founder, Awesome Inc

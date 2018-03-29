@@ -1,9 +1,13 @@
 ---
+title: Pong Tutorial Updated to Unity 5
+date: 2016-07-18 00:00:00 Z
+tags:
+- learntocode
+- unity
+- pong
+- video games
 layout: post
-title: "Pong Tutorial Updated to Unity 5"
-description: "Our popular Pong tutorial has been updated to the latest version of Unity"
-category: 
-tags: [learntocode, unity, pong, video games]
+description: Our popular Pong tutorial has been updated to the latest version of Unity
 ---
 
 ![Classic pong game developed in Unity 5](/img/blog/pong_updated_unity_5.png)

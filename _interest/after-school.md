@@ -1,11 +1,12 @@
 ---
-layout: interest
 title: After-School Coding Club
+layout: interest
 curriculum_link: after-school
-course: /after-school/
-hero_img: /img/After-School-Coding-Club.jpg
+course: "/after-school/"
+hero_img: "/img/After-School-Coding-Club.jpg"
 form_legend: Want to learn more about coding classes for your 9 - 13-year-old?
-description: Learn to code with friends, in a fun, encouraging environment. Make games, build things with JavaScript and beyond.
+description: Learn to code with friends, in a fun, encouraging environment. Make games,
+  build things with JavaScript and beyond.
 ---
 
 Do you have a student at home who spends plenty of time on the computer, plays lots of Minecraft, or has enjoyed doing the Hour of Code at school? The After-School Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls ages 9 - 13 who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting.

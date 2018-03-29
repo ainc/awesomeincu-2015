@@ -1,9 +1,13 @@
 ---
+title: Teaching Kids to Code - in 1 Week
+date: 2014-09-08 00:00:00 Z
+tags:
+- learntocode
+- summer camp
+- week of code
 layout: post
-title: "Teaching Kids to Code - in 1 Week"
-description: "Awesome Inc hosted three Week of Code summer camps this year, teaching 45 kids the basics of programming"
-category: 
-tags: [learntocode, summer camp, week of code]
+description: Awesome Inc hosted three Week of Code summer camps this year, teaching
+  45 kids the basics of programming
 ---
 
 by [Ben Jacoby](https://plus.google.com/103491752687353303272/)

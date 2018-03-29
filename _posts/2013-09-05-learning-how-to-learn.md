@@ -1,9 +1,14 @@
 ---
+title: Learning How To Learn
+date: 2013-09-05 00:00:00 Z
+tags:
+- learntocode
+- education
+- software developer
+- mooc
 layout: post
-title: "Learning How To Learn"
-description: "How the learntocode movement is just the first step in changing how we learn everything."
-category: 
-tags: [learntocode, education, software developer, mooc]
+description: How the learntocode movement is just the first step in changing how we
+  learn everything.
 ---
 
 By [Nick Such](https://plus.google.com/+NickSuch/)

@@ -1,7 +1,7 @@
 ---
-layout: notes
 title: Week of Code - Hardware Edition
-course_link: /weekofcode/
+layout: notes
+course_link: "/weekofcode/"
 ---
 
 _These notes are for Week of Code - Hardware (Arduino, Web, Games). Looking for [Week of Code - Classic](/notes/weekofcode/) (Mobile, Web, Games)?_

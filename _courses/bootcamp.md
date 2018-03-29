@@ -1,10 +1,10 @@
 ---
-layout: course
 title: Web Developer Bootcamp
+permalink: "/bootcamp/"
+layout: course
 description: Become A Professional Web Developer
-cover: /img/bootcamp-web-development-awesome-inc.jpg
-application: /applications/bootcamp/
-permalink: /bootcamp/
+cover: "/img/bootcamp-web-development-awesome-inc.jpg"
+application: "/applications/bootcamp/"
 press_footer: true
 ---
 

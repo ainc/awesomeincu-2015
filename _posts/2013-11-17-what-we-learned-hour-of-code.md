@@ -1,9 +1,17 @@
 ---
+title: What We Learned From The Hour Of Code
+date: 2013-11-17 00:00:00 Z
+tags:
+- learntocode
+- hourofcode
+- programming
+- students
+- k-12
+- csedweek
 layout: post
-title: "What We Learned From The Hour Of Code"
-description: "Computer Science Education week and the Hour of Code movement was a huge success. We mentored nearly 1000 students in Lexington, KY, but we also learned a lot from them."
-category: 
-tags: [learntocode, hourofcode, programming, students, k-12, csedweek]
+description: Computer Science Education week and the Hour of Code movement was a huge
+  success. We mentored nearly 1000 students in Lexington, KY, but we also learned
+  a lot from them.
 ---
 
 ### What We Learned From The Hour Of Code

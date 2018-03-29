@@ -1,7 +1,8 @@
 ---
-layout: post
 title: An Awesome Rails Tutorial
+layout: post
 ---
+
 by Alek Zieba
 
 **Part I: The Setup**

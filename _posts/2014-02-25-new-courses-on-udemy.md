@@ -1,9 +1,16 @@
 ---
+title: Our Most Popular Courses Now On Udemy
+date: 2014-02-25 00:00:00 Z
+tags:
+- learntocode
+- udemy
+- online
+- mooc
+- video
+- screencast
 layout: post
-title: "Our Most Popular Courses Now On Udemy"
-description: "Our most popular Awesome Inc U courses (Basic Web, iPhone Apps) are now available via the online training site Udemy."
-category: 
-tags: [learntocode, udemy, online, mooc, video, screencast]
+description: Our most popular Awesome Inc U courses (Basic Web, iPhone Apps) are now
+  available via the online training site Udemy.
 ---
 
 [![awesomeinc profile on Udemy](/img/blog/awesomeinc-udemy-profile.png)](https://www.udemy.com/u/awesomeinc/)

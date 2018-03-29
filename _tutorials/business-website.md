@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Make A Basic Business Website with HTML and CSS
+layout: post
 ---
 
 > This tutorial is a work-in-progress. In the mean time, check out the [Google Docs version](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit?usp=sharing).

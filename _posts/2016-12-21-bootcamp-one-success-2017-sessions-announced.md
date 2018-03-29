@@ -1,9 +1,14 @@
 ---
+title: First Bootcamp Success, 2017 Sessions Announced
+date: 2016-12-21 00:00:00 Z
+tags:
+- learntocode
+- bootcamp
+- programming
+- students
 layout: post
-title: "First Bootcamp Success, 2017 Sessions Announced"
-description: "The first Awesome Inc U Web Developer Bootcamp cohort has successfully completed the program, and 2017 program dates have been announced."
-category: 
-tags: [learntocode, bootcamp, programming, students]
+description: The first Awesome Inc U Web Developer Bootcamp cohort has successfully
+  completed the program, and 2017 program dates have been announced.
 ---
 
 ![Awesome Inc Bootcamp student Kelly Wright presents at Demo Day F16](/img/blog/bootcamp-f16-demo-presentation.jpg)

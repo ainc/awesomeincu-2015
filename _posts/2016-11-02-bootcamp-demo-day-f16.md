@@ -1,9 +1,13 @@
 ---
+title: Demo Day - Bootcamp F16
+date: 2016-11-02 00:00:00 Z
+tags:
+- learntocode
+- bootcamp
+- python
 layout: post
-title: "Demo Day - Bootcamp F16"
-description: "Fall 2016 Bootcamp cohort will present final projects at demo day on November 10th"
-category: 
-tags: [learntocode, bootcamp, python]
+description: Fall 2016 Bootcamp cohort will present final projects at demo day on
+  November 10th
 ---
 
 ![Awesome Inc Bootcamp students](/img/blog/bootcamp-f16-students.jpg)

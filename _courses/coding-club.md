@@ -1,12 +1,12 @@
 ---
-layout: course
 title: Coding Club
-description: "Learn Code, Make Friends"
-cover: /img/coding-club.jpg
+permalink: "/coding-club/"
+layout: course
+description: Learn Code, Make Friends
+cover: "/img/coding-club.jpg"
 redirect_from:
-  - /programs/afterschool/
-  - /after-school/
-permalink: /coding-club/
+- "/programs/afterschool/"
+- "/after-school/"
 ---
 
 {% include coding-club-buttons.html %}

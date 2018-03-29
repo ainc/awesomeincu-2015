@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Bootcamp Open House
-description: "Open House event for upcoming Awesome Inc U Web Developer Bootcamp"
-category: 
-tags: [learntocode, bootcamp, career]
+date: 2016-03-14 00:00:00 Z
+tags:
+- learntocode
+- bootcamp
+- career
+layout: post
+description: Open House event for upcoming Awesome Inc U Web Developer Bootcamp
 ---
 
 ![A-Inc Web Developer Bootcamp classroom](/img/bootcamp-web-development-awesome-inc.jpg)

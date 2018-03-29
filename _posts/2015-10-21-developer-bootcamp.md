@@ -1,9 +1,13 @@
 ---
-layout: post
 title: Launching The Bootcamp
-description: "Awesome Inc U announces upcoming Web Developer Bootcamp, intensive training program for starting a new career"
-category: 
-tags: [learntocode, bootcamp, career]
+date: 2015-10-21 00:00:00 Z
+tags:
+- learntocode
+- bootcamp
+- career
+layout: post
+description: Awesome Inc U announces upcoming Web Developer Bootcamp, intensive training
+  program for starting a new career
 ---
 
 ![A-Inc Web Developer Bootcamp screenshot](/img/blog/bootcamp-screenshot.png)

@@ -1,9 +1,13 @@
 ---
-layout: post
 title: Oldham County EdTech Conference Presentation
-description: Nick Such presented to a group of K-12 educators at the Oldham County Public Schools Innovate Integrate Motivate conference
-category: 
-tags: [learntocode, k-12, teachers]
+date: 2015-07-31 00:00:00 Z
+tags:
+- learntocode
+- k-12
+- teachers
+layout: post
+description: Nick Such presented to a group of K-12 educators at the Oldham County
+  Public Schools Innovate Integrate Motivate conference
 ---
 
 ![Slides from Coding Demystified presentation](/img/blog/oldham-coding-presentation.png)

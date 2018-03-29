@@ -1,9 +1,16 @@
 ---
+title: University of Pikeville Brings In Awesome Inc For 1-Day iPhone Course
+date: 2014-04-23 00:00:00 Z
+tags:
+- learntocode
+- on-site
+- pikeville
+- university
+- iphone
+- upike
 layout: post
-title: "University of Pikeville Brings In Awesome Inc For 1-Day iPhone Course"
-description: "Organizations can now bring Awesome Inc U to their teams with on-site course offerings."
-category: 
-tags: [learntocode, on-site, pikeville, university, iphone, upike]
+description: Organizations can now bring Awesome Inc U to their teams with on-site
+  course offerings.
 ---
 
 by [Steve Osowicz](https://plus.google.com/116958087401786058743/)

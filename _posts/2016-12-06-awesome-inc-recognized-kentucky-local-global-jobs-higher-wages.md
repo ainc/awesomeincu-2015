@@ -1,9 +1,15 @@
 ---
+title: Awesome Inc Recognized as Part of Kentucky’s Local-Global Push for Jobs and
+  Higher Wages
+date: 2016-12-06 00:00:00 Z
+tags:
+- learntocode
+- bootcamp
+- programming
+- students
 layout: post
-title: "Awesome Inc Recognized as Part of Kentucky’s Local-Global Push for Jobs and Higher Wages" 
-description: "The mayors of Louisville, Lexington recognize Awesome Inc as an important element in their economic development strategy."
-category: 
-tags: [learntocode, bootcamp, programming, students]
+description: The mayors of Louisville, Lexington recognize Awesome Inc as an important
+  element in their economic development strategy.
 ---
 
 FOR IMMEDIATE RELEASE:

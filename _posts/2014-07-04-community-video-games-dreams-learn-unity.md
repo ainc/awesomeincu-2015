@@ -1,9 +1,13 @@
 ---
+title: Community, Video Games, and Childhood Dreams - Let's Learn Unity
+date: 2014-07-04 00:00:00 Z
+tags:
+- learntocode
+- learning
+- 21st century
 layout: post
-title: "Community, Video Games, and Childhood Dreams - Let's Learn Unity"
-description: "Video games are an important part of our culture, and the Unity game development engine enables more people to create part of that culture."
-category: 
-tags: [learntocode, learning, 21st century]
+description: Video games are an important part of our culture, and the Unity game
+  development engine enables more people to create part of that culture.
 ---
 
 By Will Oldham

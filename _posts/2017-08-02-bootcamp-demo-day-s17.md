@@ -1,9 +1,13 @@
 ---
+title: Demo Day - Bootcamp S17
+date: 2017-08-02 00:00:00 Z
+tags:
+- learntocode
+- bootcamp
+- php
 layout: post
-title: "Demo Day - Bootcamp S17"
-description: "Summer 2017 Bootcamp cohort will present final projects at demo day on August 10th"
-category: 
-tags: [learntocode, bootcamp, php]
+description: Summer 2017 Bootcamp cohort will present final projects at demo day on
+  August 10th
 ---
 
 ![Awesome Inc Bootcamp classroom doorway](/img/blog/bootcamp-s17-door.jpg)

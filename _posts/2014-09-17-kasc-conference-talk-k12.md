@@ -1,9 +1,16 @@
 ---
+title: Teaching Teachers How To Teach Coding
+date: 2014-09-17 00:00:00 Z
+tags:
+- learntocode
+- k12
+- education
+- teachers
+- kasc
 layout: post
-title: "Teaching Teachers How To Teach Coding"
-description: "Awesome Inc U Director Nick Such spoke with teachers and K-12 administrators at the KASC Conference in Louisville this week about How To Host An Hour of Code at Your School"
-category: 
-tags: [learntocode, k12, education, teachers, kasc]
+description: Awesome Inc U Director Nick Such spoke with teachers and K-12 administrators
+  at the KASC Conference in Louisville this week about How To Host An Hour of Code
+  at Your School
 ---
 
 by [Nick Such](https://plus.google.com/+NickSuch/)

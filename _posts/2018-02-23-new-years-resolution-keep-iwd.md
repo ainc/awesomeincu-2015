@@ -1,9 +1,13 @@
 ---
+title: A New Year's Resolution You Can Keep
+date: 2018-02-23 00:00:00 Z
+tags:
+- learntocode
+- intro
+- javascript
 layout: post
-title: "A New Year's Resolution You Can Keep"
-description: "New Intro to Web Development course at Awesome Inc is off to a great start"
-category: 
-tags: [learntocode, intro, javascript]
+description: New Intro to Web Development course at Awesome Inc is off to a great
+  start
 ---
 
 ![Awesome Inc Intro to Web Development](/img/blog/new-years-keep-intro.jpg "Gary Ditsch & Thomas Cothran leading students in Intro to Web Development class")

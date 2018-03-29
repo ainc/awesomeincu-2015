@@ -1,10 +1,10 @@
 ---
 title: Terms of Service
+permalink: "/terms/"
 layout: post
-permalink: /terms/
-redirect_from: 
- - /tos/
- - /legal/
+redirect_from:
+- "/tos/"
+- "/legal/"
 ---
 
 These Awesome Inc U Terms of Use (“Terms”) govern the use of Awesome Ventures, LLC's ("Awesome Inc") Awesome Inc U website, located at http://www.awesomeincu.com, information, text, curricula, apps and software, as well as all other products and services provided by Awesome Inc through the Awesome Inc U website (collectively, the “Services”).

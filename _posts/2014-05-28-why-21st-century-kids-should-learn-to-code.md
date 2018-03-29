@@ -1,9 +1,12 @@
 ---
+title: Why 21st Century Kids Should Learn the 21st Century Skill
+date: 2014-05-28 00:00:00 Z
+tags:
+- learntocode
+- learning
+- 21st century
 layout: post
-title: "Why 21st Century Kids Should Learn the 21st Century Skill"
-description: "Coding is an integral skill for this generation."
-category: 
-tags: [learntocode, learning, 21st century]
+description: Coding is an integral skill for this generation.
 ---
 
 by Sarah Hoffmann

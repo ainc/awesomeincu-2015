@@ -1,9 +1,13 @@
 ---
+title: Academy Spring 2015 Recap
+date: 2015-05-12 00:00:00 Z
+tags:
+- learntocode
+- academy
+- students
 layout: post
-title: "Academy Spring 2015 Recap"
-description: "The Awesome Inc Academy is our premier software development training program for youth."
-category: 
-tags: [learntocode, academy, students]
+description: The Awesome Inc Academy is our premier software development training
+  program for youth.
 ---
 
 by [Nick Such](https://plus.google.com/+NickSuch/)

@@ -1,11 +1,12 @@
 ---
-layout: interest
 title: Academy
+layout: interest
 curriculum_link: academy
-course: /academy/
-hero_img: /img/academy-group.jpg
+course: "/academy/"
+hero_img: "/img/academy-group.jpg"
 form_legend: Interested in coding classes for 13-17 year olds?
-description: Learn to code with friends, in a fun, encouraging environment. Make your own apps, video games, and websites.
+description: Learn to code with friends, in a fun, encouraging environment. Make your
+  own apps, video games, and websites.
 ---
 
 So, you've got the basics down. You've taken a class or two, followed some tutorials, built a few “Hello, world” programs. How do you go beyond learning-to-code and take your software development skills to the next level? The Awesome Inc Academy is our answer.

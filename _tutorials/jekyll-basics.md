@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Learn The Basics of Jekyll
+layout: post
 ---
-
 
 <div class="tutorial">
 

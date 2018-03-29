@@ -1,9 +1,12 @@
 ---
+title: From The Trenches - Bootcamp F16 Update
+date: 2016-09-29 00:00:00 Z
+tags:
+- learntocode
+- bootcamp
+- python
 layout: post
-title: "From The Trenches - Bootcamp F16 Update"
-description: "Fall 2016 Bootcamp cohort is half way through program"
-category: 
-tags: [learntocode, bootcamp, python]
+description: Fall 2016 Bootcamp cohort is half way through program
 ---
 
 ![Awesome Inc U Web Developer Bootcamp students coding](/img/blog/bootcamp-f16-roundtable.jpg)

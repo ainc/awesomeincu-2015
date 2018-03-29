@@ -1,9 +1,13 @@
 ---
+title: A Swift Overview of Swift
+date: 2014-07-08 00:00:00 Z
+tags:
+- learntocode
+- swift
+- apple
+- ios
 layout: post
-title: "A Swift Overview of Swift"
-description: "A look at Apple's new programming language for iOS and OSX, Swift"
-category: 
-tags: [learntocode, swift, apple, ios]
+description: A look at Apple's new programming language for iOS and OSX, Swift
 ---
 
 by Danny Thorne

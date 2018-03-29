@@ -1,7 +1,7 @@
 ---
-layout: notes
 title: Make A Pong Game With Unity 2D
-course_link: /register/
+layout: notes
+course_link: "/register/"
 ---
 
 # Let's Make: PONG

@@ -1,15 +1,15 @@
 ---
-layout: course
 title: Intro To Web Development
+permalink: "/intro-to-web-development/"
+layout: course
 description: Your First Step in Learning To Code
-cover: /img/intro-to-web-development-awesome-inc.jpg
-registration:
+cover: "/img/intro-to-web-development-awesome-inc.jpg"
+registration: 
 redirect_from:
-- /membership/
-- /web-intro/
-- /web-basics/
-- /intro-to-web/
-permalink: /intro-to-web-development/
+- "/membership/"
+- "/web-intro/"
+- "/web-basics/"
+- "/intro-to-web/"
 ---
 
 {% include intro-to-web-buttons.html %}

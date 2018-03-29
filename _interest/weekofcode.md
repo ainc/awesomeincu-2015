@@ -1,9 +1,9 @@
 ---
-layout: interest
 title: Week of Code
+layout: interest
 curriculum_link: weekofcode
-course: /weekofcode/
-hero_img: /img/Awesome-Inc-Week-Of-Code.jpg
+course: "/weekofcode/"
+hero_img: "/img/Awesome-Inc-Week-Of-Code.jpg"
 form_legend: Interested in learn-to-code summer camps for 11-16 year olds?
 description: Learn to make your own apps, video games, and websites with us this summer.
 ---

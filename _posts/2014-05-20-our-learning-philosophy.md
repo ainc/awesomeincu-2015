@@ -1,9 +1,14 @@
 ---
+title: Our Learning Philosophy at Awesome Inc U
+date: 2014-05-20 00:00:00 Z
+tags:
+- learntocode
+- learning
+- teaching
+- philosophy
 layout: post
-title: "Our Learning Philosophy at Awesome Inc U"
-description: "We're building a world-class learning environment, by learning from the best."
-category: 
-tags: [learntocode, learning, teaching, philosophy]
+description: We're building a world-class learning environment, by learning from the
+  best.
 ---
 
 by [Nick Such](https://plus.google.com/+NickSuch?rel=author)

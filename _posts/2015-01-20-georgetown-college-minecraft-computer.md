@@ -1,9 +1,14 @@
 ---
+title: 'Georgetown College Minecraft ALU '
+date: 2015-01-20 00:00:00 Z
+tags:
+- learntocode
+- language
+- maker
+- minecraft
 layout: post
-title: "Georgetown College Minecraft ALU "
-description: "A group of college Computer Science students and their professor discuss how they built an Arithmetic Logic Unit using Minecraft"
-category: 
-tags: [learntocode, language, maker, minecraft]
+description: A group of college Computer Science students and their professor discuss
+  how they built an Arithmetic Logic Unit using Minecraft
 ---
 
 by Danny Thorne

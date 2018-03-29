@@ -1,12 +1,12 @@
 ---
-layout: course
 title: Coding League
-description: "Learn To Code Like The Pros"
-cover: /img/coding-league.jpg
+permalink: "/coding-league/"
+layout: course
+description: Learn To Code Like The Pros
+cover: "/img/coding-league.jpg"
 redirect_from:
-  - /codingleague/
-  - /league/
-permalink: /coding-league/
+- "/codingleague/"
+- "/league/"
 ---
 
 {% include coding-league-buttons.html %}

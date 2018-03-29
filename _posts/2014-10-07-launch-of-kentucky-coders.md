@@ -1,9 +1,13 @@
 ---
+title: Kentucky Coders Launches At IdeaFestival In Louisville
+date: 2014-10-07 00:00:00 Z
+tags:
+- learntocode
+- kentucky coders
+- ideafestival
 layout: post
-title: "Kentucky Coders Launches At IdeaFestival In Louisville"
-description: "Initiative to get 1 million Kentuckians to try coding launches during annual IdeaFestival."
-category: 
-tags: [learntocode, kentucky coders, ideafestival]
+description: Initiative to get 1 million Kentuckians to try coding launches during
+  annual IdeaFestival.
 ---
 
 by [Nick Such](https://plus.google.com/+NickSuch/)

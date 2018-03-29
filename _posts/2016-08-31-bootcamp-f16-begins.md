@@ -1,9 +1,13 @@
 ---
+title: Ten Students Begin 12-Week Web Developer Bootcamp Program
+date: 2016-08-31 00:00:00 Z
+tags:
+- learntocode
+- bootcamp
+- python
 layout: post
-title: "Ten Students Begin 12-Week Web Developer Bootcamp Program"
-description: "The Fall 2016 cohort begins an intense 3-month training program for new software developers"
-category: 
-tags: [learntocode, bootcamp, python]
+description: The Fall 2016 cohort begins an intense 3-month training program for new
+  software developers
 ---
 
 ![Awesome Inc U Web Developer Bootcamp students coding](/img/blog/bootcamp-f16-classroom.jpg)

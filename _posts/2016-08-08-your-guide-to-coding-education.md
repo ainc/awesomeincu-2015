@@ -1,9 +1,13 @@
 ---
+title: Your guide to a coding education
+date: 2016-08-08 00:00:00 Z
+tags:
+- learntocode
+- learning
+- 21st century
 layout: post
-title: "Your guide to a coding education"
-description: "All across the nation, programs are sprouting, encouraging young and old alike to learn how to code."
-category: 
-tags: [learntocode, learning, 21st century]
+description: All across the nation, programs are sprouting, encouraging young and
+  old alike to learn how to code.
 ---
 
 Guest post by: [**Isaac Rowe**](https://medium.com/@Isaac_rowe1)

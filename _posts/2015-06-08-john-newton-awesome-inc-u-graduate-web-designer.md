@@ -1,9 +1,13 @@
 ---
+title: 'John Newton: Awesome Inc U Graduate, Web Designer'
+date: 2015-06-08 00:00:00 Z
+tags:
+- learntocode
+- academy
+- students
 layout: post
-title: "John Newton: Awesome Inc U Graduate, Web Designer"
-description: "John Newton came to the Awesome Inc U Membership without web development experience, and left with a coding job."
-category: 
-tags: [learntocode, academy, students]
+description: John Newton came to the Awesome Inc U Membership without web development
+  experience, and left with a coding job.
 ---
 
 ![image alt text](/img/blog/john-newton-membership.png)

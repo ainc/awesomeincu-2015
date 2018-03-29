@@ -1,13 +1,13 @@
 ---
-layout: course
 title: Week of Code Summer Camp
+permalink: "/weekofcode/"
+layout: course
 description: Lexington's &#35;1 Summer Coding Camp
-cover: /img/Awesome-Inc-Week-Of-Code.jpg
-applications:
-permalink: /weekofcode/
-redirect_from: 
- - /camp/
- - /summer/
+cover: "/img/Awesome-Inc-Week-Of-Code.jpg"
+applications: 
+redirect_from:
+- "/camp/"
+- "/summer/"
 ---
 
 {% include woc-buttons.html %}

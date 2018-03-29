@@ -1,9 +1,16 @@
 ---
+title: Awesome Inc Launches Lexington’s First Coding Bootcamp - Guarantees Job Placement
+  as Web Developer
+date: 2016-09-27 00:00:00 Z
+tags:
+- learntocode
+- bootcamp
+- programming
+- students
 layout: post
-title: "Awesome Inc Launches Lexington’s First Coding Bootcamp - Guarantees Job Placement as Web Developer" 
-description: "Awesome Inc, the hi-tech incubator and computer coding school that provides programming courses for kids and adults in Kentucky has launched Lexington’s first coding Bootcamp."
-category: 
-tags: [learntocode, bootcamp, programming, students]
+description: Awesome Inc, the hi-tech incubator and computer coding school that provides
+  programming courses for kids and adults in Kentucky has launched Lexington’s first
+  coding Bootcamp.
 ---
 
 by: Gregory Petitt

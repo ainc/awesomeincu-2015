@@ -1,11 +1,12 @@
 ---
-layout: interest
 title: Bootcamp
+layout: interest
 curriculum_link: bootcamp
-course: /bootcamp/
-hero_img: /img/bootcamp-web-development-awesome-inc.jpg
+course: "/bootcamp/"
+hero_img: "/img/bootcamp-web-development-awesome-inc.jpg"
 form_legend: Ready to start your new career as a professional developer?
-description: Become a web developer with our intense 12-week program. Taught by industry professionals. Start your new career today.
+description: Become a web developer with our intense 12-week program. Taught by industry
+  professionals. Start your new career today.
 press_footer: true
 ---
 

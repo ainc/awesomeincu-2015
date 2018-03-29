@@ -1,7 +1,7 @@
 ---
-layout: notes
 title: Basic Web Crash Course
-course_link: /register/
+layout: notes
+course_link: "/register/"
 ---
 
 ## Overview

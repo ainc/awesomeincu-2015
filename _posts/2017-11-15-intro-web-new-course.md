@@ -1,9 +1,13 @@
 ---
+title: New Part-Time Course for Adults - Intro to Web
+date: 2017-11-15 00:00:00 Z
+tags:
+- learntocode
+- bootcamp
+- javascript
 layout: post
-title: "New Part-Time Course for Adults - Intro to Web"
-description: "Learn to develop websites in a new part-time, evening course for adult learners."
-category: 
-tags: [learntocode, bootcamp, javascript]
+description: Learn to develop websites in a new part-time, evening course for adult
+  learners.
 ---
 
 ![Adults learn to code at Awesome Inc](/img/blog/intro-to-web-development-awesome-inc.jpg)

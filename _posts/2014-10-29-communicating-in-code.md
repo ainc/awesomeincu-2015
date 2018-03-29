@@ -1,9 +1,13 @@
 ---
+title: Communicating in Code
+date: 2014-10-29 00:00:00 Z
+tags:
+- learntocode
+- language
+- maker
 layout: post
-title: "Communicating in Code"
-description: "Code is not new, we use plenty of other types of code in our lives. But computing code is uniquely powerful."
-category: 
-tags: [learntocode, language, maker]
+description: Code is not new, we use plenty of other types of code in our lives. But
+  computing code is uniquely powerful.
 ---
 
 by [Nick Such](https://plus.google.com/+NickSuch/)

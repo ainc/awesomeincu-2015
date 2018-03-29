@@ -1,9 +1,17 @@
 ---
+title: How To Change Your Life In Just One Hour This December
+date: 2013-11-07 00:00:00 Z
+tags:
+- learntocode
+- code.org
+- csedweek
+- k-12
+- hourofcode
+- programming
+- computer science
 layout: post
-title: "How To Change Your Life In Just One Hour This December"
-description: "Why you should join millions of Americans to learn to code during Computer Science Education Week."
-category: 
-tags: [learntocode, code.org, csedweek, k-12, hourofcode, programming, computer science]
+description: Why you should join millions of Americans to learn to code during Computer
+  Science Education Week.
 ---
 
 <img src="/img/blog/hour-of-code-promo.jpg" alt="Kids learning to code with CSEdWeek logo">
