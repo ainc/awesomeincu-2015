@@ -147,7 +147,7 @@ Classes are two nights per week, two hours per night, for nine weeks. In additio
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '43177926340',
+        eventId: '45028283809',
         iframeContainerId: 'eventbrite-widget-container',
 
         // Optional

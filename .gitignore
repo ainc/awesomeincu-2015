@@ -8,6 +8,7 @@ _site/
 
 # Bundler
 Gemfile.lock
+Gemfile
 
 # Mac OS X
 .DS_Store
