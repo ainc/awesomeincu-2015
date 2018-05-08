@@ -8,7 +8,7 @@ tags:
 layout: post
 ---
 
-![Web Developer Bootcamp Student Success Story](/https://imgur.com/a/W8oC8v0 "Josh Stewart and Family")
+![Web Developer Bootcamp Student Success Story](https://imgur.com/a/W8oC8v0 "Josh Stewart and Family")
 
 By [Ross Ladenburger](https://www.linkedin.com/in/ross-ladenburger-078369a8/)
 
