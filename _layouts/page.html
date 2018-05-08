@@ -12,7 +12,9 @@
         {% include head.html %}
         {% include google-analytics.html %}
         {% include pixels.html %}
+        {% if page.url != '/tutorials/unity-pong/' %}        
         {% include live_tracker.html %}
+        {% endif %}
     </head>
     <body>
         {% include nav.html %}
