@@ -134,6 +134,7 @@ Classes are two nights per week, two hours per night, for nine weeks. In additio
 </div>
 </div> <!-- /container -->
 
+
 <!--Eventbrite generated ticket form widget-->
 <div id="eventbrite-widget-container"></div>
 
@@ -147,7 +148,7 @@ Classes are two nights per week, two hours per night, for nine weeks. In additio
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '45028283809',
+        eventId: '46576409294',
         iframeContainerId: 'eventbrite-widget-container',
 
         // Optional
