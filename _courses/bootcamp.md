@@ -14,11 +14,11 @@ press_footer: true
 
 The Web Developer Bootcamp is a 12-week, full-time training program for aspiring software developers. We've worked with companies throughout the region to design a curriculum to prepare you to dive into a career in software development. This intense training program is designed to quickly take you from the basics of programming to a level of competency in building modern web applications. With over 500 hours of hands-on training, you'll gain experience while building 10+ projects using HTML, CSS, JavaScript, Heroku, GitHub, Agile, and more.
 
-<img alt="Learn to code and make websites and mobile apps" src="/img/Responsive_Web_Design.png" class="img-responsive">
+<img alt="Learn to code and make websites and mobile apps" src="/img/Responsive_Web_Design.jpg" class="img-responsive img-rounded center-block">
 
 Participants are expected to be fully invested in the training process for a 12 week period. At the conclusion of the program, participants will be ready to interview with regional and national employers for the opportunity to earn a full-time position at a competitive junior developer's salary.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/PuOzhadFG_s" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/kTABF680TGU" frameborder="0" allowfullscreen></iframe></div>
 
 ## What our alumni are saying
 
@@ -29,10 +29,11 @@ Participants are expected to be fully invested in the training process for a 12 
 There's no way I would have been able to figure any of it out or do so well, without Bootcamp."
 
 <p style="clear: both;"><a href="https://www.linkedin.com/in/brett-fraley-446134125">Brett Fraley</a>  Bootcamp F16
-<br>Developer, Fusioncorp Design&trade; Creative Solutions</p>
+<br>Front End Engineer, ITHAKA / Artstor</p>
 <p><a class="btn cl-link-effect alumni" data-hover="Bootcamp Alumni" href="/alumni"><span>Bootcamp Alumni</span></a></p>
 
-<center><img src="/img/100-percent-hired.jpg" width="400" class="img-responsive" style="padding-bottom: 5px;"></center>
+<img src="/img/100-percent-hired.jpg" width="400" class="img-responsive center-block img-rounded">
+<br>
 
 <p>100% of our Bootcamp grads from the F16 cohort landed jobs in the software development field within 6 months of completing our program. <a href="/applications/bootcamp/">Applications</a> are open for our next Bootcamp</p>
 
