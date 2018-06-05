@@ -8,6 +8,8 @@ application: "/applications/bootcamp/"
 press_footer: true
 ---
 
+{% include special-announcement.html %}
+
 ## Learn to code in 12 weeks, get a job as a web developer.
 
 The Web Developer Bootcamp is a 12-week, full-time training program for aspiring software developers. We've worked with companies throughout the region to design a curriculum to prepare you to dive into a career in software development. This intense training program is designed to quickly take you from the basics of programming to a level of competency in building modern web applications. With over 500 hours of hands-on training, you'll gain experience while building 10+ projects using HTML, CSS, JavaScript, Heroku, GitHub, Agile, and more.
@@ -32,7 +34,7 @@ There's no way I would have been able to figure any of it out or do so well, wit
 
 <center><img src="/img/100-percent-hired.jpg" width="400" class="img-responsive" style="padding-bottom: 5px;"></center>
 
-<p>100% of our Bootcamp grads from the F16 cohort landed jobs in the software development field within 6 months of completing our program. Recent graduates (S17 and F17 cohorts) are still in the job search phase, so aggregate data is not yet available. <a href="/applications/bootcamp/">Applications</a> are open for our next Bootcamp</p>
+<p>100% of our Bootcamp grads from the F16 cohort landed jobs in the software development field within 6 months of completing our program. <a href="/applications/bootcamp/">Applications</a> are open for our next Bootcamp</p>
 
 <div>
   <div>
