@@ -9,6 +9,10 @@ redirect_from:
 - "/kids/"
 ---
 
+<!-- Filter script -->
+
+
+
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="bg-image" style="background-image: url({{page.cover}});"></div>
 <div class="jumbotron " >
@@ -115,59 +119,107 @@ redirect_from:
 
 			<p>Learning to code can be difficult, but so is learning karate, gymnastics, or playing the violin. Consistent practice, week after week, is how you become a great programmer. Our semester-long programs build upon basic skills learned in introductory experiences like the Hour of Code and reinforce that new knowledge with hands-on experience. We have courses for youth students ages 9 - 17.</p>
 
-			<div class="table-responsive">
-				
-				<table class="table table-striped table-bordered">
-					<thead>
-						<tr>
-							<td>Course</td>
-							<td>Level</td>
-							<td>&nbsp;Ages&nbsp;</td>
-							<td>Topics</td>
-							<td>Technologies</td>
-							<td>Schedule</td>
-							<td>Learn More</td>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td>Coding Club</td>
-							<td>Beginner</td>
-							<td>9-12</td>
-							<td>Computational Thinking, Block-Based Programming</td>
-							<td>MIT Scratch</td>
-							<td>Spring and Fall<br>Tuesdays or Thursdays, 5-6:30pm</td>
-							<td><a href="/coding-club/" class="btn btn-default center" role="button">Details &amp; Registration</a></td>
-						</tr>
-						<tr>
-							<td>Week of Code Camp</td>
-							<td>Beginner</td>
-							<td>10-15</td>
-							<td>Web, Mobile, Games&nbsp;</td>
-							<td>HTML, CSS, JavaScript, Android, C#, Unity 3D</td>
-							<td>Summer<br>Mon - Thurs, 1pm - 5pm</td>
-							<td><a href="/weekofcode/" class="btn btn-default center" role="button">Details &amp; Registration</a></td>
-						</tr>
-						<tr>
-							<td>Coding League</td>
-							<td>Intermediate</td>
-							<td>11-14</td>
-							<td>Web Development, Computer Science Basics&nbsp;</td>
-							<td>HTML, CSS, JavaScript</td>
-							<td>Spring and Fall<br>Tuesdays or Thursdays, 5:30-7pm</td>
-							<td><a href="/coding-league/" class="btn btn-default center" role="button">Details &amp; Registration</a></td>
-						</tr>
-						<tr>
-							<td>Academy</td>
-							<td>Advanced</td>
-							<td>13-17</td>
-							<td>Projects in Web, Mobile, Games&nbsp;</td>
-							<td>HTML, CSS, JavaScript, Python, Swift, Java, C#, Unity 3D</td>
-							<td>Spring and Fall<br>Tuesdays and Thursdays, 6-8pm</td>
-							<td><a href="/academy/" class="btn btn-default center" role="button">Details &amp; Registration</a></td>
-						</tr>
-					</tbody>
-				</table>
+			<div id="courses">
+				<H4>Filters</H4>
+				<div class="checkboxes">
+					<label for="checkbox-inline">Level:	</label>
+					<br>
+					<div class="checkbox-inline">
+						<label>
+							<input class="level-filter" type="checkbox" data-value="Beginner" /> Beginner
+						</label>
+					</div>
+					<div class="checkbox-inline">
+						<label>
+							<input class="level-filter" type="checkbox" data-value="Intermediate" /> Intermediate
+						</label>
+					</div>
+					<div class="checkbox-inline">
+						<label>
+							<input class="level-filter" type="checkbox" data-value="Advanced" /> Advanced
+						</label>
+					</div>
+				</div>
+
+				<div class="checkboxes">
+					<label for="checkbox-inline">Ages: </label>
+					<br>
+					<div class="checkbox-inline">
+						<label>
+							<input class="ages-filter" type="checkbox" data-value="9-12" /> 9-12
+						</label>
+					</div>
+					<div class="checkbox-inline">
+						<label>
+							<input class="ages-filter" type="checkbox" data-value="10-15" /> 10-15
+						</label>
+					</div>
+					<div class="checkbox-inline">
+						<label>
+							<input class="ages-filter" type="checkbox" data-value="11-14" /> 11-14
+						</label>
+					</div>
+					<div class="checkbox-inline">
+						<label>
+							<input class="ages-filter" type="checkbox" data-value="13-17" /> 13-17
+						</label>
+					</div>
+				</div>
+
+				<div class="table-responsive">
+					<table class="table table-striped table-bordered">
+						<thead>
+							<tr>
+								<td>Course</td>
+								<td>Level</td>
+								<td>&nbsp;Ages&nbsp;</td>
+								<td>Topics</td>
+								<td>Technologies</td>
+								<td>Schedule</td>
+								<td>Learn More</td>
+							</tr>
+						</thead>
+
+						<tbody class="list">
+							<tr>
+								<td class="course">Coding Club</td>
+								<td class="level">Beginner</td>
+								<td class="ages">9-12</td>
+								<td class="topics">Computational Thinking, Block-Based Programming</td>
+								<td class="technologies">MIT Scratch</td>
+								<td class="schedule">Spring and Fall<br>Tuesdays or Thursdays, 5-6:30pm</td>
+								<td class="registration"><a href="/coding-club/" class="btn btn-default center" role="button">Details &amp; Registration</a></td>
+							</tr>
+							<tr>
+								<td class="course">Week of Code Camp</td>
+								<td class="level">Beginner</td>
+								<td class="ages">10-15</td>
+								<td class="topics">Web, Mobile, Games&nbsp;</td>
+								<td class="technologies">HTML, CSS, JavaScript, Android, C#, Unity 3D</td>
+								<td class="schedule">Summer<br>Mon - Thurs, 1pm - 5pm</td>
+								<td class="registration"><a href="/weekofcode/" class="btn btn-default center" role="button">Details &amp; Registration</a></td>
+							</tr>
+							<tr>
+								<td class="course">Coding League</td>
+								<td class="level">Intermediate</td>
+								<td class="ages">11-14</td>
+								<td class="topics">Web Development, Computer Science Basics&nbsp;</td>
+								<td class="technologies">HTML, CSS, JavaScript</td>
+								<td class="schedule">Spring and Fall<br>Tuesdays or Thursdays, 5:30-7pm</td>
+								<td class="registration"><a href="/coding-league/" class="btn btn-default center" role="button">Details &amp; Registration</a></td>
+							</tr>
+							<tr>
+								<td class="course">Academy</td>
+								<td class="level">Advanced</td>
+								<td class="ages">13-17</td>
+								<td class="topics">Projects in Web, Mobile, Games&nbsp;</td>
+								<td class="technologies">HTML, CSS, JavaScript, Python, Swift, Java, C#, Unity 3D</td>
+								<td class="schedule">Spring and Fall<br>Tuesdays and Thursdays, 6-8pm</td>
+								<td class="registration"><a href="/academy/" class="btn btn-default center" role="button">Details &amp; Registration</a></td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
 			</div>
 		</div>
 	</div>
