@@ -6,7 +6,7 @@ To filter additional items:
 3) add an additional change function for the new filter and change the counter variable
 */
 $(function() {
-	
+
 	// filtered vars
 	var options = {
 		valueNames: ['level', 'ages']
@@ -18,6 +18,17 @@ $(function() {
 	
 	var courseList = new List('courses', options);
 	var filters = [];
+
+	// modify List.js templater to allow for animations
+	// https://github.com/javve/list.js/issues/264
+	var templater = courseList.templater;
+	templater.clear = $.noop; // relying on `show`/`hide` instead
+	templater.show = function(item) {
+	  $(item.elm).fadeIn();
+	};
+	templater.hide = function(item) {
+	  $(item.elm).fadeOut();
+	};
 
 	// level filter
     $('.level-filter').change(function() {
@@ -39,6 +50,7 @@ $(function() {
 		courseList.filter(function (item) {
 			// both filters active
 			if(numLevel > 0 && numAges > 0){
+
 				return filters.indexOf(item.values().level) > -1 && filters.indexOf(item.values().ages) > -1;
 			// level filter active
 			} else if(numLevel > 0){
