@@ -172,10 +172,10 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
         * Fonts
     * [HTML Cheatsheet](https://developer.mozilla.org/en-US/Learn/HTML/Cheatsheet)
     * [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* Create our own site - [My Favorite Animal](https://nicksuch.github.io/weekofcode-web/)
+* Create our own site - [My Favorite Animal](https://thimbleprojects.org/raney24/507152/)
     * Create new project with Mozilla Thimble
     * [Website manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit)
-    * [COPY THIS CSS CODE](https://raw.githubusercontent.com/nicksuch/weekofcode-web/gh-pages/styles.css)
+    * [COPY THIS CSS CODE](https://thimbleprojects.org/raney24/507152/style.css)
 
 #### 3pm
 
@@ -203,13 +203,13 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
 If times remains:
 
 * How to register a Domain Name with [Google Domains](https://domains.google/)
-* [Codecademy web practice](https://www.codecademy.com/skills/make-a-website)
+* [Codecademy web practice](https://www.codecademy.com/learn/make-a-website)
 * [Bootstrap](https://getbootstrap.com/)
-* [JavaScript](https://www.codecademy.com/goals/hour-of-code)
+* [JavaScript](https://www.codecademy.com/hour-of-code)
 
 #### 5pm
 
-* At home: see [web manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit) and [sample code](https://github.com/ainc/basicweb-crash/tree/weekofcode-animals) and [sample page](https://nicksuch.github.io/weekofcode-web/)
+* At home: see [web manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit) and [sample code](https://thimble.mozilla.org/en-US/projects/507152/remix) and [sample page](https://thimbleprojects.org/raney24/507152/)
 * [Mozilla HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * Confirm Unity setup for tomorrow. Protip: bring a mouse!
 
