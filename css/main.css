@@ -828,3 +828,8 @@ ul#filters li a {
        -o-transition-duration: 0.8s;
           transition-duration: 0.8s;
 }
+
+/**** youth filter table-empty visibility ****/
+#empty-table {
+  visibility:  hidden;
+}

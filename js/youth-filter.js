@@ -19,6 +19,9 @@ $(function() {
 	var courseList = new List('courses', options);
 	var filters = [];
 
+	// for no matching courses text
+	var table = document.getElementById("empty-table");
+
 	// modify List.js templater to allow for animations
 	// https://github.com/javve/list.js/issues/264
 	var templater = courseList.templater;
@@ -63,6 +66,19 @@ $(function() {
 				return true;
 			}
 		});
+		// for no matching courses text
+		if(courseList.visibleItems == 0){
+			// make visible, set delay for table transition
+			setTimeout(function(){
+				table.style.visibility = "visible";
+			}, 500);
+		}
+		else{
+			// make hidden
+			setTimeout(function(){
+				table.style.visibility = "hidden";
+			}, 0);
+		}
 	});
 
     // ages filter
@@ -97,5 +113,18 @@ $(function() {
 				return true;
 			}
 		});
+		// for no matching courses text
+		if(courseList.visibleItems == 0){
+			// make visible, set delay for table transition
+			setTimeout(function(){
+				table.style.visibility = "visible";
+			}, 500);
+		}
+		else{
+			// make hidden
+			setTimeout(function(){
+				table.style.visibility = "hidden";
+			}, 0);
+		}
      });
 });
