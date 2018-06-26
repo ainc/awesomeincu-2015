@@ -40,4 +40,4 @@ plugins:
 - jekyll-sitemap
 exclude:
 - node_modules
-students-taught: 1200
+students-taught: 1400
