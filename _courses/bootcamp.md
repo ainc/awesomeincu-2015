@@ -37,9 +37,45 @@ There's no way I would have been able to figure any of it out or do so well, wit
 
 <p>100% of our Bootcamp grads from the F16 cohort landed jobs in the software development field within 6 months of completing our program. <a href="/applications/bootcamp/">Applications</a> are open for our next Bootcamp</p>
 
+<h2>Paying for Bootcamp</h2>
+
+<div class="table-responsive">
+  <p>To help make a career change more accessible for our students, we offer a variety of payment plans to fit your budget:</p>		
+  <table class="table table-striped table-bordered">
+    <thead>
+      <tr>
+        <td>&nbsp;</td>
+        <td>Up-Front</td>
+        <td>12-Month</td>
+        <td>24-Month</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Deposit</td>
+        <td>$1000</td>
+        <td>$1000</td>
+        <td>$1000</td>
+      </tr>
+      <tr>
+        <td>Monthly Payments</td>
+        <td>-</td>
+        <td>$918.75</td>
+        <td>$490.00</td>
+      </tr>
+      <tr>
+        <td>Total Cost</td>
+        <td>$11,500</td>
+        <td>$12,025</td>
+        <td>$12,760</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <div>
   <div>
-  <h1 style="font-weight:bold;">FAQs</h1>
+  <h2>FAQs</h2>
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
       <div class="panel panel-default"> <!-- QUESTION 1 -->
         <div class="panel-heading" role="tab" id="headingOne">
