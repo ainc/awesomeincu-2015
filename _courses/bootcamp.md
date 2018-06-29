@@ -22,17 +22,22 @@ Participants are expected to be fully invested in the training process for a 12 
 
 ## What our alumni are saying
 
-<img src="/img/alumni/brett_fraley.jpg" width="200" class="img-responsive" style="float:left; padding-right: 20px; padding-top: 24px;">
+<div class="row">
+  <div class="col-xs-3">
+    <img src="/img/alumni/brett_fraley.jpg" class="img-responsive img-rounded">
+  </div>
+  <div class="col-xs-9">
+    <p>"Over the last two weeks I have used every little bit of experience from Bootcamp, in some way. And I was able to go from a paragraph description from a client to a deployment-ready web application involving teams, team captains, payment gateway APIs, logging and tracking admin, image uploads, signup invites, social media event link invites and shares - all in a new language and framework. All this practically all on my own.</p>
+    <p>There's no way I would have been able to figure any of it out or do so well, without Bootcamp."
+    </p>
+  </div>
+</div>
 
-"Over the last two weeks I have used every little bit of experience from Bootcamp, in some way. And I was able to go from a paragraph description from a client to a deployment-ready web application involving teams, team captains, payment gateway APIs, logging and tracking admin, image uploads, signup invites, social media event link invites and shares - all in a new language and framework. All this practically all on my own.
-
-There's no way I would have been able to figure any of it out or do so well, without Bootcamp."
-
-<p style="clear: both;"><a href="https://www.linkedin.com/in/brett-fraley-446134125">Brett Fraley</a>  Bootcamp F16
+<p><a href="https://www.linkedin.com/in/brett-fraley-446134125">Brett Fraley</a>  Bootcamp F16
 <br>Front End Engineer, ITHAKA / Artstor</p>
 <p><a class="btn cl-link-effect alumni" data-hover="Bootcamp Alumni" href="/alumni"><span>Bootcamp Alumni</span></a></p>
 
-<img src="/img/100-percent-hired.jpg" width="400" class="img-responsive center-block img-rounded">
+<a href="/alumni"><img src="/img/100-alumni-f16-hired.png" class="img-responsive center-block img-rounded"></a>
 <br>
 
 <p>100% of our Bootcamp grads from the F16 cohort landed jobs in the software development field within 6 months of completing our program. <a href="/applications/bootcamp/">Applications</a> are open for our next Bootcamp</p>
