@@ -152,30 +152,31 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
 
 #### 1pm
 
-* What is "The Web"?
-    * [Nick's slides](https://docs.google.com/presentation/d/17vOuLgv_EY7V1MgPx6h17TNceu4A7MmAQytHrBJFSZI/edit#slide=id.g255e2bb9d_00)
-    * [Nerf's slides](https://bit.ly/murraygsp)
+* [What is "The Web"?](https://docs.google.com/presentation/d/17vOuLgv_EY7V1MgPx6h17TNceu4A7MmAQytHrBJFSZI/edit#slide=id.g255e2bb9d_00)
 * View Page Source, see HTML, CSS, JavaScript
 * Chrome Developer Tools
-    * Go to [Twitter.com/awesome_inc](https://twitter.com/awesome_inc)
+    * Go to [Twitter.com/awesome_inc](https://twitter.com/awesome_inc){:target="_blank"}
+* Design a wireframe for our site
+    * Heading, Navigation, Images, Text Content
+    * Two pages: home page, fun facts
 * Use [Mozilla Thimble](https://thimble.mozilla.org/){:target="_blank"} to make our first web page
-    * Disable auto-complete
-    * HTML Elements
+    * Create account and sign in
+    * Disable "auto close tags" and "autocomplete code"
+    * Add HTML Elements
         * Headings
         * Paragraph
+        * Images
         * Links
         * Lists
-        * Images
-    * Styles with CSS
-        * Text Colors
-        * Background Colors
-        * Fonts
-    * [HTML Cheatsheet](https://developer.mozilla.org/en-US/Learn/HTML/Cheatsheet)
-    * [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* Create our own site - [My Favorite Animal](https://thimbleprojects.org/raney24/507152/)
-    * Create new project with Mozilla Thimble
-    * [Website manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit)
-    * [COPY THIS CSS CODE](https://thimbleprojects.org/raney24/507152/style.css)
+
+#### 2pm
+
+* Styles with CSS
+    * [COPY THIS CSS CODE](https://thimbleprojects.org/nicksuch/504751/style.css){:target="_blank"}
+    * Selectors and Properties
+    * Background Colors
+* Embed YouTube video
+    * Share -> Embed
 
 #### 3pm
 
@@ -183,35 +184,36 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
 
 #### 3:15pm
 
-* Special Content
-   * Tables
-   * YouTube embed
-      * Share -> Embed
-   * Google Form embed
-      * [Sample Form](https://docs.google.com/forms/d/1OXXXjfutX2pbjZwAuOmwzD_vVMmXVFOJgBX-8sXPTZU/viewform)
-      * Form embed code:
- 
-            <iframe src="https://docs.google.com/forms/d/1OXXXjfutX2pbjZwAuOmwzD_vVMmXVFOJgBX-8sXPTZU/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+* Web Page 2: Animal Fun Facts
+   * Create new HTML page
+   * Navbar: ul, class
+   * JavaScript
+   * [COPY THIS JS CODE](https://thimbleprojects.org/nicksuch/504751/script.js){:target="_blank"}
 
 #### 4pm
 
 * Publish and share
-* Remix sample projects
+* Add your site to [our list](https://bit.ly/woc-website){:target="_blank"}
 
-#### 4:30pm
+References:
 
-If times remains:
-
+* [HTML Cheatsheet](https://developer.mozilla.org/en-US/Learn/HTML/Cheatsheet)
+* [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * How to register a Domain Name with [Google Domains](https://domains.google/)
 * [Codecademy web practice](https://www.codecademy.com/learn/make-a-website)
 * [Bootstrap](https://getbootstrap.com/)
 * [JavaScript](https://www.codecademy.com/hour-of-code)
 
+#### 4:30pm
+
+* Confirm Unity setup for tomorrow.
+    * Install [Unity - personal edition](https://store.unity.com/download?ref=personal){:target="_blank"}
+    * Protip: bring a mouse!
+
 #### 5pm
 
 * At home: see [web manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit) and [sample code](https://thimble.mozilla.org/en-US/projects/507152/remix) and [sample page](https://thimbleprojects.org/raney24/507152/)
 * [Mozilla HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* Confirm Unity setup for tomorrow. Protip: bring a mouse!
 
 ![Nick's favorite animal is the Wandering Albatross](/img/notes/weekofcode-albatross.jpg)
 
