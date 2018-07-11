@@ -268,11 +268,10 @@ References:
         * [Thunkable - Intermediate Android tutorials](https://www.youtube.com/watch?v=0fjLYXE0YQE&list=PLB89L9PPGIrwiLxoTsmIgPBQvy5ShtM2W)
         * [Thunkable - Advanced Android tutorials](https://www.youtube.com/watch?v=T-p_Emx0_D8&list=PLB89L9PPGIrzWu9qFoD6iXDOX1IB1ZtaI)
     * Web
-        * [Homework Excuse Generator](https://thimbleprojects.org/mozillalearning/11698/)
-        * [Back to School postcard](https://thimbleprojects.org/mozillalearning/220079/)
+        * [My Summer Vacation - website tutorial](https://docs.google.com/document/d/1-EQ6UpCllONL-KjL-tD7sMnom3Ap5ZyTdFaUiCvAsYs/edit)
+        * [Sports Fan Website - website to remix](https://thimbleprojects.org/gbr4477/509558/)
         * [Build with HTML Bricks](https://thimbleprojects.org/mozillalearning/279519/)
         * [p5.js animation projects](http://p5js.org/examples/), remix from [p5.js sample](https://thimbleprojects.org/mozillalearning/213461/)
-        * [Introduction to Javascript on Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
     * Game
         * [Pong Tutorial, 2D](https://www.awesomeincu.com/tutorials/unity-pong/)
         * [Making Minecraft, 3D](https://github.com/dannythorne/MakingMinecraft_Take02)

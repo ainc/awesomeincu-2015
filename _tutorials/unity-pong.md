@@ -94,7 +94,7 @@ Now <kbd>click and drag</kbd> the paddle image onto the scene in the Scene view.
 
 Click the PongPaddle in the Hierarchy. Over in the Inspector, rename it to `Paddle1` and click the Tag dropdown and select `Player`. (More on this later.) Set Position to (X, Y, Z) = `(-4, 0, 0)` and Scale to `(0.5, 1.5, 1)`. It should look like this in the Inspector:
 
-![Player setup](/img/tutorials/unity-pong/paddle-setup.png)
+![Paddle setup](/img/tutorials/unity-pong/paddle-setup.png)
 
 All we're doing here is making sure that the paddle is positioned where we want it. The Sorting Layer and other settings don't matter this time because we want this object to be drawn on top, which is what Unity defaults to.
 
@@ -459,7 +459,7 @@ Now, click on `Player Settings`. This is where you should put your name on the P
 
 Now, hit `Build` and choose where you want to save the file (I chose the desktop), and name it something (I named it Pong v1.0). Look at your desktop. Is it there? Sweet. If you want to see the completed version, here's the [sample code on GitHub](https://github.com/ainc/unity-pong).
 
-Congratulations, and enjoy your game. Thanks for going through this tutorial, and if you want to learn more about Unity or coding in general, make sure to check out the rest of [Awesome Inc U](http://www.awesomeincu.com/) online.
+Congratulations, and enjoy your game. Thanks for going through this tutorial, and if you want to learn more about Unity or coding in general, make sure to check out the rest of [Awesome Inc U](/) online.
 
 ## THANKS, AND GAME ON
 
