@@ -201,7 +201,7 @@ Select `Paddle2` and change its key bindings (I recommend using 'Up Arrow' for u
 
 ![image alt text](/img/tutorials/unity-pong/image_12.png)
 
-Run your game and see if you can move both paddles separately. If so, move on - if not, go back and double check to make sure you didn't miss anything. Your completed C# script should look like this: [PlayerControls.cs](https://github.com/ainc/unity-pong/blob/unity5/Assets/PlayerControls.cs)
+Run your game and see if you can move both paddles separately. If so, move on - if not, go back and double check to make sure you didn't miss anything. Your completed C# script should look like this: [PlayerControls.cs](https://github.com/ainc/unity-pong/blob/unity2018/Assets/PlayerControls.cs)
 
 ## Step Three: The Ball
 
@@ -298,7 +298,7 @@ void OnCollisionEnter2D (Collision2D coll) {
 }
 ```
 
-Let's recap. We have two paddles that work, and now a ball that bounces around realistically. The completed script we just added should look like this: [BallControl.cs](https://github.com/ainc/unity-pong/blob/unity5/Assets/BallControl.cs). The game should have two paddles and a ball, ready for us to play!
+Let's recap. We have two paddles that work, and now a ball that bounces around realistically. The completed script we just added should look like this: [BallControl.cs](https://github.com/ainc/unity-pong/blob/unity2018/Assets/BallControl.cs). The game should have two paddles and a ball, ready for us to play!
 
 ## Step Four: The Walls
 
@@ -400,7 +400,7 @@ void OnGUI () {
 }
 ```
 
-The 'SendMessage' call is something we've been using a lot in this chunk of code - it will trigger any function that matches the name that we send it in a class we specify. So when we say `theBall.SendMessage("ResetBall")`, we tell the program to access the 'BallControl' class and trigger the `ResetBall()` method. Here's the completed script: [GameManager.cs](https://github.com/ainc/unity-pong/blob/unity5/Assets/GameManager.cs)
+The 'SendMessage' call is something we've been using a lot in this chunk of code - it will trigger any function that matches the name that we send it in a class we specify. So when we say `theBall.SendMessage("ResetBall")`, we tell the program to access the 'BallControl' class and trigger the `ResetBall()` method. Here's the completed script: [GameManager.cs](https://github.com/ainc/unity-pong/blob/unity2018/Assets/GameManager.cs)
 
 Ok cool. Looking at the HUD, we now see there's one new variable under this script that needs filling. It's asking for a 'Skin.' We need to make that in Unity. If you look in your Assets folder, you should see a file that we downloaded that is a special font called '6809 Chargen'.
 
@@ -439,7 +439,7 @@ public class SideWalls : MonoBehaviour {
 }
 ```
 
-You already added the script to `LeftWall`, and now, since it's written, go to `Add Component > Scripts` on `RightWall`. Choose the Script we just wrote. Here's the completed script: [SideWalls.cs](https://github.com/ainc/unity-pong/blob/unity5/Assets/SideWalls.cs)
+You already added the script to `LeftWall`, and now, since it's written, go to `Add Component > Scripts` on `RightWall`. Choose the Script we just wrote. Here's the completed script: [SideWalls.cs](https://github.com/ainc/unity-pong/blob/unity2018/Assets/SideWalls.cs)
 
 Now, in order for Unity to call our `OnTriggerEnter2D` method, we have to make sure both the LeftWall and RightWall have the `Is Trigger` checkbox selected on their Box Colliders in the Inspector pane. This means that Unity won't treat these walls as physical walls, but rather they "trigger" something in the game (in this case, they give a player a point).
 
