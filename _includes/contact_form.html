@@ -1,8 +1,9 @@
 <!-- Note :
-   - You can modify the font style and form style to suit your website.
-   - Code lines with comments “Do not remove this code”  are required for the form to work properly, make sure that you do not remove these lines of code.
-   - The Mandatory check script can modified as to suit your business needs.
-   - It is important that you test the modified form before going live.-->
+   - You can modify the font style and form style to suit your website. 
+   - Code lines with comments ���Do not remove this code���  are required for the form to work properly, make sure that you do not remove these lines of code. 
+   - The Mandatory check script can modified as to suit your business needs. 
+   - It is important that you test the modified form before going live.
+   - Do not remove captcha and other form elements that are necessary for the form to work.  -->
 <div id='crmWebToEntityForm'>
    <META HTTP-EQUIV ='content-type' CONTENT='text/html;charset=UTF-8'>
    <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads1947581000000155003 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory()' accept-charset='UTF-8'>
@@ -13,10 +14,10 @@
 	<input type='text' style='display:none;' name='xmIwtLD' value='36de0141405c9ef2e1f0f24b9f65b31775ec52b6d4bbb4ff439dbb70ec59f1a7'/>
 	<input type='text' style='display:none;'  name='actionType' value='TGVhZHM='/>
 
-	<input type='text' style='display:none;' name='returnURL' value='http&#x3a;&#x2f;&#x2f;awesomeincu.com' />
+	<input type='text' style='display:none;' name='returnURL' value='http&#x3a;&#x2f;&#x2f;awesomeincu.com' /> 
 	 <!-- Do not remove this code. -->
-        <legend>Want to learn more?</legend>
-        <div class="form-group">
+		<legend>Want to learn more?</legend>
+		 <div class="form-group">
             <input type='text' maxlength='40' name='First Name' placeholder="First Name" class="form-control input-lg" />
         </div>
         <div class="form-group">
@@ -39,36 +40,42 @@
         	<label for="LEADCF4" style="font-weight: normal;">Select Course:</label>
         	<select class="form-control" name="LEADCF4">
 				<option value='Coding&#x20;Club'>Coding Club</option>
+				<option value='Tech&#x20;Association'>Tech Association</option>
 				<option value='Coding&#x20;League'>Coding League</option>
 				<option value='Week&#x20;of&#x20;Code&#x20;Camp'>Week of Code Camp</option>
 				<option value='Academy'>Academy</option>
 				<option value='Web&#x20;Developer&#x20;Bootcamp'>Web Developer Bootcamp</option>
+				<option value='Membership'>Membership</option>
+				<option value='Minecraft&#x20;Party'>Minecraft Party</option>
 				<option value='Other'>Other</option>
         	</select>
         </div>
 
-        <div style="display:none" class="form-group">
+		<div style="font-weight: normal;">Enter the Captcha</div>
+		<div class="form-group">
+			<input type='text' style='width:250px;display:inline-block' maxlength='80' name='enterdigest' class="form-control input-lg"/>
+		 <!-- Do not remove this code. -->
+		    <img id='imgid' src='https://crm.zoho.com/crm/CaptchaServlet?formId=36de0141405c9ef2e1f0f24b9f65b31775ec52b6d4bbb4ff439dbb70ec59f1a7&grpid=f9f8e074403ef47daf3c5c41e25168a8c80d89350975dda34915963e2ad7ed89'>
+		    <a href='javascript:;' onclick='reloadImg()'>Reload</a>
+		</div>
+
+		<div style="display:none" class="form-group">
         	<select name="Lead Source">
-        		<option value='-None-'>None</option>
-	            <option value='Advertisement'>Advertisement</option>
-	            <option value='Cold&#x20;Call'>Cold Call</option>
-	            <option value='Employee&#x20;Referral'>Employee Referral</option>
-	            <option value='External&#x20;Referral'>External Referral</option>
-	            <option value='OnlineStore'>Online Store</option>
-	            <option value='Partner'>Partner</option>
-	            <option value='Public&#x20;Relations'>Public Relations</option>
-	            <option value='Sales&#x20;Mail&#x20;Alias'>Sales Email Alias</option>
-	            <option value='Seminar&#x20;Partner'>Seminar Partner</option>
-	            <option value='Seminar-Internal'>Internal Seminar</option>
-	            <option value='Trade&#x20;Show'>Trade Show</option>
-	            <option value='Web&#x20;Download'>Web Download</option>
-	            <option value='Web&#x20;Research'>Web Research</option>
-	            <option value='Chat'>Chat</option>
-	            <option value='Facebook'>Facebook</option>
-	            <option value='Twitter'>Twitter</option>
-	            <option value='Google&#x2b;'>Google&#x2b;</option>
-	            <option selected value='Awesome&#x20;Inc&#x20;U&#x20;Contact&#x20;Form'>Awesome Inc U Contact Form</option>
-	            <option value='School&#x20;Visit&#x20;for&#x20;Academy'>School Visit for Academy</option>
+        		<option value='-None-'>-None-</option>
+				<option value='Advertisement'>Advertisement</option>
+				<option value='Alumni'>Alumni</option>
+				<option value='PR&#x20;&#x2f;&#x20;News&#x20;Article'>PR &#x2f; News Article</option>
+				<option value='Signage&#x20;&#x2f;&#x20;Building'>Signage &#x2f; Building</option>
+				<option value='Web&#x20;Search'>Web Search</option>
+				<option value='Referral'>Referral</option>
+				<option value='Special&#x20;Event'>Special Event</option>
+				<option value='Facebook'>Facebook</option>
+				<option value='Twitter'>Twitter</option>
+				<option value='Google&#x2b;'>Google&#x2b;</option>
+				<option value='School&#x20;Visit'>School Visit</option>
+				<option selected value='Website&#x20;Contact&#x20;Form'>Website Contact Form</option>
+				<option value='Website&#x20;Application&#x20;Form'>Website Application Form</option>
+				<option value='Google&#x20;AdWords'>Google AdWords</option>
         	</select>
         </div>
 
@@ -77,11 +84,20 @@
         <button type="submit" class="btn btn-default">Submit</button>
     </form>
 
-    <script>
- 	  var mndFileds=new Array('First Name','Last Name','Email','LEADCF3');
- 	  var fldLangVal=new Array('First Name','Last Name','Email','Question or Comment?');
+	<script>
+ 	  var mndFileds=new Array('First Name','Last Name','Email','LEADCF4','LEADCF3');
+ 	  var fldLangVal=new Array('First Name','Last Name','Email','Course','Question or Comment?');
 		var name='';
 		var email='';
+
+  /* Do not remove this code. */
+ 	  function reloadImg() {
+		if(document.getElementById('imgid').src.indexOf('&d') !== -1 ) {
+  	  	  document.getElementById('imgid').src=document.getElementById('imgid').src.substring(0,document.getElementById('imgid').src.indexOf('&d'))+'&d'+new Date().getTime();
+		}  else {
+  	  	  document.getElementById('imgid').src = document.getElementById('imgid').src+'&d'+new Date().getTime();
+		 } 
+ 	 }
 
  	  function checkMandatory() {
 		for(i=0;i<mndFileds.length;i++) {
@@ -89,17 +105,17 @@
 		  if(fieldObj) {
 			if (((fieldObj.value).replace(/^\s+|\s+$/g, '')).length==0) {
 			 if(fieldObj.type =='file')
-				{
-				 alert('Please select a file to upload');
-				 fieldObj.focus();
+				{ 
+				 alert('Please select a file to upload'); 
+				 fieldObj.focus(); 
 				 return false;
-				}
-			alert(fldLangVal[i] +' cannot be empty');
+				} 
+			alert(fldLangVal[i] +' cannot be empty'); 
    	   	  	  fieldObj.focus();
    	   	  	  return false;
 			}  else if(fieldObj.nodeName=='SELECT') {
   	   	   	 if(fieldObj.options[fieldObj.selectedIndex].value=='-None-') {
-				alert(fldLangVal[i] +' cannot be none');
+				alert(fldLangVal[i] +' cannot be none'); 
 				fieldObj.focus();
 				return false;
 			   }
@@ -108,8 +124,8 @@
 				alert('Please accept  '+fldLangVal[i]);
 				fieldObj.focus();
 				return false;
-			   }
-			 }
+			   } 
+			 } 
 			 try {
 			     if(fieldObj.name == 'Last Name') {
 				name = fieldObj.value;
@@ -118,7 +134,8 @@
 		    }
 		}
 	     }
-
-</script>
-
+	   
+	</script>
+  	<!-- Do not remove this code. -->
+     <iframe name='captchaFrame' style='display:none;'></iframe>
 </div>
