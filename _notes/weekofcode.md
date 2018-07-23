@@ -14,7 +14,7 @@ What if you spent your summer learning to make your own apps instead of just pla
 
 * Learn basic Computer Science concepts
 * Write code in C#, HTML, CSS, and JavaScript
-* Build Android mobile apps with Thunkable
+* Build iOS and Android mobile apps with Thunkable
 * Design and Publish your own Website
 * Create your own Video Game with Unity 3D
 * Receive 1-on-1 support from our instructional team
@@ -97,8 +97,8 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
 
 #### 1:15pm
 
-* Mobile Apps with [Thunkable](https://thunkable.com/#/){:target="_blank"} Overview
-    * [Download mobile app media](/files/weekofcode/woc_thunkable_media.zip)
+* Mobile Apps with [Thunkable](https://thunkable.com/){:target="_blank"} Overview
+    * [Download mobile app media](/files/weekofcode/woc_thunkableX_media.zip)
 * Getting Started
 * [TalkToMe](http://explore.appinventor.mit.edu/sites/all/files/hourofcode/TalkToMePart1.pdf) App
     * Part 1 "Hello World"
@@ -138,9 +138,9 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
         * Customize colors and font
         * Change up speeds/clocktime
         * Code an end to the game
-* Want to go more in-depth with Android?
-    * See [Android on Udacity](https://www.udacity.com/course/ud853)
-    * Install [Android Studio](https://developer.android.com/sdk/installing/studio.html)
+* Want to go more in-depth with Mobile?
+    * Android: [Build your first app](https://developer.android.com/training/basics/firstapp/) with Android Studio (MS Windows or macOS)
+    * iOS: [Start Developing iOS Apps with Swift](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) (macOS users only)
 
 #### 5pm
 
