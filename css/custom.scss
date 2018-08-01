@@ -96,6 +96,16 @@ $mobile-width: $tablet-width - 1;
 	i {
 		margin-left: 2px;
 	}
+	&.btn-register {
+		float: right !important;
+  		color: #fff !important;
+  		background-color: #c12029 !important;
+  		padding: 12px;
+  		font-size: 20px;
+  		&:hover {
+  			background-color: #ed3742 !important;
+  		}
+	}
 }
 .uppercase {
 	text-transform: uppercase;
