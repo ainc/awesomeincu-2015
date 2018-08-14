@@ -60,11 +60,11 @@ Every website needs a home page, and it can also have other pages. We will be ma
 
 ### Title
 
-The first thing we should do is change the title of the Website, and as we said earlier, <h1> is the tag that makes text big enough to be a title. Nicely enough, they already have an <h1> tag with a title inside of it, so all we have to do is change that text. Pick a title that makes sense with your favorite animal. As you are typing, you should see the title changing on the right side of your screen where the website preview is located. If you don't see this change, click on the reload button &#x27F3; on the top of the website preview section, and your edit should appear.
+The first thing we should do is change the title of the Website, and as we said earlier, `<h1>` is the tag that makes text big enough to be a title. Nicely enough, they already have an `<h1>` tag with a title inside of it, so all we have to do is change that text. Pick a title that makes sense with your favorite animal. As you are typing, you should see the title changing on the right side of your screen where the website preview is located. If you don't see this change, click on the reload button &#x27F3; on the top of the website preview section, and your edit should appear.
 
 ![alt_text](/img/tutorials/animal-website/image-4.png)
 
-After changing the title, we should change the text inside the <title> tag above. This tag holds the text that goes in the browser tab. We don't want it to say "Made with Thimble." We would rather have it say something more helpful, perhaps the same thing that you put for the title of your website.
+After changing the title, we should change the text inside the `<title>` tag above. This tag holds the text that goes in the browser tab. We don't want it to say "Made with Thimble." We would rather have it say something more helpful, perhaps the same thing that you put for the title of your website.
 
 ```
 <title>Sarah's Favorite Animal</title>
@@ -76,7 +76,7 @@ You won't see anything change, but the tab in your web browser will look like th
 
 ### Paragraph
 
-The next thing we want to edit is the paragraph. The tag for a paragraph is <p>, and Thimble has already made a paragraph. We don't want it to say "Make something **amazing** with the web!", so delete all of the text in between the opening paragraph tag <p> and the closing paragraph tag </p>. Then write a paragraph that describes your favorite animal. Make sure that your paragraph is inside the opening and closing paragraph tags (<p>paragraph</p>).
+The next thing we want to edit is the paragraph. The tag for a paragraph is `<p>`, and Thimble has already made a paragraph. We don't want it to say "Make something **amazing** with the web!", so delete all of the text in between the opening paragraph tag `<p>` and the closing paragraph tag `</p>`. Then write a paragraph that describes your favorite animal. Make sure that your paragraph is inside the opening and closing paragraph tags (`<p>paragraph</p>`).
 
 ![alt_text](/img/tutorials/animal-website/image-6.png)
 
@@ -120,7 +120,7 @@ Since we won't have time to write down all the information about our animal on o
 <p>If you want to learn more about the _______, check out <a href="">its Wikipedia page.</a></p>
 ```
 
-We made a new paragraph with the <p> tag, and then we nested another tag inside of the <p> tag. This tag is the "a" tag, which stands for _anchor_, but the more important thing to note is the attribute inside of the "a" tag. The attribute "href" stands for hypertext reference, and just like "src" with our image, this hypertext reference is going to refer the user to the link once they click on the words inside the "a" tag. In other words, it will take them to that web page, so we need to find a link to fill into the quotation marks after the "href."
+We made a new paragraph with the `<p>` tag, and then we nested another tag inside of the `<p>` tag. This tag is the "a" tag, which stands for _anchor_, but the more important thing to note is the attribute inside of the "a" tag. The attribute "href" stands for hypertext reference, and just like "src" with our image, this hypertext reference is going to refer the user to the link once they click on the words inside the "a" tag. In other words, it will take them to that web page, so we need to find a link to fill into the quotation marks after the "href."
 
 Go to another tab on your web browser and search for "[your animal] Wikipedia." In most cases, the Wikipedia page for your animal will be the first link that pops up. Click on that link, highlight the URL on the top left part of the browser, and copy it. To copy on a Mac, type <kbd>&#x2318; Command+C</kbd>, and for any other kind of machine, type <kbd>Control+C</kbd>.
 
@@ -154,7 +154,7 @@ You should now see your title appear under the paragraphs you wrote before. Now 
 *   Second thing
 *   Third thing
 
-We're going to make one list of each type, and the first one we are going to make will be an ordered list. The tag for an ordered list is is <ol> because "o" and "l" are the first letters of **O**rdered **L**ist. Let's put the opening and closing "ol" tags down underneath our title from the start to make sure we don't forget later. Put a new line between the opening and closing "ol" tags.
+We're going to make one list of each type, and the first one we are going to make will be an ordered list. The tag for an ordered list is is `<ol>` because "o" and "l" are the first letters of **O**rdered **L**ist. Let's put the opening and closing "ol" tags down underneath our title from the start to make sure we don't forget later. Put a new line between the opening and closing "ol" tags.
 
 ```
 <ol>
@@ -162,7 +162,7 @@ We're going to make one list of each type, and the first one we are going to mak
 </ol>
 ```
 
-Now we need to add our list items, which are the actual lines of text in our list. The tag for list items is <li> for the same reason as <ol> (**L**ist **I**tem). In the line between the "ol" tags, add your list item using the "li" tag.
+Now we need to add our list items, which are the actual lines of text in our list. The tag for list items is `<li>` for the same reason as `<ol>` (**L**ist **I**tem). In the line between the "ol" tags, add your list item using the "li" tag.
 
 ```
 <ol>
@@ -174,7 +174,7 @@ After you write in the first thing you think is awesome about your animal, you s
 
 ![alt_text](/img/tutorials/animal-website/image-12.png)
 
-Now we are going to add an unordered list, so we should first put a title in for this list. Add a new line after our last list (after the </ol>), and type the line below, filling in the name of your animal in the blank.
+Now we are going to add an unordered list, so we should first put a title in for this list. Add a new line after our last list (after the `</ol>`), and type the line below, filling in the name of your animal in the blank.
 
 ```
 <h2>If I were a ______, I would...</h2>
@@ -182,13 +182,13 @@ Now we are going to add an unordered list, so we should first put a title in for
 
 Instead of typing out a whole new list, we can use the one we just made as a template for the next list. Add a new line after the second title, and highlight the list we made before starting and ending with the "ol" tags. Copy it (<kbd>Control+C</kbd> or <kbd>&#x2318; Command+C</kbd>), and paste it (<kbd>Control+V</kbd> or <kbd>&#x2318; Command+V</kbd>) in the new line under the second title. Now two of the same list should appear on your website.
 
-We want to change this list to be an unordered list instead of an ordered list, so the tag for an unordered list is <ul> (**U**nordered **L**ist) instead of <ol>. Change the opening AND closing "ol" tags to by "ul" tags. The "li" tags can stay the same, but change the information inside the "li" tags to be things you would do if you were your animal. When you are done, you should have an unordered list with bullet points.
+We want to change this list to be an unordered list instead of an ordered list, so the tag for an unordered list is `<ul>` (**U**nordered **L**ist) instead of `<ol>`. Change the opening AND closing "ol" tags to by "ul" tags. The "li" tags can stay the same, but change the information inside the "li" tags to be things you would do if you were your animal. When you are done, you should have an unordered list with bullet points.
 
 ![alt_text](/img/tutorials/animal-website/image-13.png)
 
 ### Video
 
-The next element we are going to add is a video of your animal, so add a new line under the unordered list you just made. We want a title for our video, but again, we don't want the heading to be as big as the title of the website. Let's type an <h2> tag and then the title you want for your video. The simplest thing you can put is <h2>______ Video</h2> where you fill in the name of your animal in the blank.
+The next element we are going to add is a video of your animal, so add a new line under the unordered list you just made. We want a title for our video, but again, we don't want the heading to be as big as the title of the website. Let's type an `<h2>` tag and then the title you want for your video. The simplest thing you can put is `<h2>______ Video</h2>` where you fill in the name of your animal in the blank.
 
 Next, go to [youtube.com](https://www.youtube.com/), and search for a video of your animal. Once you've found the video you want to put on your website, click on the "Share" button right below the video on the right side. Then click "Embed" on the left side of the pop-up. The HTML code for the video should appear on the right side of the pop-up now. It is an "iframe" tag, which is the tag used to embed a video. Highlight everything from the opening "iframe" tag to the closing "iframe" tag, and copy it.
 
@@ -227,7 +227,7 @@ To create a new file for our new page, right click on the bar on the left where 
 
 ![alt_text](/img/tutorials/animal-website/image-20.png)
 
-We need to edit the <head> information to be the same as the index.html <head>, and we've learned that the easiest way to do this is to use the copy and paste commands. First highlight everything from the opening "head" tag to the closing "head" tag, and delete it. Then go to index.html by clicking on it in the left side bar, and highlight everything from the opening "head" tag to the closing "head" tag. Copy that, go to facts.html, and paste it right below the opening "html" tag.
+We need to edit the `<head>` information to be the same as the index.html `<head>`, and we've learned that the easiest way to do this is to use the copy and paste commands. First highlight everything from the opening "head" tag to the closing "head" tag, and delete it. Then go to index.html by clicking on it in the left side bar, and highlight everything from the opening "head" tag to the closing "head" tag. Copy that, go to facts.html, and paste it right below the opening "html" tag.
 
 You will want to change the text inside the "title" tag to something like "Fun Facts." Remember we said that whatever was inside the "title" tag would appear in the tab on your web browser when you publish your website. After you've done all this, your facts.html page should look like the page below with the content Thimble provides as a template along with our edits.
 
@@ -239,7 +239,7 @@ Now that we have two pages, we need a way to go between them. If you go to a web
 
 ![alt_text](/img/tutorials/animal-website/image-22.png)
 
-Before we make the navigation bar, lets give our facts.html page a title so it will be easier to see which page we are on when we navigate between the pages. On facts.html, you can take out the paragraph that they provide you with that says "Make something amazing with ThimbleBrackets," and replace it with a title that says "Fun Facts." Which tag do you think you are going to use for the title of a page?
+Before we make the navigation bar, lets give our facts.html page a title so it will be easier to see which page we are on when we navigate between the pages. On facts.html, you can take out the paragraph that they provide you with that says "Make something amazing with Brackets" and replace it with a title that says "Fun Facts." Which tag do you think you are going to use for the title of a page?
 
 ![alt_text](/img/tutorials/animal-website/image-23.png)
 
@@ -249,7 +249,7 @@ Now we can begin making the navigation bar. A navigation bar is really just a fa
 
 Before we begin actually coding our navigation bar, we are going to add something called a comment. A comment is something you can write in your code to help you remember and understand what the code you wrote means, but it doesn't affect how the website looks at all. We are going to add a comment before and after the navigation bar just so we remember that this is the navigation bar, and all content on the page should go after it.
 
-The way comments are written (the syntax) is different in every language. In HTML, they look like this: <!-- comment goes here -->. Whatever you put on the inside won't be read as code to display something on your webpage. Add a new line under your title for the fun facts page and write this:
+The way comments are written (the syntax) is different in every language. In HTML, they look like this: `<!-- comment goes here -->`. Whatever you put on the inside won't be read as code to display something on your webpage. Add a new line under your title for the fun facts page and write this:
 
 ```
 <!-- Navbar -->
@@ -337,7 +337,7 @@ Now go to line 3 where all the facts are listed, and start changing them to be f
 
 Once you have all your facts filled in, you might think that your sentences should appear now that they can be constructed. However we haven't put anything on the facts.html page to tell it to look at script.js and display the fun facts.
 
-Go to facts.html and add a new line right under the tag <link> and before the ending tag </head>. That <link> tag tells the facts page to look at style.css for all the style. If that line did not exist, the colors that we changed in our CSS file wouldn't actually show up on our page. That "link" tag is also on the index.html page. We are going to add a similar line to tell facts.html to look at script.js to get the randomly generated fact. In the new line you created type the following code: \
+Go to facts.html and add a new line right under the tag `<link>` and before the ending tag `</head>`. That `<link>` tag tells the facts page to look at style.css for all the style. If that line did not exist, the colors that we changed in our CSS file wouldn't actually show up on our page. That "link" tag is also on the index.html page. We are going to add a similar line to tell facts.html to look at script.js to get the randomly generated fact. In the new line you created type the following code: \
 
 ```
 <script src="script.js" type="text/javascript"></script>
