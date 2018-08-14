@@ -782,18 +782,18 @@ ul#filters li a {
   float:left;
 }
 
-.container > .content > .row-fluid > .span4 > .title {
+.container > .content > .row > .col-xs-12 > .title {
   display:inline-block;
   float: right;
 }
 
-.container > .content > .row-fluid > .span4 > .title h2 {
+.container > .content > .row > .col-xs-12 > .title h2 {
   display:inline-block;
   padding-right: 10px;
   margin: 0px;
 }
 
-.container > .content > .row-fluid > .span4 > .title h2 .link {
+.container > .content > .row > .col-xs-12 > .title h2 .link {
   max-height:50px;
   display: inline;
   padding: 5px;
