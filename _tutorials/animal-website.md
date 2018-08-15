@@ -22,13 +22,13 @@ Before we begin coding our website, it is important that we learn the basis of a
 
 		__Heading__
 
-1.  All tags have "<>" around them
+1.  All tags have "< >" around them
 
-		<>Heading<>
+		< >Heading< >
 
 1.  All closing tags begin with a "/" inside the "<>"
 
-		<>Heading</>
+		< >Heading</ >
 
 1.  All closing tags match their opening tags
 
@@ -66,7 +66,7 @@ The first thing we should do is change the title of the Website, and as we said 
 
 After changing the title, we should change the text inside the `<title>` tag above. This tag holds the text that goes in the browser tab. We don't want it to say "Made with Thimble." We would rather have it say something more helpful, perhaps the same thing that you put for the title of your website.
 
-```
+```html
 <title>Sarah's Favorite Animal</title>
 ```
 
@@ -84,7 +84,7 @@ The next thing we want to edit is the paragraph. The tag for a paragraph is `<p>
 
 By now, you have edited all you can of the template that Thimble gives you, so we are going to start adding elements of our own! We have a title and a description of our animal, but we don't know what this animal looks like yet. We're going to add an image of our animal before the paragraph, so add a line in between the title and the paragraph. Add the line of code below, and we will finish filling it in after that.
 
-```
+```html
 <img src="">
 ```
 
@@ -102,9 +102,9 @@ Your image should now appear on your screen, but if it does not, there is a good
 
 ![alt_text](/img/tutorials/animal-website/image-8.png)
 
-As you can see, your image might be way too big or way too small. Fortunately, we can change the size of the image to be whatever we would like! Before the closing angle bracket (>) of the image tag, add a space and the code below.
+As you can see, your image might be way too big or way too small. Fortunately, we can change the size of the image to be whatever we would like! Before the closing angle bracket `>` of the image tag, add a space and the code below.
 
-```
+```html
 width="200"
 ```
 
@@ -116,7 +116,7 @@ The 200 refers to the width of the image in pixels. A pixel is a tiny dot of col
 
 Since we won't have time to write down all the information about our animal on our website, it would be a good idea to insert a link to another page that has much more information about our animal. Let's start by writing a sentence that will help the users of your website know where to go to find more information about your animal. Add a new line for this sentence after the paragraph you wrote that describes your animal. Then write the code below onto that new line, inserting the name of your animal in the blank.
 
-```
+```html
 <p>If you want to learn more about the _______, check out <a href="">its Wikipedia page.</a></p>
 ```
 
@@ -136,19 +136,19 @@ Even though you are linking your users to another page with more information abo
 
 Let's make the first list about why you think your animal is awesome, but before we make the list, we should make a title for it. We don't want this title to be as large as the title for our website, and if you remember, the tag for the title of our website was "h1." That is the biggest heading, and the next biggest heading is "h2." As the numbers after the "h" get bigger, the size of the heading gets smaller, so we are going to want the title of our list to be "h2." It's not too big or too small, so add a new line after the paragraph with the Wikipedia link that we just finished. Then type the line below, and insert the name of your animal in the blank.
 
-```
+```html
 <h2>______ are awesome because...</h2>
 ```
 
 You should now see your title appear under the paragraphs you wrote before. Now we need to add the list of awesome things about your animal. Before we add it, we first need to learn about the two types of lists, which are ordered and unordered lists. Ordered lists are made with numbers, and unordered lists are made with bullet points. The first example below is an ordered list because there are numbers ordering the items in the list. The second example below is an unordered list because nothing is ordering the items in the list.
 
-#### Ordered List
+#### __Ordered List__
 
 1.  First thing
 1.  Second thing
 1.  Third thing
 
-#### Unordered List
+#### __Unordered List__
 
 *   First thing
 *   Second thing
@@ -156,7 +156,7 @@ You should now see your title appear under the paragraphs you wrote before. Now 
 
 We're going to make one list of each type, and the first one we are going to make will be an ordered list. The tag for an ordered list is is `<ol>` because "o" and "l" are the first letters of **O**rdered **L**ist. Let's put the opening and closing "ol" tags down underneath our title from the start to make sure we don't forget later. Put a new line between the opening and closing "ol" tags.
 
-```
+```html
 <ol>
 
 </ol>
@@ -164,7 +164,7 @@ We're going to make one list of each type, and the first one we are going to mak
 
 Now we need to add our list items, which are the actual lines of text in our list. The tag for list items is `<li>` for the same reason as `<ol>` (**L**ist **I**tem). In the line between the "ol" tags, add your list item using the "li" tag.
 
-```
+```html
 <ol>
 	<li>They can swim really well</li>
 </ol>
@@ -176,7 +176,7 @@ After you write in the first thing you think is awesome about your animal, you s
 
 Now we are going to add an unordered list, so we should first put a title in for this list. Add a new line after our last list (after the `</ol>`), and type the line below, filling in the name of your animal in the blank.
 
-```
+```html
 <h2>If I were a ______, I would...</h2>
 ```
 
@@ -251,7 +251,7 @@ Before we begin actually coding our navigation bar, we are going to add somethin
 
 The way comments are written (the syntax) is different in every language. In HTML, they look like this: `<!-- comment goes here -->`. Whatever you put on the inside won't be read as code to display something on your webpage. Add a new line under your title for the fun facts page and write this:
 
-```
+```html
 <!-- Navbar -->
 
 <!-- End Navbar -->
@@ -267,7 +267,7 @@ Now that we have a nice place to write the code for our navigation bar, add the 
 
 This tag is going to have a property added to it called a class. A class in computer science is similar to a class in school. Every class in school is different in some way: they have different students, different teachers, different subjects, etc. A class in computer science is a group that has properties of its own. The properties of the class we are going to add have already been defined in our style.css file. Instead of writing the normal tag for an unordered list, type the code below to add a class to our unordered list.
 
-```
+```html
 <ul class="nav">
 
 </ul>
@@ -275,7 +275,7 @@ This tag is going to have a property added to it called a class. A class in comp
 
 Once you have written the opening and closing tags for the unordered list, we need to add two list items, one for the Home page and one for the Fun Facts page. What tag does a list item have? Create two list items using their opening and closing tags. Our first list item should say "Home," and our second list item should say "Fun Facts."
 
-```
+```html
 <ul class="nav">
 	<li>Home</li>
 	<li>Fun Facts</li>
@@ -286,7 +286,7 @@ We've added the list items, but they still don't take you to those pages when yo
 
 If you remember from before, the tag for a link is "a," and we used the property "href" to insert the link. In this case, our "link" isn't going to be a full URL. It's just going to be the name of the file that we want to go to when we click that list item. If we click on "Home," we want it to go to index.html, and if we click on "Fun Facts," we want it to go to facts.html. Based on that information, we would type out our links like the code below.
 
-```
+```html
 <ul class="nav">
     	<li><a href="index.html">Home</a></li>
     	<li><a href="facts.html">Fun Facts</a></li>
@@ -339,7 +339,7 @@ Once you have all your facts filled in, you might think that your sentences shou
 
 Go to facts.html and add a new line right under the tag `<link>` and before the ending tag `</head>`. That `<link>` tag tells the facts page to look at style.css for all the style. If that line did not exist, the colors that we changed in our CSS file wouldn't actually show up on our page. That "link" tag is also on the index.html page. We are going to add a similar line to tell facts.html to look at script.js to get the randomly generated fact. In the new line you created type the following code: \
 
-```
+```html
 <script src="script.js" type="text/javascript"></script>
 ```
 
@@ -347,7 +347,7 @@ The "src" element is just like the image source we wrote before. It shows where 
 
 Before we make a button to generate our facts, we should add some sort of a sentence that helps the user understand what the button is for. What tag do you think we are going to use to write a sentence? We're going to use the "p" tag that stands for paragraph. Add a new line for our paragraph after the comment that ends the navbar and write the code below, filling in the blank with your animal's name.
 
-```
+```html
 <p>Here are some fun facts about the _______:</p>
 ```
 
@@ -355,7 +355,7 @@ Before we make a button to generate our facts, we should add some sort of a sent
 
 Next, we want to add the button that we will click to generate the random fact. Nicely enough, the tag for a button is "button," so type the line below.
 
-```
+```html
 <button id="fact_button" onclick="FunFact()">Click here!</button>
 ```
 
@@ -367,7 +367,7 @@ You might notice a slight problem. When you click the button, it still doesn't d
 
 Add a new line under the "button" tag for our placeholder. We are going to add a section, or a division, for this placeholder. The tag for a division is "div." We are also adding an id that corresponds to some CSS styling. Write the code below in the line you just added, filling in the blank with your animal's name.
 
-```
+```html
 <div id="facts">Some fun facts about the _______...</div>
 ```
 
