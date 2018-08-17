@@ -108,6 +108,50 @@ $mobile-width: $tablet-width - 1;
 	}
 }
 
+/*****************************************************
+					Right Navbar
+* this is styling for the navbar on the Week of Code
+* notes page, and it may be changed when this is moved
+* over to bootstrap
+*****************************************************/
+#vertical-menu {
+    position:fixed;
+    width:250px;
+    height:200px;
+    right:20px;
+    top:80px;
+    z-index: 10;
+    cursor: pointer;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+#vertical-menu > li > a {
+	text-decoration: none;
+}
+
+.day_btn {
+    background-color: #f1f2f2;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 25px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.day_btn:hover {
+	text-decoration: none;
+    background-color: #d1d3d4;
+    color:black;
+}
+
+.active {
+	text-decoration: none;
+    background-color: #939598;
+    color: white;
+}
 
 
 /*****************************************************

@@ -6,6 +6,17 @@ course_link: "/weekofcode/"
 
 <br>
 
+<!-- See note at the bottom of the page about this way of navigation on this page -->
+<ul id="vertical-menu">
+    <li><a href="#overview" class="day_btn active">Overview</a></li>
+    <li><a href="#monday" class="day_btn">Monday</a></li>
+    <li><a href="#tuesday" class="day_btn">Tuesday</a></li>
+    <li><a href="#wednesday" class="day_btn">Wednesday</a></li>
+    <li><a href="#thursday" class="day_btn">Thursday</a></li>
+</ul>
+
+<div id="overview" markdown="1">
+
 ## Overview
 
 What if you spent your summer learning to make your own apps instead of just playing them? This camp introduces the fundamentals of coding. Students will create websites, mobile apps, and video games all while having fun with our energetic team.
@@ -69,7 +80,11 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
 * [Light Bot](https://lightbot.com/hocflash.html)
 * [MIT Scratch](https://scratch.mit.edu/)
 
+</div>
+
 * * *
+
+<div id="monday" markdown="1">
 
 <h3 id="mobile-day">Monday - Mobile Apps</h3>
 
@@ -144,7 +159,11 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
 
 #### 5pm
 
+</div>
+
 * * *
+
+<div id="tuesday" markdown="1">
 
 <h3 id="web-day">Tuesday - Websites</h3>
 
@@ -217,7 +236,11 @@ References:
 
 ![Nick's favorite animal is the Wandering Albatross](/img/notes/weekofcode-albatross.jpg)
 
+</div>
+
 * * *
+
+<div id="wednesday" markdown="1">
 
 <h3 id="game-day">Wednesday - Video Games</h3>
 
@@ -252,7 +275,11 @@ References:
     * Pick a tutorial/project for Friday
 * Reminder to students: bring headphones &#127911; for Friday tutorials
 
+</div>
+
 * * *
+
+<div id="thursday" markdown="1">
 
 <h3 id="project-day">Thursday - Project Day</h3>
 
@@ -314,3 +341,50 @@ Note: most projects here will take longer than 4 hours to complete. That's OK! O
 
 
 #### 5pm
+
+</div>
+
+<!--
+This code was adapted from:
+https://github.com/trungk18/Change-Navigation-Active-Class-on-Page-Scroll/blob/master/change-navigation-active-class-on-page-scroll.html
+It, along with the menu at the top and the divs throughout the page, make up an easy way to navigate through this page.
+The menu does not have any responsive sizing yet, so we should make sure that it works on both a laptop and an ipad.
+We should also look into a way to do this with bootstrap (ScrollSpy).
+-->
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script>
+    $(document).ready(function () {
+        //Smooth scrolling when click to nav
+        $('#vertical-menu > li > a').click(function (e) {
+            e.preventDefault();
+            var curLink = $(this);
+            var scrollPoint = $(curLink.attr('href')).position().top;
+            $('body,html').animate({
+                scrollTop: scrollPoint
+            }, 500);
+        })
+        $(window).scroll(function () {
+            onScrollHandle();
+        });
+        function onScrollHandle() {
+            //Get current scroll position
+            var currentScrollPos = $(document).scrollTop();
+            //Iterate through all node
+            $('#vertical-menu > li > a').each(function () {
+                var curLink = $(this);
+                var refElem = $(curLink.attr('href'));
+                //Compare the value of current position and the every section position in each scroll
+                if (refElem.position().top <= currentScrollPos && refElem.position().top + refElem.height() > currentScrollPos) {
+                    //Remove class active in all nav
+                    $('#vertical-menu > li > a').removeClass("active");
+                    //Add class active
+                    curLink.addClass("active");
+                }
+                else {
+                    curLink.removeClass("active");
+                }
+            });
+        }
+    });
+</script>
