@@ -2,7 +2,7 @@
 title: The Academy
 layout: course
 description: Awesome Inc U's Premier Coding Program
-cover: "/img/awesome-inc-academy.jpg"
+cover: "/img/Awesome-Inc-Academy.jpg"
 application: "/applications/academy/"
 redirect_from: "/programs/academy/"
 ---
