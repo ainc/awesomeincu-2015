@@ -252,18 +252,26 @@ $mobile-width: $tablet-width - 1;
 
 .table {
 	margin: 35px 0;
+	thead {
+		background-color: #b81124; 
+		color: white; 
+		font-family: Exo;
+		font-weight: bold;
+		text-transform: uppercase;
+	}
+	tbody tr td:first-child {
+		font-weight: bold;
+	}
+	thead tr td, tbody tr td {
+		text-align: center;
+		vertical-align: middle;
+	}
 }
 
-.table thead {
-	background-color: #b81124; 
-	color: white; 
-	font-family: Exo;
-	font-weight: bold;
-	text-transform: uppercase;
-}
-
-.table tbody tr td:first-child {
-	font-weight: bold;
+.table-payments {
+	tbody tr td {
+		padding: 25px;
+	}
 }
 
 #woc-section {

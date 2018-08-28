@@ -45,34 +45,30 @@ Participants are expected to be fully invested in the training process for a 12 
 <h2>Paying for Bootcamp</h2>
 
 <div class="table-responsive">
-  <p>To help make a career change more accessible for our students, we offer a variety of payment plans to fit your budget:</p>		
-  <table class="table table-striped table-bordered">
+  <p>To help make a career change more accessible for our students, we offer a variety of payment plans to fit your budget. Once you've been accepted as a student, a $500 deposit holds your spot in your selected cohort.</p>
+  <table class="table table-payments table-striped table-bordered">
     <thead>
       <tr>
-        <td>&nbsp;</td>
-        <td>Up-Front</td>
-        <td>12-Month</td>
-        <td>24-Month</td>
+        <td>Payment Plan</td>
+        <td>Months</td>
+        <td>Total</td>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Deposit</td>
-        <td>$1000</td>
-        <td>$1000</td>
-        <td>$1000</td>
+        <td>$500 / month</td>
+        <td>25</td>
+        <td>$13,000</td>
       </tr>
       <tr>
-        <td>Monthly Payments</td>
+        <td>$995 / month</td>
+        <td>12</td>
+        <td>$12,440</td>
+      </tr>
+      <tr>
+        <td>Up-Front</td>
         <td>-</td>
-        <td>$918.75</td>
-        <td>$490.00</td>
-      </tr>
-      <tr>
-        <td>Total Cost</td>
         <td>$11,500</td>
-        <td>$12,025</td>
-        <td>$12,760</td>
       </tr>
     </tbody>
   </table>
