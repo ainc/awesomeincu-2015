@@ -10,10 +10,6 @@ collections:
     title: Courses
     output: true
     permalink: "/:path/"
-  interest:
-    title: Interest
-    output: true
-    permalink: "/interest/:path/"
   notes:
     title: Notes
     output: true
@@ -25,9 +21,6 @@ collections:
     title: Tutorials
     output: true
     permalink: "/tutorials/:path/"
-  uploads:
-    title: Uploads
-    output: true
 name: Awesome Inc U
 url: https://www.awesomeincu.com
 description: Learn to Code in Lexington, Kentucky
