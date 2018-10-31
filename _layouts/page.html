@@ -10,12 +10,12 @@
 -->
     <head>
         {% include head.html %}
-        {% include pixels.html %}
         {% if page.url != '/tutorials/unity-pong/' %}        
         {% include live_tracker.html %}
         {% endif %}
     </head>
     <body>
+        {% include pixels.html %}
         {% include nav.html %}
         <div class="{{ page.title | split:' ' | first }}">
         {{content}}
