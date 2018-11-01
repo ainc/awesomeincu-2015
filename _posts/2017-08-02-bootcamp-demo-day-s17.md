@@ -16,7 +16,7 @@ by [Nick Such](https://plus.google.com/+NickSuch/)
 
 In May, a group of aspiring software developers began a 500+ hour journey of intense, hands-on learning in Awesome Inc U's Web Developer Bootcamp. On Thursday, August 10th, this group will be [presenting their final projects](https://www.eventbrite.com/e/awesome-inc-demo-day-web-developer-bootcamp-s17-tickets-36700890351), full-stack web applications, to a group of tech company executives, local software developers, and other members of the Lexington-area technology community.
 
-<!--break-->
+<!--more-->
 
 The first program of its kind in Central Kentucky, the goal of the Web Developer Bootcamp is to help professionals transition into a new career in software development. This in turn helps local companies recruit local tech talent to support their growth, especially as tech moves beyond its own borders and becomes a bigger part of healthcare, manufacturing, finance, and beyond.
 

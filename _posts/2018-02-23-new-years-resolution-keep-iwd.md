@@ -16,7 +16,7 @@ By [Aayat Ali](https://www.linkedin.com/in/aayat-ali-088a7112b/)
 
 It's that time of year where New Year's resolutions have come and gone. Whether it was going to the gym four times a week, or learning a new skill, keeping up with resolutions can be difficult. But the tide is turning, and it's time to follow through. You can do that with Awesome Inc's brand new [Intro to Web Development](https://www.awesomeincu.com/intro-to-web-development/) course.
 
-<!--break-->
+<!--more-->
 
 There's a stigma that it is harder for adults to learn new skills, but this class has proven to dissolve that pattern. With the help of dedicated instructors, adults can learn the stepping stones of web development in just nine weeks. Instructors Thomas Cothran, Gary Ditsch, and Nick Such are very experienced in the world of coding and eager to help anyone get their foot in the door of development. So who exactly is eligible for this course?
 

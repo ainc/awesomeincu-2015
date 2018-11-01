@@ -14,7 +14,7 @@ by [Nick Such](https://plus.google.com/+NickSuch/)
 
 While the bitter January winds were still galloping through downtown Lexington, a group of thirteen students, ages ten through seventeen, began a three-month journey into the world of software development. What began with the simple desires of, "I want to make my own video game," led down the complex path of GitHub commits, nested If statements, and the challenges of debugging C# code with Mono. Last week, as April neared a close, ten students completed this step of their learn-to-code journey, with nearly 100 hours of programming practice behind them, and a slew of experiences and portfolio projects that coders twice their age would be honored to display.
 
-<!--break-->
+<!--more-->
 
 ![Awesome Inc Academy Spring 2015 programming students and instructors](/img/blog/academy_s15_1.jpg)
 

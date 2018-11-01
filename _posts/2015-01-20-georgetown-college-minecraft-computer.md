@@ -15,7 +15,7 @@ by Danny Thorne
 
 Computers are organized into several different components with distinct roles that work together. The component responsible for performing operations on numbers is called the Arithmetic Logic Unit or ALU. It is made out of transistors. A transistor does one simple thing: it inverts a signal, i.e., makes a low signal high and a high signal low. Minecraft has something analogous to a transistor, namely the redstone torch. Just as lots of transistors can be combined to build an ALU in an actual computer, lots of redstone torches can be combined to build a virtual ALU inside of Minecraft.
 
-<!--break-->
+<!--more-->
 
 That's what we did in CSC312 Organization and Architecture at [Georgetown College](http://www.georgetowncollege.edu/) this past fall 2014 semester. Instead of just discussing the circuits in terms of logic diagrams like this
 

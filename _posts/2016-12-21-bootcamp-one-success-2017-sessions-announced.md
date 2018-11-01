@@ -17,7 +17,7 @@ by [Nick Such](https://plus.google.com/+NickSuch/)
 
 When we launched Awesome Inc U in 2013, we were spurred on by Lexington-area technology companies looking for, but not finding, the software development talent they need to grow. We could have pursued several possible solutions: consulting firm, recruiting practice, teach at the local universities. But we were inspired by a new wave of "[coding bootcamps](https://www.coursereport.com/)", programs designed to train ambitious, local people in a new trade.
 
-<!--break-->
+<!--more-->
 
 After three years of building the foundation, through 1-day Crash Courses, on-site trainings for organizations, and a set of youth class offerings, we were finally able to launch Awesome Inc U's first Web Developer Bootcamp in August 2016. Now, only six weeks after the completion of our first Bootcamp session, of [our 9 graduates](https://www.awesomeincu.com/alumni/bootcamp-f16/), 3 already have full-time jobs, and 2 are working together on a SaaS/consulting startup. And we're just now moving into the [best time of the year to get a job](http://time.com/money/4149206/new-job-search-best-time/).
 

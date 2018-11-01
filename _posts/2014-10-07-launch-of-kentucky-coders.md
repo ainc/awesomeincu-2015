@@ -16,7 +16,7 @@ In 2011, the mayors of Louisville and Lexington got together to form the [Bluegr
 
 [![Kentucky Coders logo](/img/blog/ky-coders-logo.gif)](http://kentuckycoders.com)
 
-<!--break-->
+<!--more-->
 
 Kentucky Coders is an initiative to get over 1 million Kentuckians to try programming between now the end of the year. The campaign, spearheaded by the [AdvanceKentucky](http://www.advancekentucky.com/) team at KSTC, [kicked off last week](http://www.bizjournals.com/louisville/news/2014/10/01/kentucky-coders-campaign-aims-to-promote-coding.html) at the annual [IdeaFestival](http://ideafestival.com) in Louisville. The campaign utilizes the great programming activities provided by [Code.org](http://code.org), with our efforts building toward Computer Science Education Week in December. Cameron Wilson, COO of Code.org, was on-hand for the announcement last week, along with members of the Kentucky Board of Education, and founders of Kentucky-based technology companies, who emphasized the opportunities for jobs for people with software development skills.
 

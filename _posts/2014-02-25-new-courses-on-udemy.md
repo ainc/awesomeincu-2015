@@ -19,7 +19,7 @@ By [Nick Such](https://plus.google.com/+NickSuch/)
 
 When we started Awesome Inc U, our vision was to simply offer 1-2 day, in-person courses in the basics of software development. These "Crash Courses" are great because they provide a hands-on experience for our students, with lots of interaction with our instructional team, and they happen 2-3 times per month. While this was a great way to get started, we’ve learned a few things from our students since we launched in June 2013. Based on feedback from our students, we decided to share our courses through the online training site, [Udemy](https://www.udemy.com/u/awesomeinc/) in addition to our in-person courses. Here are a few benefits that we hope it will offer:
 
-<!--break-->
+<!--more-->
 
 ## Convenience
 

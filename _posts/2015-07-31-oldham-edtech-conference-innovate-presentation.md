@@ -16,7 +16,7 @@ by [Nick Such](https://plus.google.com/+NickSuch/)
 
 Our vision at Awesome Inc U is that everyone should have access to a programming education. While we offer a variety of in-person classes at our offices in Lexington, we know that due to the constraints of time, finances, and geography, not everyone can attend our courses. We hope to someday see computer programming classes as a core part of the K-12 education experience.
 
-<!--break-->
+<!--more-->
 
 One of the ways that we're helping to make this a reality is sharing our insights with educators in K-12 schools around the world. We created a popular [Udemy course](http://udemy.com/hourofcode/) to help guide teachers in hosting their own [Hour of Code](http://www.awesomeincu.com/hourofcode/) sessions in their schools. Around Kentucky, we've spoken at events like the [Teach Tech Learn conference](https://twitter.com/AeroSuch/status/611971891549442048) at Kentucky Country Day school. This week, I got to return to my home district (South Oldham High School '04, represent!) for the second year in a row.
 

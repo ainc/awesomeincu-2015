@@ -38,3 +38,4 @@ plugins:
 exclude:
 - node_modules
 students-taught: 1400
+excerpt_separator: <!--more-->

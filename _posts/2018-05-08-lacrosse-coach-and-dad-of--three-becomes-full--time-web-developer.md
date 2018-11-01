@@ -14,7 +14,7 @@ By [Ross Ladenburger](https://www.linkedin.com/in/ross-ladenburger-078369a8/)
 
 Josh Stewart had recently become a father to his third daughter and was working between 60 to 80 hours a week at a small university in sports information and as a lacrosse coach when he read an article in the Herald-Leader about Awesome Inc’s Web Developer Bootcamp.
 
-<!--break-->
+<!--more-->
 
 “All of my work left me with only having Sundays off, so it was tough being away from them during the week.” Spending time away from his three young children made him consider what the future looked like in his current job. “At one point I realized, maybe I need a career where I can spend more time at home with my family.” In addition to the extra time at home that a career as a programmer would give him, Stewart was also drawn to the Web Developer Bootcamp by job opportunities in the tech industry, stability, and an increase in pay. 
 

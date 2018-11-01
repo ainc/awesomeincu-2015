@@ -16,7 +16,7 @@ By Sarah Brookbank
 
 One of our goals at Awesome Inc is to help everyone pursue their own definition of awesome, and our coding school is a way we work towards that goal. For two years [Awesome Inc U](http://www.awesomeincu.com/) has helped anyone and everyone learn to code, from professionals looking to beef up their skill set to middle school students who learn the more practical side of Minecraft.
 
-<!--break-->
+<!--more-->
 
 John Newton was looking to learn a new skill when he came to Awesome Inc with some C++ coding experience. John recently got a job at[ eLink Design](https://www.elinkdesign.com/) in Lexington, debugging, upgrading, and creating websites with the skills he learned at Awesome Inc. 
 

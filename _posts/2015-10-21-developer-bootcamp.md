@@ -18,7 +18,7 @@ As of today, we are living in the future
 
 Today's date, October 21, 2015, is affectionately known as [Back To The Future day](http://www.cnet.com/news/heres-the-technology-back-to-the-future-part-ii-predicted-and-what-it-missed/). Has the future become what the 80's movie predicted? Our cars may not fly through the air, but we have figured out how to make them self-piloting. Our shoes may not lace themselves, but we have built fitness trackers that easily gather and analyze exercise data for millions of people. One thing the movie seems to have underestimated was that the revolution wouldn't be led by the arrival of Mr. Fusion boxes to cheaply power our stuff, but rather that **software** would become the technology to define our world.
 
-<!--break-->
+<!--more-->
 
 Software by itself is not all that amazing. It's merely a set of ideas, formalized to the point where they can be interpreted by a computer. What makes software exciting is the prevalence of devices and data. [Nearly 70% of Americans](http://www.pewresearch.org/fact-tank/2015/04/01/6-facts-about-americans-and-their-smartphones/) now carry around a smartphone, buzzing with apps and constantly connected to the Internet. We do our banking, get our medical advice, send our baby pictures, consume our entertainment, and even order food from these devices. As more and more of our lives are spent using devices that run on software, more and more companies and organizations need software developers on their teams.
 

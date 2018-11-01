@@ -15,7 +15,7 @@ by [Nick Such](https://plus.google.com/+NickSuch/)
 
 Since our last Bootcamp blog post came on Back To The Future Day, I find it's only appropriate to share our next Bootcamp update on Pi Day. While BTTF only bears loose cultural significance to a career in web development, the mathematical concept of pi is much more directly related. Just like you've probably encountered pi in some circle in your life, you've probably encountered math...today. As I prepared my taxes last month, I used math. As a left a tip at a coffee shop yesterday, I used math. Interestingly, for both of those, I also used software (TurboTax Online and Square, respectively). And when software is a vital, yet nearly invisible, part of activities as benign as filing taxes and paying for coffee, it follows that more and more people are employed to develop software like this.
 
-<!--break-->
+<!--more-->
 
 {% include special-announcement.html %}
 

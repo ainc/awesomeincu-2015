@@ -16,7 +16,7 @@ by [Nick Such](https://plus.google.com/+NickSuch/)
 
 On August 22nd, the first cohort of our [Web Developer Bootcamp](/bootcamp/) began classes at Awesome Inc. The 10 adult students in the Fall 2016 cohort have an average age of 32, and come from diverse backgrounds including chemistry, law, manufacturing, and sales. In addition to four weeks of remote preparation on programming basics, the cohort will spend 12 weeks in on-site classes, from 8AM to 5PM, Monday through Friday.
 
-<!--break-->
+<!--more-->
 
 To say that this is an intense program is an understatement. And to call it a class is a bit of a misnomer. It's much more like the first 12 weeks at your first job as a software developer. Instead of taking cues from traditional classroom setups, we found [office design inspiration from tech consulting firm Pivotal](https://medium.com/built-to-adapt/hacking-the-workspace-d9a448ce5e6e#.ionzyckqc). Our team of 10 aspiring developers works with two instructors, who function like lead developers as they guide our students through a series of programming projects.
 

@@ -19,7 +19,7 @@ There was a lull in the freezing cold weather, the endless ice and snow. It was 
 
 ![Classroom for iOS course at UPike](/img/blog/pikeville-ios-classroom.jpg)
 
-<!--break-->
+<!--more-->
 
 ## Learning By Doing
 

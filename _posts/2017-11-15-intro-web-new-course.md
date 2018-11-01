@@ -16,7 +16,7 @@ by [Nick Such](https://plus.google.com/+NickSuch/)
 
 Over the past two years, we have seen tremendous success with Awesome Inc’s full-time Web Developer Bootcamp. Every graduate from our first cohort landed a programming job after the program, our second cohort (which finished just three months ago) is well on their way to repeating that performance, and our third cohort has shown excellent progress in skill development as they enter week nine of their 12-week program. This immersive course has delivered a life-changing experience for 30 professionals who have had the opportunity to devote at least 12 weeks of their lives to learning software development. However, this course format is not the best fit for everyone, so we’re excited to offer a new course, the **[Intro to Web Development](https://www.eventbrite.com/e/intro-to-web-development-spring-2018-tickets-39667189632)**, in a part-time, evening format.
 
-<!--break-->
+<!--more-->
 
 While we discuss our Bootcamp course as a 12-week, full-time program, that actually leaves out an important part of the learning experience: the Prework. Each Bootcamp student, before beginning the in-person part of the course, studies independently with a set of preparatory lessons called Prework. These lessons give students a first pass on some of the essential skills that we build upon throughout the Bootcamp. These skills include HTML, CSS, JavaScript, the Command Line Interface, text editors, and Git. This enables our Bootcamp students to arrive on day one of class, already possessing a significant set of web development skills. Our new Intro to Web course is focused on this same content.
 

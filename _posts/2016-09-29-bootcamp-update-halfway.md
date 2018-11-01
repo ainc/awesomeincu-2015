@@ -15,7 +15,7 @@ by [Nick Such](https://plus.google.com/+NickSuch/)
 
 Six weeks ago, the [ten students](https://www.awesomeincu.com/blog/2016/08/31/bootcamp-f16-begins/) in our [Web Developer Bootcamp](/bootcamp/) gathered into one room at Awesome Inc and cracked open their laptops. In six more weeks, they’ll conclude the formal educational portion of our F16 Bootcamp, armed with the necessary skills and experiences to land their first job as a developer. What they’re doing, learning how to develop software, is no easy task. The journey so far has been filled with a whole range of celebration and frustration, tears and laughter. I wanted to share a brief glance into the world into which our students are diving.
 
-<!--break-->
+<!--more-->
 
 ## The Hard Parts
 

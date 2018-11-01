@@ -18,7 +18,7 @@ The standard language for Apple iOS and OS X development is [Objective-C](http:/
 
 ![Swift playground, image from Apple &copy;](/img/blog/swift_overview_0.jpg)
 
-<!--break-->
+<!--more-->
 
 Swift brings language features that are familiar to and welcomed by many programmers today. It supports [tuples](http://en.wikipedia.org/wiki/Tuple), multi-valued expressions that make it easy to write functions that return multiple values and allow shortcuts like assignment statements involving multiple variables. Swift also makes it easy to define functions that accept a variable number of arguments. It supports operator overloading, including custom operators. It supports natural string manipulation like a scripting language. Functions in Swift can be passed to other functions and returned by other functions. Swift is strongly typed, but types can be inferred. Swift includes generics (generic functions and generic types), anonymous parameters ($0, $1, $2, ...), default arguments, and elaborate pattern matching in switch statements.
 

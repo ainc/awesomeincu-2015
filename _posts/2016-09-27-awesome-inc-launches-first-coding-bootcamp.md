@@ -17,7 +17,7 @@ by: Gregory Petitt
 
 Awesome Inc, the hi-tech incubator and computer coding school that provides programming courses for kids and adults in Kentucky has launched Lexington’s first coding Bootcamp.
 
-<!--break-->
+<!--more-->
 
 The goal of the competitive program is to take [Bootcamp](https://www.awesomeincu.com/bootcamp/) enrollees from beginner to job-ready, junior-level developers in 12-weeks. Students are guaranteed job placement as a junior developer with an employer partner upon completion of the Bootcamp. There are hundreds of open jobs for computer programmers in Kentucky, where junior developers often receive starting salaries well above the average Kentucky salary of $41,000. Tuition for the 12-week program is $9,500, far less than the cost for comparable training at the college level.  Scholarships are available for women and minorities. 
 

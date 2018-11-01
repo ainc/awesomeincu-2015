@@ -18,7 +18,7 @@ FOR IMMEDIATE RELEASE:
 
 LEXINGTON, Kentucky, December 6, 2016 — The mayors of Kentucky’s two biggest cities [named](http://wkyufm.org/post/louisville-lexington-work-grow-kentucky-exports-and-attract-foreign-investors#stream/0) Awesome Inc as an important element in their commitment to attracting jobs and foreign investment to the state. 
 
-<!--break-->
+<!--more-->
 
 With increasing concern about jobs across the country, mayors Jim Gray of Lexington and Greg Fischer of Louisville recently announced a plan to help Kentuckians increase their wages and opportunities for employment. The [plan](http://www.locateinlexington.com/DATA-FACTS-FIGURES/Bluegrass-Economic-Advancement-Movement.aspx) calls for both local and global efforts. Two of the key areas of focus are in software and IT. Both Gray and Fischer named the workforce training program at Awesome Inc as a model to help create economic change statewide, as well as strengthen foreign investment. 
 

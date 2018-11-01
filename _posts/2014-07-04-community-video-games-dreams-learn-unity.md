@@ -16,7 +16,7 @@ In 2013, YouTube hosted an event they called "Geek Week" that showcased and cele
 
 ![Multiplayer video on YouTube](/img/blog/learn_unity_0.png)
 
-<!--break-->
+<!--more-->
 
 Those relationships are a real part of real communities that are simply awesome things to watch and be a part of. 
 

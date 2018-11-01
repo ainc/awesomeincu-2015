@@ -17,7 +17,7 @@ by [Nick Such](https://plus.google.com/+NickSuch/)
 
 On Tuesday, I had the privilege of speaking to a group of K-12 teachers and administrators at the [KASC Conference](http://www.kasc.net/2010/?page_id=26) in Louisville. KASC has a membership of 800 school councils from around Kentucky which it helps to better serve their respective students through workshops, professional development, and information on topics like curriculum, instructional best practices, and school leadership. 
 
-<!--break-->
+<!--more-->
 
 When I arrived at the conference, I sat in on a talk with Mark Harrell from [Project Lead The Way](http://www.pltwky.org) and a group of PLTW students from Hardin County. These students are in PLTW's engineering curriculum, and were discussing the core pieces of that program, as well as showing off their competition robot. Their engineering instructor described the power of the program: "Our society loves high school football games. Nobody comes to cheer these kids on during a math test, but when we go to robot competitions, parents and students are screaming for their team and it feels like a Friday night."
 

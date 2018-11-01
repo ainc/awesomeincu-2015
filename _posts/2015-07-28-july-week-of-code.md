@@ -16,7 +16,7 @@ By Danny Thorne
 
 During July 7th through 10th, seventeen middle school and high school students braved severe weather and flooding to attend an Awesome Inc U Week of Code. They learned web development in HTML/CSS/JavaScript, app development with [MIT App Inventor](http://appinventor.mit.edu/explore/), and game development with [Unity 3D](https://unity3d.com/). 
 
-<!--break-->
+<!--more-->
 
 The latter topic was introduced using a new, locally-crafted tutorial on [how to make the game Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02) -- a big hit with this age group! At the end of the week, students completed individual projects and presented their projects to parents and guests. Some of them made their own web sites, some made Android apps, and some made games. One student even built an animated 3D visualization of our solar system. 
 

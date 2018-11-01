@@ -15,7 +15,7 @@ description: It's been said that learning to code is as essential to a successfu
 
 *"Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains."*  - Bill Gates
 
-<!--break-->
+<!--more-->
 
 It's difficult to read a blog without coming across an article stating the importance of teaching kids to code. In fact, it's been said that learning to code is as essential to a successful start in life as reading, writing, and math. But who says only children should learn to code? Here are 4 reasons you should give coding a shot regardless of your age or career path.
 

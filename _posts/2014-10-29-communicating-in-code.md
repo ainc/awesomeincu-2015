@@ -14,7 +14,7 @@ by [Nick Such](https://plus.google.com/+NickSuch/)
 
 While the Learn To Code movement has certainly picked up steam in the past year, I think it's interesting to realize that "code" is not something new. What's new is that we have a strong incentive to learn a particular type of code: billions of people now have Internet-connected computing devices, which we carry around with us wherever we go, and we spend an increasing amount of time using these devices. If we want to interact with these people and influence these people, then we have to communicate with the code (in this case, computer code) that gets their attention. But the notion that coding is something new is a fallacy.
 
-<!--break-->
+<!--more-->
 
 [![Musical staff code](/img/blog/communicating-music.png)](http://en.wikipedia.org/wiki/Clef#mediaviewer/File:Bass_and_Treble_clef.svg)
 

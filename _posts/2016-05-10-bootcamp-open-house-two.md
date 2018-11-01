@@ -15,7 +15,7 @@ by [Nick Such](https://plus.google.com/+NickSuch/)
 
 With applications rolling in for our Web Developer Bootcamp, we're excited to host our second Open House event this week. We'll be welcoming a host of potential applicants and employer partners to discuss the growing need for software developers, and how our Bootcamp program will help you land a tech job...guaranteed.
 
-<!--break-->
+<!--more-->
 
 {% include special-announcement.html %}
 

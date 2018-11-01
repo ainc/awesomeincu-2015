@@ -14,7 +14,7 @@ Guest post by: [**Isaac Rowe**](https://medium.com/@Isaac_rowe1)
 
 All across the nation, programs are sprouting, encouraging young and old alike to learn how to code. These programs range from low-key online tutorials to full-blown bootcamps. All of them want to promote the &quot;new literacy&quot;, and you want in on the fun. Why should you learn to code, who should you learn from, and what can you expect?
 
-<!--break-->
+<!--more-->
 
 The Guardian recently called coding software &quot; [the language of our world](http://www.theguardian.com/technology/2014/feb/07/year-of-code-dan-crow-songkick)&quot;. Every day, millions of people consume and create content from devices that know what to do because someone, somewhere told the device what to do using lines of code. Programs like Awesome Inc U exist in order to teach these important skills to both young and old alike in order to enable them to move from being _consumers __ _to _creators.__  _Awesome Inc isn&#39;t the only place doing this either. Both online and off, many resources are being created to teach these skills.
 

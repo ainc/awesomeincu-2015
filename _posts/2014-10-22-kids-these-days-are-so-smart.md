@@ -14,7 +14,7 @@ by [Brian Raney](https://plus.google.com/u/0/114667204038993827459/), Co-Founder
 
 SMART. I've heard numerous quotes from adults about how kids these days are so lazy, entitled, irresponsible. "The future seems bleak," we'll say to one another when we hear about a trouble maker kid that refuses to work hard at school or the student athlete that thinks they don't have to earn the starting position on the sports team. I've murmured these quotes more times than I can remember. 
 
-<!--break-->
+<!--more-->
 
 But this summer, I found myself murmuring something else. I had the pleasure of working closely with over fifty middle and high school students through our [Kids Code Camps](http://blog.awesomeinc.org/post/97086960346/teaching-kids-to-code-with-awesome-inc-u) at Awesome Inc. These kids restored my faith in this next generation. They were smart, hard working, and motivated. They couldn't get enough of the computer programming knowledge that our staff was offering them. 
 
