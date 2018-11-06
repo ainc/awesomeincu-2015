@@ -179,7 +179,7 @@ _Pre-work_
       * [Sample Form](https://docs.google.com/forms/d/1OXXXjfutX2pbjZwAuOmwzD_vVMmXVFOJgBX-8sXPTZU/viewform)
       * Form embed code:
  
-        	<iframe src="https://docs.google.com/forms/d/1OXXXjfutX2pbjZwAuOmwzD_vVMmXVFOJgBX-8sXPTZU/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+        	<iframe src="https://docs.google.com/forms/d/1OXXXjfutX2pbjZwAuOmwzD_vVMmXVFOJgBX-8sXPTZU/viewform?embedded=true" width="760" height="500" style="border-width:0;" marginheight="0" marginwidth="0">Loading...</iframe>
 
 #### 4pm
 

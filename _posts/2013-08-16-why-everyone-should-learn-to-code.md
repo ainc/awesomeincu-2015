@@ -11,7 +11,7 @@ description: Thoughts on the changing nature of software development and why we 
   everyone should learn to code.
 ---
 
-<iframe width="400" height="265" src="https://www.youtube.com/embed/g_ytoNfe83Y?rel=0" frameborder="0"> </iframe>
+<iframe width="400" height="265" src="https://www.youtube.com/embed/g_ytoNfe83Y?rel=0" style="border-width:0;"> </iframe>
 
 By [Nick Such](https://plus.google.com/+NickSuch/)
                                      

@@ -54,7 +54,7 @@ course_link: "/register/"
 * Create and save `test.html` in your directory
 * YouTube embed - [sample video](http://www.youtube.com/watch?v=18-xvIjH8T4), click Share->Embed Video
       
-      <iframe width="560" height="315" src="http://www.youtube.com/embed/18-xvIjH8T4" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="http://www.youtube.com/embed/18-xvIjH8T4" style="border-width:0;" allowfullscreen></iframe>
 
     * add "http:" to src to make this work locally
 * Twitter embed - [sample tweet](https://twitter.com/awesome_inc/statuses/409404280450203649), click More->Embed Tweet
@@ -95,7 +95,7 @@ The Plan
 * About Page - YouTube embed
 * Contact Page - Google Forms [sample embed](http://old2011.awesomeinc.org/teamalphaapplication)
 
-      <iframe src="https://docs.google.com/forms/d/1qdS7S4NEp4Vud0wOtTuJq7jT7JxNvgV_lH3tBXTxzaE/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+      <iframe src="https://docs.google.com/forms/d/1qdS7S4NEp4Vud0wOtTuJq7jT7JxNvgV_lH3tBXTxzaE/viewform?embedded=true" width="760" height="500" style="border-width:0;" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
 ### 3:50pm

@@ -166,5 +166,25 @@ The Coding Club meets one evening a week for 90 minutes, with 13 weeks of classe
 </div> <!-- /container -->
 
 ## Tuesdays
+
 <!--Eventbrite generated ticket form widget-->
-<div style="width:100%; text-align:left;"><iframe src="//eventbrite.com/tickets-external?eid=51832961784&ref=etckt" frameborder="0" height="393" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div id="eventbrite-widget-container"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '51832961784',
+        iframeContainerId: 'eventbrite-widget-container',
+
+        // Optional
+        iframeContainerHeight: 506,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>

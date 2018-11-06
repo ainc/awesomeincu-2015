@@ -22,4 +22,4 @@ One of the ways that we're helping to make this a reality is sharing our insight
 
 Here's my presentation called [Coding Demystified: How to teach programming without a CS degree](http://bit.ly/codeoc15) from the [Innovate, Integrate, Motivate](http://summeredtechpd.wordpress.com) EdTech conference:
 
-<iframe src="https://docs.google.com/presentation/d/1Uz-Cjit_eKTAAOa9hio5hLkOw_rp-JZZpZ4VBX0uZZM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1Uz-Cjit_eKTAAOa9hio5hLkOw_rp-JZZpZ4VBX0uZZM/embed?start=false&loop=false&delayms=3000" style="border-width:0;" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
