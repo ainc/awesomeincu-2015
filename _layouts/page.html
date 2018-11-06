@@ -9,6 +9,7 @@
   Growing High-Tech Startups in Lexington, Kentucky. #horses
 -->
     <head>
+        {% include google-analytics.html %}
         {% include head.html %}
         {% if page.url != '/tutorials/unity-pong/' %}        
         {% include live_tracker.html %}
@@ -21,7 +22,6 @@
         {{content}}
         </div>
         {% include footer.html %}
-        {% include google-analytics.html %}
         {% include js.html %}
         {% include twitter-code.html %}
 
