@@ -172,7 +172,7 @@ Come back for as many sessions as you’d like, the fun and the knowledge keeps 
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
-<script type="text/javascript">
+<script>
     var exampleCallback = function() {
         console.log('Order complete!');
     };

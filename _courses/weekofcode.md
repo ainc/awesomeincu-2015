@@ -103,7 +103,7 @@ In addition to programming time inside, campers will interact with our upbeat te
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
-<script type="text/javascript">
+<script>
     var exampleCallback = function() {
         console.log('Order complete!');
     };
