@@ -1,18 +1,14 @@
 ---
-title: Coding Club
-permalink: "/coding-club/"
+title: Coding Club at your school
+permalink: "/after-school/"
 layout: course
 description: Learn Code, Make Friends
 cover: "/img/coding-club.jpg"
-class_day: Tuesdays
-eventbrite_eid: 51832961784
 ---
 
-{% include coding-club-buttons.html %}
+### Do you have students at your school who enjoy spending time on the computer, could play Minecraft for hours, or have done the Hour of Code?
 
-### **Do you have a student at home who enjoys spending time on the computer, could play Minecraft for hours, or has done the Hour of Code at school?**
-
-The Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls in elementary and middle school who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting. Students are taught to code using the popular Scratch programming language from MIT. We make a series of video game and animation projects, which we use to help students learn the core concepts of coding and computer science.
+The Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls in middle school who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting. Students are taught to code using the popular Scratch programming language from MIT. We make a series of video game and animation projects, which we use to help students learn the core concepts of coding and computer science.
 
 The Coding Club meets one evening a week for 90 minutes, with 13 weeks of classes in the Spring and Fall. The Club starts on a new project every four weeks, so the fun and the knowledge keeps on building. Sign up with friends, or meet new people with similar interests. No prior programming experience is required, but students should be comfortable using a mouse, keyboard, and web browser.
 
@@ -161,27 +157,3 @@ The Coding Club meets one evening a week for 90 minutes, with 13 weeks of classe
     </div> <!-- panel-group -->
   </div>
 </div> <!-- /container -->
-
-## Tuesdays
-
-<!--Eventbrite generated ticket form widget-->
-<div id="eventbrite-widget-container"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script>
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '51832961784',
-        iframeContainerId: 'eventbrite-widget-container',
-
-        // Optional
-        iframeContainerHeight: 506,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
