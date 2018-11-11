@@ -36,14 +36,50 @@ Participants are expected to be fully invested in the training process for a 12 
 <br>Front End Engineer, ITHAKA / Artstor</p>
 <p><a class="btn cl-link-effect alumni" data-hover="Bootcamp Alumni" href="/alumni"><span>Bootcamp Alumni</span></a></p>
 
+## Landing A Developer Job
+
+Alumni from Awesome Inc's Web Developer Bootcamp have found their first developer jobs with a variety of great employers in Kentucky and beyond.
+
+<div class="row">
+    <div class="col-xs-2 col-xs-offset-1">
+      <img src="/img/logos/apaxsoftware-logo.png" alt="APAX Software Logo" class="img-responsive">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/ableengine-logo.png" alt="Able Engine logo" class="img-responsive">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/cabemtechnologies-logo.png" alt="Cabem Technologies logo" class="img-responsive">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/infosys-logo.png" alt="Infosys logo" class="img-responsive">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/ireportsource-logo.png" alt="iReportSource logo" class="img-responsive">
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-xs-2 col-xs-offset-1">
+      <img src="/img/logos/medmyne-logo.png" alt="Medmyne logo" class="img-responsive">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/nymblsystems-logo.png" alt="Nymbl Systems logo" class="img-responsive">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/prospecttrax-logo.png" alt="Prospect Trax logo" class="img-responsive">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/scheduleit-logo.png" alt="ScheduleIt logo" class="img-responsive">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/vetdata-logo.png" alt="Vetdata Logo" class="img-responsive">
+    </div>
+</div>
+
+100% of our Bootcamp grads from the F16 cohort landed jobs in the software development field within 6 months of completing our program. [Applications](/applications/bootcamp/) are open for our next Bootcamp.
+
 <a href="/alumni"><img src="/img/100-alumni-f16-hired.png" class="img-responsive center-block img-rounded"></a>
 <br>
-
-<p>100% of our Bootcamp grads from the F16 cohort landed jobs in the software development field within 6 months of completing our program. <a href="/applications/bootcamp/">Applications</a> are open for our next Bootcamp</p>
-
-## Employers
-
-
 
 ## Paying for Bootcamp
 
