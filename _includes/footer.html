@@ -1,5 +1,5 @@
 <!-- check if page is meant to have press footer, if so, add this and take away margin top style in footer -->
-{% if page.press_footer %}
+{% if page.url == '/bootcamp/' or page.url == '/' %}
 <div class="container-clearfluid press">
     <div class="row" style="margin-left:0; margin-right:0;">
         <div class="col-md-2 col-md-offset-1">
@@ -30,7 +30,7 @@
     </div>
 </div>
 {% endif %}
-<footer {% if page.press_footer %} style="margin-top: 0;"{% endif %}><!-- h/t to http://bootsnipp.com/snippets/featured/bootstrap-3-footer -->    
+<footer {% if page.url == '/bootcamp/' or page.url == '/' %} style="margin-top: 0;"{% endif %}><!-- h/t to http://bootsnipp.com/snippets/featured/bootstrap-3-footer -->    
     <div class="container text-center">
         <div class="row">
             <div class="col-md-4 hidden-xs">

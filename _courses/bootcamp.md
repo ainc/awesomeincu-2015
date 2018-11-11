@@ -5,7 +5,6 @@ layout: course
 description: Become A Professional Web Developer
 cover: "/img/bootcamp-web-development-awesome-inc.jpg"
 application: "/applications/bootcamp/"
-press_footer: true
 ---
 
 {% include special-announcement.html %}
@@ -42,7 +41,11 @@ Participants are expected to be fully invested in the training process for a 12 
 
 <p>100% of our Bootcamp grads from the F16 cohort landed jobs in the software development field within 6 months of completing our program. <a href="/applications/bootcamp/">Applications</a> are open for our next Bootcamp</p>
 
-<h2>Paying for Bootcamp</h2>
+## Employers
+
+
+
+## Paying for Bootcamp
 
 <div class="table-responsive">
   <p>To help make a career change more accessible for our students, we offer a variety of payment plans to fit your budget. Once you've been accepted as a student, a $500 deposit holds your spot in your selected cohort.</p>
@@ -74,9 +77,10 @@ Participants are expected to be fully invested in the training process for a 12 
   </table>
 </div>
 
+## FAQ
+
 <div>
   <div>
-  <h2>FAQs</h2>
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
       <div class="panel panel-default"> <!-- QUESTION 1 -->
         <div class="panel-heading" role="tab" id="headingOne">
