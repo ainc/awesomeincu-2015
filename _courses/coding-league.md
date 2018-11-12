@@ -15,6 +15,8 @@ redirect_from:
 
 It’s time to start using more powerful, professional-grade tools. HTML, CSS, and JavaScript are the building blocks of the web, and are the focus of our intermediate-level course for youth, the Coding League. Students use code to create websites. These websites range from informational pages on students’ hobbies and interests, to interactive games, and handy utilities.
 
+![Doodle Jump clone screenshot](/img/league-doodle-jump.gif "Doodler, a Coding League project, made with JavaScript in CodePen" ){:class="img-responsive center-block"}
+
 Coding League participants should have some prior programming experience, such as a basic course at school or [Awesome Inc’s Coding Club](/coding-club/). Since we’ll be using text-based programming languages, students should be comfortable typing at [20 words per minute](https://10fastfingers.com/typing-test/english) or faster.
 
 Come back for as many sessions as you’d like, the fun and the knowledge keeps on building. Sign up with friends, or meet new people with similar interests.
