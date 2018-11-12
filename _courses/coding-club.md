@@ -14,6 +14,8 @@ eventbrite_eid: 51832961784
 
 The Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls in elementary and middle school who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting. Students are taught to code using the popular Scratch programming language from MIT. We make a series of video game and animation projects, which we use to help students learn the core concepts of coding and computer science.
 
+![Flappy Cat project in MIT Scratch](/img/scratch-flappy-cat-coding-club.gif "Flappy Cat, a Coding Club project, made with MIT Scratch" ){:class="img-responsive center-block"}
+
 The Coding Club meets one evening a week for 90 minutes, with 13 weeks of classes in the Spring and Fall. The Club starts on a new project every four weeks, so the fun and the knowledge keeps on building. Sign up with friends, or meet new people with similar interests. No prior programming experience is required, but students should be comfortable using a mouse, keyboard, and web browser.
 
 ## Coding Club Outcomes:
