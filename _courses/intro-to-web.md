@@ -52,6 +52,13 @@ Classes are two nights per week, two hours per night, for nine weeks. In additio
 - Write code in languages like HTML, CSS, and JavaScript
 - Create interactive websites
 - Make friends and learn how to continue practicing web development beyond this course
+- Build a Final Project like these:
+
+<div class="row">
+  <div class="col-xs-6"><img src="/img/quizzler-intro-web-project.gif" alt="Quizzler screenshot" title="Quiz game, student project from Intro to Web class, made with JavaScript and APIs" class="img-responsive center-block img-thumbnail"></div>
+  <div class="col-xs-6"><img src="/img/lyricsdb-intro-web-project.gif" alt="Lyrics DB screenshot" title="Find lyrics to songs, student project from Intro to Web class, made with JavaScript and APIs" class="img-responsive center-block img-thumbnail"></div>
+</div>
+<br>
 
 ## Tuition Credit
 

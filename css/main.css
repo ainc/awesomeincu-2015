@@ -359,6 +359,11 @@ form {
   margin-top: 40px;
 }
 
+.img-grayscale {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
 /* NOTES
 -------------------------------------------------- */
 .notes img {   /*same as bootstrap's .img-responsive & .center-block */

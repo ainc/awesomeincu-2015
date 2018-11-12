@@ -5,7 +5,6 @@ layout: course
 description: Become A Professional Web Developer
 cover: "/img/bootcamp-web-development-awesome-inc.jpg"
 application: "/applications/bootcamp/"
-press_footer: true
 ---
 
 {% include special-announcement.html %}
@@ -37,12 +36,53 @@ Participants are expected to be fully invested in the training process for a 12 
 <br>Front End Engineer, ITHAKA / Artstor</p>
 <p><a class="btn cl-link-effect alumni" data-hover="Bootcamp Alumni" href="/alumni"><span>Bootcamp Alumni</span></a></p>
 
+## Landing A Developer Job
+
+Alumni from Awesome Inc's Web Developer Bootcamp have found their first developer jobs with a variety of great employers in Kentucky and beyond.
+<div style="background-color: #eaeaea; padding-top: 20px; padding-bottom: 10px;">
+<div class="row">
+    <div class="col-xs-2 col-xs-offset-1">
+      <img src="/img/logos/apaxsoftware-logo.png" alt="APAX Software Logo" class="img-responsive img-grayscale">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/ableengine-logo.png" alt="Able Engine logo" class="img-responsive img-grayscale">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/cabemtechnologies-logo.png" alt="Cabem Technologies logo" class="img-responsive img-grayscale">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/infosys-logo.png" alt="Infosys logo" class="img-responsive img-grayscale">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/ireportsource-logo.png" alt="iReportSource logo" class="img-responsive img-grayscale">
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-xs-2 col-xs-offset-1">
+      <img src="/img/logos/medmyne-logo.png" alt="Medmyne logo" class="img-responsive img-grayscale">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/nymblsystems-logo.png" alt="Nymbl Systems logo" class="img-responsive img-grayscale">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/prospecttrax-logo.png" alt="Prospect Trax logo" class="img-responsive img-grayscale">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/scheduleit-logo.png" alt="ScheduleIt logo" class="img-responsive img-grayscale">
+    </div>
+    <div class="col-xs-2">
+      <img src="/img/logos/vetdata-logo.png" alt="Vetdata Logo" class="img-responsive img-grayscale">
+    </div>
+</div>
+</div>
+
+100% of our Bootcamp grads from the F16 cohort landed jobs in the software development field within 6 months of completing our program. [Applications](/applications/bootcamp/) are open for our next Bootcamp.
+
 <a href="/alumni"><img src="/img/100-alumni-f16-hired.png" class="img-responsive center-block img-rounded"></a>
 <br>
 
-<p>100% of our Bootcamp grads from the F16 cohort landed jobs in the software development field within 6 months of completing our program. <a href="/applications/bootcamp/">Applications</a> are open for our next Bootcamp</p>
-
-<h2>Paying for Bootcamp</h2>
+## Paying for Bootcamp
 
 <div class="table-responsive">
   <p>To help make a career change more accessible for our students, we offer a variety of payment plans to fit your budget. Once you've been accepted as a student, a $500 deposit holds your spot in your selected cohort.</p>
@@ -74,9 +114,10 @@ Participants are expected to be fully invested in the training process for a 12 
   </table>
 </div>
 
+## FAQ
+
 <div>
   <div>
-  <h2>FAQs</h2>
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
       <div class="panel panel-default"> <!-- QUESTION 1 -->
         <div class="panel-heading" role="tab" id="headingOne">
