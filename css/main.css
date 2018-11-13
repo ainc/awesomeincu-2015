@@ -362,6 +362,13 @@ form {
 .img-grayscale {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
+  opacity: 0.7;
+  transition: all 0.3s;
+  vertical-align: middle;
+}
+.img-grayscale:hover{
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
 }
 
 /* NOTES
