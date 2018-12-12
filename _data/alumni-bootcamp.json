@@ -1,5 +1,95 @@
 [
   {
+    "name": "Mayme Clayton",
+    "website": "https://maymeclayton.github.io",
+    "github": "https://github.com/maymeclayton",
+    "linkedin": "https://www.linkedin.com/in/mayme-clayton-12287316a/",
+    "image": "mayme-clayton",
+    "position": null,
+    "cohort": "f18"
+  },
+  {
+    "name": "Philip Devine",
+    "website": "https://devinepk.github.io/",
+    "github": "https://github.com/devinepk",
+    "linkedin": "https://www.linkedin.com/in/devinepk/",
+    "image": "philip-devine",
+    "position": null,
+    "cohort": "f18"
+  },
+  {
+    "name": "Jacob Hall",
+    "website": "https://jthall94.github.io/",
+    "github": "https://github.com/JTHall94/",
+    "linkedin": "https://www.linkedin.com/in/jacob-hall-714855101/",
+    "image": "jacob-hall",
+    "position": "APAX",
+    "cohort": "f18"
+  },
+  {
+    "name": "Micah Jones",
+    "website": "https://imayeti.github.io",
+    "github": "https://github.com/Imayeti",
+    "linkedin": "https://www.linkedin.com/in/micah-jones-b8343b16b/",
+    "image": "micah-jones",
+    "position": null,
+    "cohort": "f18"
+  },
+  {
+    "name": "Kendra Jordan",
+    "website": "https://kendrajordan.github.io/kendrajordan2.github.io/",
+    "github": "https://github.com/kendrajordan/",
+    "linkedin": "https://www.linkedin.com/in/kendra-jordan-50555910b",
+    "image": "kendra-jordan",
+    "position": null,
+    "cohort": "f18"
+  },
+  {
+    "name": "Connor McCarty",
+    "website": "http://gmccarty.bootcamp.github.io/",
+    "github": "https://github.com/Cgmccarty/",
+    "linkedin": "https://www.linkedin.com/in/connor-mccarty-27b151168/",
+    "image": "connor-mccarty",
+    "position": null,
+    "cohort": "f18"
+  },
+  {
+    "name": "Christina Meredith",
+    "website": "https://kiwipup.github.io/",
+    "github": "https://github.com/Kiwipup",
+    "linkedin": "https://www.linkedin.com/in/christina-meredith-31193b16a",
+    "image": "christina-meredith",
+    "position": "Schedule It",
+    "cohort": "f18"
+  },
+  {
+    "name": "Ben Patterson",
+    "website": "https://bmizepatterson.github.io/",
+    "github": "https://github.com/bmizepatterson",
+    "linkedin": "https://www.linkedin.com/in/bmizepatterson/",
+    "image": "ben-patterson",
+    "position": "Avnet",
+    "cohort": "f18"
+  },
+  {
+    "name": "Derrick Shelton",
+    "website": "https://ddshelt.github.io",
+    "github": "https://github.com/ddshelt/",
+    "linkedin": "https://www.linkedin.com/in/derrick-shelton-18887116a/",
+    "image": "derrick-shelton",
+    "position": "Schedule It",
+    "cohort": "f18"
+  },
+  {
+    "name": "Holly Stone",
+    "website": "https://hstone102.github.io",
+    "github": "https://github.com/hstone102",
+    "linkedin": "https://www.linkedin.com/in/holly-stone-1b854989/",
+    "image": "holly-stone",
+    "position": null,
+    "cohort": "f18"
+  },
+  {
     "name": "Ryan Borja",
     "website": "https://ryanborja.github.io",
     "github": "https://github.com/RyanBorja/",
@@ -23,7 +113,7 @@
     "github": "https://github.com/dimitri16h/",
     "linkedin": "https://www.linkedin.com/in/dimitri-hassan-44548a162/",
     "image": "dimitri-hassan",
-    "position": null,
+    "position": "Cycom",
     "cohort": "s18"
   },
   {
@@ -181,7 +271,7 @@
     "github": "https://github.com/doubldragon",
     "linkedin": "https://www.linkedin.com/in/brandonrspencer/",
     "image": "brandon-spencer",
-    "position": "Fusion Corp",
+    "position": "Fusioncorp",
     "cohort": "s17"
   },{
     "name": "Josh Stewart",
