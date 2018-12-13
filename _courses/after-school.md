@@ -8,11 +8,11 @@ cover: "/img/coding-club.jpg"
 
 ### Do you have students at your school who enjoy spending time on the computer, could play Minecraft for hours, or have done the Hour of Code?
 
-The Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls in middle school who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting. Students are taught to code using the popular Scratch programming language from MIT. We make a series of video game and animation projects, which we use to help students learn the core concepts of coding and computer science.
+The Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls in elementary and middle school who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting. Students explore coding using the popular Scratch programming language from MIT. We make a series of video game and animation projects, which help students learn the core concepts of coding and computer science.
 
 ![Flappy Cat project in MIT Scratch](/img/scratch-flappy-cat-coding-club.gif "Flappy Cat, a Coding Club project, made with MIT Scratch" ){:class="img-responsive center-block"}
 
-The Coding Club meets one evening a week for 90 minutes, with 13 weeks of classes in the Spring and Fall. The Club starts on a new project every four weeks, so the fun and the knowledge keeps on building. Sign up with friends, or meet new people with similar interests. No prior programming experience is required, but students should be comfortable using a mouse, keyboard, and web browser.
+The Coding Club meets one afternoon a week for up to 90 minutes, with up to 12 weeks of classes in the Spring and Fall. Sign up with friends, or meet new people with similar interests. No prior programming experience is required, but students should be comfortable using a mouse, keyboard, and web browser.
 
 ## Coding Club Outcomes:
 
@@ -40,4 +40,6 @@ The Coding Club meets one evening a week for 90 minutes, with 13 weeks of classe
 
 <br>
 
-For more information, please [contact us](/contact/) or check out the [Coding Club overview presentation](https://awesomeincu.qwilr.com/Learn-to-Code-with-Awesome-Inc-roAtohc2Qzyc).
+For more information, please check out the [Coding Club overview presentation](https://awesomeincu.qwilr.com/Learn-to-Code-with-Awesome-Inc-roAtohc2Qzyc).
+
+Ready to get started? &nbsp; &nbsp; [Bring Coding Club To My School](https://docs.google.com/forms/d/e/1FAIpQLScHJtXX_G5p0JntCVFzGhDbS718ClR45z1GzAKj_IsVThm1lQ/viewform?usp=sf_link){:class="btn btn-primary btn-lg" :target="_blank"}
