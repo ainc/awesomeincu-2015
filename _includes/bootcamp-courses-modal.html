@@ -22,7 +22,7 @@
 						<tr><td><a href="{{ course.url }}"><img src="/img/logos/{{ course.logo }} " alt="{{ course.title }}" width="40"></a>&nbsp;&nbsp;{{ course.date }}, {{ course.time }}</td><td><a href="{{ course.url }}">{{ course.title }}</a></td>
 						<td>
 						{{ course.standard-price }} {% if course.financing %}(financing available){% endif %}</td>
-						<td><center><a class="btn btn-primary btn-large" href="{{ course.url }}" 
+						<td><center><a class="btn btn-primary " href="{{ course.url }}" 
 						{% if course.url contains "eventbrite" %}
 						target="_blank">Register
 						{% else %}
