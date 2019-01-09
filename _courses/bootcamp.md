@@ -188,8 +188,8 @@ Alumni from Awesome Inc's Web Developer Bootcamp have found their first develope
         </div>
         <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
           <div class="panel-body">
-            <p>Our next Bootcamp cohort (Summer 2018, i.e. S18) has classes from Monday, May 21st - Friday, August 10th. The application deadline for the S18 cohort is Friday, March 9th.</p>
-            <p>The Fall 2018 cohort runs September 17 - Dec 7, and applications for F18 are due July 13th.</p>
+            <p>Our next Bootcamp cohort (Fall 2019, i.e. F19) has classes from Monday, September 16th - Friday, December 6th. The application deadline for the F19 cohort is Friday, July 12th.</p>
+            <p>The Spring 2020 cohort runs February - May 2020, and applications for S20 are due in December.</p>
           </div>
         </div>
       </div>
