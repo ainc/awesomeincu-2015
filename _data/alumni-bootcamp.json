@@ -46,11 +46,11 @@
   },
   {
     "name": "Connor McCarty",
-    "website": "http://gmccarty.bootcamp.github.io/",
+    "website": "https://cgmccarty.github.io/",
     "github": "https://github.com/Cgmccarty/",
     "linkedin": "https://www.linkedin.com/in/connor-mccarty-27b151168/",
     "image": "connor-mccarty",
-    "position": null,
+    "position": "BlueFrame",
     "cohort": "f18"
   },
   {
@@ -138,7 +138,7 @@
     "name": "Beth Salvatore",
     "website": "https://beth-portfolio.herokuapp.com/",
     "github": "https://github.com/demoncowgirl",
-    "linkedin": "https://www.linkedin.com/in/bethj-salvatore/",
+    "linkedin": "https://www.linkedin.com/in/bethjsalvatore/",
     "image": "beth-salvatore",
     "position": null,
     "cohort": "s18"
