@@ -8,11 +8,12 @@ applications:
 redirect_from:
 - "/camp/"
 - "/summer/"
+- "/lexcamp/"
 ---
 
 {% include woc-buttons.html %}
 
-## 2018 Summer Camps
+## 2019 Summer Camps
 ### Ages: 10-15 | Beginner - Intermediate 
 *No experience required*
 <hr>
