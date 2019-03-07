@@ -11,7 +11,7 @@ redirect_from:
 - "/lexcamp/"
 ---
 
-{% include woc-buttons.html %}
+{% include woc-buttons-sponsorship.html %}
 
 ## 2019 Summer Camps
 ### Ages: 10-15 | Beginner - Intermediate 
