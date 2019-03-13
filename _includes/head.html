@@ -8,7 +8,7 @@ The above 3 meta tags *must* come first in the head; any other head content must
 <meta property="og:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}">
 <meta name="author" content="{{ site.author }}">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<title>{% if page.title %}{{ page.title }} | {{ site.name }}{% else %}{{ site.name }} - {{ site.description }}{% endif %}</title>
+<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }} - {{ site.description }}{% endif %}</title>
 <link rel="icon" href="/img/favicon.ico">
 {% if page.url == '/blog/' %}
 <link rel="alternate" type="application/rss+xml" title="RSS" href="/blog/rss.xml"> 
