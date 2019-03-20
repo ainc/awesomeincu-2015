@@ -15,7 +15,7 @@ The Web Developer Bootcamp is a 12-week, full-time training program for aspiring
 
 <img alt="Learn to code and make websites and mobile apps" src="/img/Responsive_Web_Design.jpg" class="img-responsive img-rounded center-block">
 
-Participants are expected to be fully invested in the training process for a 12 week period. At the conclusion of the program, participants will be ready to interview with regional and national employers for the opportunity to earn a full-time position at a competitive junior developer's salary.
+Participants are expected to be fully invested in the training process for a 12-week period. At the conclusion of the program, participants will be ready to interview with regional and national employers for the opportunity to earn a full-time position at a competitive junior developer's salary.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/kTABF680TGU" style="border-width:0;" allowfullscreen></iframe></div>
 
@@ -32,7 +32,7 @@ Participants are expected to be fully invested in the training process for a 12 
   </div>
 </div>
 
-<p><a href="https://www.linkedin.com/in/brett-fraley-446134125">Brett Fraley</a>  Bootcamp F16
+<p><a href="https://www.linkedin.com/in/brett-fraley-446134125">Brett Fraley</a>  Bootcamp Fall '16
 <br>Front End Engineer, ITHAKA / Artstor</p>
 <p><a class="btn cl-link-effect alumni" data-hover="Bootcamp Alumni" href="/alumni"><span>Bootcamp Alumni</span></a></p>
 
@@ -78,7 +78,7 @@ Alumni from Awesome Inc's Web Developer Bootcamp have found their first develope
 
 <br>
 
-100% of our Bootcamp grads from the F16 cohort landed jobs in the software development field within 6 months of completing our program. [Applications](/applications/bootcamp/) are open for our next Bootcamp.
+100% of the alumni from our first Bootcamp cohort (Fall '16) landed jobs in the software development field within 6 months of completing our program. [Applications](/applications/bootcamp/) are open for our next Bootcamp.
 
 <a href="/alumni"><img src="/img/100-alumni-f16-hired.png" class="img-responsive center-block img-rounded"></a>
 <br>
@@ -144,9 +144,9 @@ Alumni from Awesome Inc's Web Developer Bootcamp have found their first develope
         </div>
         <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
           <div class="panel-body">
-            <p>Our ideal applicants are professional men and women who are looking to transition into a career in software development. This program is not for everyone. Like all Awesome Inc initiatives, we've built this program with our <a href="http://www.awesomeinc.org/about/#core-values">Core Values</a> in mind. CV #2 (Be Excellent) is a big part of this program. We expect that many of our candidates will have deep experience in a related field, such as graphic design, math/finance, or project management. Some applicants will have prior programming experience, maybe a class back in high school or college, but many will not.<br><br>
+            <p>Our ideal applicants are professional men and women who are looking to transition into a career in software development. This program is not for everyone. Like all Awesome Inc initiatives, we've built this program on the foundation of our <a href="http://www.awesomeinc.org/about/#core-values">Core Values</a>. CV #2 (Be Excellent) is a big part of this program. We expect that many of our candidates will have deep experience in a related field, such as graphic design, math/finance, or project management. Some applicants will have prior programming experience, maybe a class back in high school or college, but many will not.<br><br>
 
-            Many of our applicants have been from Kentucky and surrounding states, such as Indiana, Ohio, Tennessee, and West Virginia. Since our 12-week program is full-time (8am - 5pm, five days per week), our candidates must be willing to sacrifice other commitments (such as outside employment) to focus on learning for that duration.</p>
+            Most of our applicants reside in Kentucky, and desire to live and work in the region after Bootcamp. Since our 12-week program is full-time (8am - 5pm, five days per week), our candidates must be willing to sacrifice other commitments (such as outside employment) to focus on learning for that duration.</p>
           </div>
         </div>
       </div>
@@ -160,7 +160,7 @@ Alumni from Awesome Inc's Web Developer Bootcamp have found their first develope
         </div>
         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
           <div class="panel-body">
-            <p>Tuition for the Bootcamp is $11,500. Financing and flexible payment plans are available. Once accepted, a $1000 deposit is due to confirm your spot in the program. If the only thing keeping you from participating in the program is finances, please <a href="/contact/">contact us</a> and we'll do our best to work with you to find a solution.</p>
+            <p>Tuition for the Bootcamp is $11,500. Financing and flexible payment plans are available. Once accepted, a $500 deposit is due to confirm your spot in the program. If the only thing keeping you from participating in the program is finances, please <a href="/contact/">contact us</a> and we'll do our best to work with you to find a solution.</p>
           </div>
         </div>
       </div>
@@ -207,6 +207,8 @@ Alumni from Awesome Inc's Web Developer Bootcamp have found their first develope
 
             As software development is a rapidly-changing field, we update some our specific technology offerings for each cohort. A few past offerings:<br><br>
 
+            Fall 2018: JavaScript, PHP, VueJS, Laravel<br>
+            Summer 2018: JavaScript, PHP, VueJS, Laravel<br>
             Fall 2017: JavaScript, PHP, VueJS, Laravel<br>
             Summer 2017: JavaScript, PHP, AngularJS, Laravel<br>
             Fall 2016: JavaScript, Python, AngularJS, Django</p>
@@ -225,7 +227,9 @@ Alumni from Awesome Inc's Web Developer Bootcamp have found their first develope
           <div class="panel-body">
             <p>There are two reasons. First, we want to hit the ground running on week one. Our students start with different prior experiences, so we want to make sure everyone is starting at (nearly) the same spot. And we want that spot to be somewhere beyond absolute zero. Our program is an intense 12 weeks, but without the prework, we couldn't fit in all that you'll need. Don't worry, Bootcamp week 1 will include a review of material you'll be covering on your own during Prework.<br><br>
 
-            Second, one of our Awesome Inc co-founders is a physician and an author. As such, Dr. Luke Murray has interviewed hundreds of medical students from across the country. These are people who have spent their whole lives focused on becoming doctors, starting with high school biology classes, volunteering to help sick kids, all the way through taking the MCAT and getting into medical school. Something odd that Luke noticed was this: many medical students never _tried being a doctor_ until it was too late. Maybe they didn't like seeing blood, or maybe they were no good at talking with patients. We like to get this out of the way early. Maybe you don't actually like programming, or maybe you're way better at graphic design or video production. Again, our program is not a good fit for everyone, so the Prework helps you to figure this out.</p>
+            Second, one of our Awesome Inc co-founders is a physician and an author. As such, Dr. Luke Murray has interviewed hundreds of medical students from across the country. These are people who have spent their whole lives focused on becoming doctors, starting with high school biology classes, volunteering to help sick kids, all the way through taking the MCAT and getting into medical school. Something odd that Luke noticed was this: many medical students never _tried being a doctor_ until it was too late. Maybe they didn't like seeing blood, or maybe they were no good at talking with patients. We like to get this out of the way early. Maybe you don't actually like programming, or maybe you're way better at graphic design or video production. Again, our program is not a good fit for everyone, so the Prework helps you to figure this out.<br><br>
+
+            The <a href="/intro-to-web-development/">Intro to Web Development</a> is a part-time, evening course that covers most of the Prework content, with the added benefit of an in-person instructor.</p>
           </div>
         </div>
       </div>
