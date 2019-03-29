@@ -32,9 +32,18 @@ Participants are expected to be fully invested in the training process for a 12-
   </div>
 </div>
 
-<p><a href="https://www.linkedin.com/in/brett-fraley-446134125">Brett Fraley</a>  Bootcamp Fall '16
-<br>Front End Engineer, ITHAKA / Artstor</p>
-<p><a class="btn cl-link-effect alumni" data-hover="Bootcamp Alumni" href="/alumni"><span>Bootcamp Alumni</span></a></p>
+<div class="row">
+  <div class="col-xs-3">
+    <p><a href="https://www.linkedin.com/in/brett-fraley-446134125">Brett Fraley</a>  Bootcamp Fall '16
+    <br>Front End Engineer, ITHAKA / Artstor</p>
+    <p><a class="btn cl-link-effect alumni" data-hover="Bootcamp Alumni" href="/alumni"><span>Bootcamp Alumni</span></a></p>
+  </div>
+  <div class="col-xs-9">
+    <a href="https://www.coursereport.com/schools/awesome-inc-u#/reviews">
+      <img src="/img/CourseReport-Badge.png" style="width: 60%"/>
+    </a>
+  </div>
+</div>
 
 ## Landing A Developer Job
 
