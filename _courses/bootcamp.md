@@ -39,7 +39,7 @@ Participants are expected to be fully invested in the training process for a 12-
     <p><a class="btn cl-link-effect alumni" data-hover="Bootcamp Alumni" href="/alumni"><span>Bootcamp Alumni</span></a></p>
   </div>
   <div class="col-xs-9">
-    <a href="https://www.coursereport.com/schools/awesome-inc-u#/reviews">
+    <a href="https://www.coursereport.com/schools/awesome-inc-u#/reviews" target="_blank">
       <img src="/img/CourseReport-Badge.png" style="width: 60%"/>
     </a>
   </div>
