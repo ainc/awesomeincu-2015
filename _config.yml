@@ -1,5 +1,5 @@
 ---
-title: Awesomeincu 2015
+title: Awesome Inc
 timezone: UTC
 collections:
   applications:
@@ -25,7 +25,6 @@ collections:
     title: Tutorials
     output: true
     permalink: "/tutorials/:path/"
-name: Awesome Inc U
 url: https://www.awesomeincu.com
 description: Learn to Code in Lexington, Kentucky
 author: Awesome Inc
@@ -37,5 +36,5 @@ plugins:
 - jekyll-sitemap
 exclude:
 - node_modules
-students-taught: 1400
+students-taught: 1500
 excerpt_separator: <!--more-->
