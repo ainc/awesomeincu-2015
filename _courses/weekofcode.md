@@ -94,7 +94,7 @@ In addition to programming time inside, campers will interact with our upbeat te
         </div>
         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
           <div class="panel-body">
-            <p>Yes, a very limited number of partial scholarships are available. You can apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9t_ECAVqVVHWNalx-hiUiOeRk7hk94uZQEGBu7Vt48Uu5PQ/viewform" target="_blank">here.</a></p>
+            <p>Yes, a very limited number of partial scholarships are available. You can apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBhgRCir2i1Vx8fznceeQtPMaWpD2XDbof8EyLf7HrYv-TQg/viewform" target="_blank">here.</a></p>
           </div>
         </div>
       </div>
