@@ -89,7 +89,7 @@ Alumni from Awesome Inc's Web Developer Bootcamp have found their first develope
 
 100% of the alumni from our first Bootcamp cohort (Fall '16) landed jobs in the software development field within 6 months of completing our program. [Applications](/applications/bootcamp/) are open for our next Bootcamp.
 
-<a href="/alumni"><img src="/img/100-alumni-f16-hired.png" class="img-responsive center-block img-rounded"></a>
+<a href="/alumni"><img src="/img/bootcamp-jobguaranteed-alumni.jpg" class="img-responsive center-block img-rounded"></a>
 <br>
 
 ## Paying for Bootcamp
