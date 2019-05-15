@@ -1,5 +1,68 @@
 [
   {
+    "name": "Jaelyn Coles",
+    "website": "https://jaelyncoles.github.io",
+    "github": "https://github.com/jaelyncoles/",
+    "linkedin": "https://www.linkedin.com/in/jaelyncoles/",
+    "image": "jaelyn-coles",
+    "position": null,
+    "cohort": "s19"
+  },
+  {
+    "name": "Melissa Eller",
+    "website": "https://ellermel.github.io",
+    "github": "https://github.com/EllerMel/",
+    "linkedin": "https://www.linkedin.com/in/melissaeller248/",
+    "image": "melissa-eller",
+    "position": null,
+    "cohort": "s19"
+  },
+  {
+    "name": "Adam Fister",
+    "website": "https://AdamFister.github.io",
+    "github": "https://github.com/AdamFister/",
+    "linkedin": "https://www.linkedin.com/in/adam-fister-050728129/",
+    "image": "adam-fister",
+    "position": null,
+    "cohort": "s19"
+  },
+  {
+    "name": "Samuel Moher",
+    "website": "https://sammoher.github.io/",
+    "github": "https://github.com/SamMoher/",
+    "linkedin": "https://www.linkedin.com/in/sammoher/",
+    "image": "samuel-moher",
+    "position": null,
+    "cohort": "s19"
+  },
+  {
+    "name": "Colby Taylor",
+    "website": "https://colbytaylor12.github.io",
+    "github": "https://github.com/ColbyTaylor12",
+    "linkedin": "https://www.linkedin.com/in/colby-taylor-82551b17a/",
+    "image": "colby-taylor",
+    "position": null,
+    "cohort": "s19"
+  },
+  {
+    "name": "Kseniya Verenich",
+    "website": "https://kseniyaverenich.github.io/",
+    "github": "https://github.com/KseniyaVerenich/",
+    "linkedin": "https://www.linkedin.com/in/kseniya-v-30475a17a/",
+    "image": "kseniya-verenich",
+    "position": null,
+    "cohort": "s19"
+  },
+  {
+    "name": "Jarod Wylie",
+    "website": "https://jarodyli.github.io/",
+    "github": "https://github.com/JarodYli/",
+    "linkedin": "https://www.linkedin.com/in/jarod-wylie-6546a217a/",
+    "image": "jarod-wylie",
+    "position": null,
+    "cohort": "s19"
+  },
+  {
     "name": "Mayme Clayton",
     "website": "https://maymeclayton.github.io",
     "github": "https://github.com/maymeclayton",
