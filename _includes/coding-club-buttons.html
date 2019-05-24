@@ -1,8 +1,8 @@
 <div style="display:inline-block; padding-bottom:20px; padding-top: 10px;">
     <div style="display:inline-block; padding-right:15px; padding-bottom:15px;">
         <!-- Noscript content for added SEO -->
-        <noscript><a href="https://www.eventbrite.com/e/coding-club-level-1-fall-2019-tuesdays-tickets-61825181783" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
-        <button id="eventbrite-widget-modal-trigger-61825181783" class="btn btn-primary" style="margin-left:5px;" type="button">Register &raquo;</button>
+        <noscript><a href="https://www.eventbrite.com/e/{{ page.eventbrite_eid }}" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
+        <button id="eventbrite-widget-modal-trigger-{{ page.eventbrite_eid }}" class="btn btn-primary" style="margin-left:5px;" type="button">Register for {{page.title}}</button>
     </div>
 </div>
 
@@ -15,9 +15,9 @@
 
     window.EBWidgets.createWidget({
         widgetType: 'checkout',
-        eventId: '61825181783',
+        eventId: '{{ page.eventbrite_eid }}',
         modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-61825181783',
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-{{ page.eventbrite_eid }}',
         onOrderComplete: exampleCallback
     });
 </script>
