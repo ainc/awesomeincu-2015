@@ -1,5 +1,23 @@
 <div style="display:inline-block; padding-bottom:20px; padding-top: 10px;">
     <div style="display:inline-block; padding-right:15px; padding-bottom:15px;">
-        <a class="btn btn-primary " style="margin-left:5px;" href="https://www.eventbrite.com/e/61825181783" target="_blank">Tuesdays &raquo;</a>
+        <!-- Noscript content for added SEO -->
+        <noscript><a href="https://www.eventbrite.com/e/coding-club-level-1-fall-2019-tuesdays-tickets-61825181783" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
+        <button id="eventbrite-widget-modal-trigger-61825181783" class="btn btn-primary" style="margin-left:5px;" type="button">Register &raquo;</button>
     </div>
 </div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '61825181783',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-61825181783',
+        onOrderComplete: exampleCallback
+    });
+</script>

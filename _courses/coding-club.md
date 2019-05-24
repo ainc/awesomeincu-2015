@@ -187,25 +187,3 @@ The Coding Club meets one evening a week for 90 minutes, with 13 weeks of classe
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
-
-<!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.com/e/coding-club-level-1-fall-2019-tuesdays-tickets-61825181783" rel="noopener noreferrer" target="_blank"></noscript>
-<!-- You can customize this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-61825181783" type="button">Buy Tickets</button>
-<noscript></a>Buy Tickets on Eventbrite</noscript>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '61825181783',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-61825181783',
-        onOrderComplete: exampleCallback
-    });
-</script>
