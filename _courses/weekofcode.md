@@ -57,42 +57,42 @@ In addition to programming time inside, campers will interact with our upbeat te
   <h1 style="font-weight:bold;">FAQs</h1>
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
       <div class="panel panel-default"> <!-- QUESTION 1 -->
-        <div class="panel-heading" role="tab" id="headingOne">
+        <div class="panel-heading" role="tab" id="heading-1">
           <h4 class="panel-title">
-            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-1" aria-expanded="true" aria-controls="collapse-1">
               <h3>Where is the best place to park near Awesome Inc?</h3>
             </a>
           </h4>
         </div>
-        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+        <div id="collapse-1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading-1">
           <div class="panel-body">
             <p>Free Parking is available for drop-off/pickup. The best location is the parking lot to the east side of our building, in spaces 1-19. See <a href="https://www.awesomeinc.org/parking/" target="_blank">parking map</a> for more details.</p>
           </div>
         </div>
       </div>
       <div class="panel panel-default"> <!-- QUESTION 2 -->
-        <div class="panel-heading" role="tab" id="headingTwo">
+        <div class="panel-heading" role="tab" id="heading-2">
           <h4 class="panel-title">
-            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
               <h3>Do students need their own computer for this course?</h3>
             </a>
           </h4>
         </div>
-        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+        <div id="collapse-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading-2">
           <div class="panel-body">
-            <p>Yes, each student will need to provide his/her own laptop for the course. Either Microsoft Windows-based PC's, or Apple Mac OS X computers will work, but iPads and Chromebooks will not work for this course. We recommend a laptop made within the past 3-4 years. Computers should be free from viruses/malware. We have a limited number of <a href="https://squareup.com/market/awesome-inc/laptop-rental" target="_blank">rental laptops available for $25/day.</a></p>
+            <p>Yes, each student will need to provide his/her own laptop for the course. Microsoft Windows-based PC's, Apple macOS computers, and Chromebooks will work, but iPads and Android tablets will not work for this course. We recommend a laptop made within the past 3-4 years. Computers should be free from viruses/malware. We have a limited number of <a href="https://squareup.com/market/awesome-inc/laptop-rental" target="_blank">rental laptops available for $25/day.</a></p>
           </div>
         </div>
       </div>
       <div class="panel panel-default"> <!-- QUESTION 3 -->
-        <div class="panel-heading" role="tab" id="headingThree">
+        <div class="panel-heading" role="tab" id="heading-3">
           <h4 class="panel-title">
-            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
               <h3>Are scholarships available for this course?</h3>
             </a>
           </h4>
         </div>
-        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+        <div id="collapse-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading-3">
           <div class="panel-body">
             <p>Yes, a very limited number of partial scholarships are available. You can apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBhgRCir2i1Vx8fznceeQtPMaWpD2XDbof8EyLf7HrYv-TQg/viewform" target="_blank">here.</a></p>
           </div>
