@@ -8,7 +8,7 @@ class_day: Tuesdays
 eventbrite_eid: 61825181783
 ---
 
-{% include coding-club-buttons.html %}
+{% include eventbrite-modal-buttons.html %}
 
 ### **Do you have a student at home who enjoys spending time on the computer, could play Minecraft for hours, or has done the Hour of Code at school?**
 
@@ -166,24 +166,4 @@ The Coding Club meets one evening a week for 90 minutes, with 13 weeks of classe
 
 ## Tuesdays
 
-<!--Eventbrite generated ticket form widget-->
-<div id="eventbrite-widget-container"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script>
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '61825181783',
-        iframeContainerId: 'eventbrite-widget-container',
-
-        // Optional
-        iframeContainerHeight: 506,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
+{% include eventbrite-modal-buttons.html %}

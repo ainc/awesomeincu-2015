@@ -4,12 +4,13 @@ permalink: "/coding-league/"
 layout: course
 description: Learn To Code Like The Pros
 cover: "/img/coding-league.jpg"
+eventbrite_eid: 51881135874
 redirect_from:
 - "/codingleague/"
 - "/league/"
 ---
 
-{% include coding-league-buttons.html %}
+{% include eventbrite-modal-buttons.html %}
 
 ### **What happens when you’ve pushed the limits of block-based programming languages like Scratch?**
 
@@ -167,26 +168,4 @@ Come back for as many sessions as you’d like, the fun and the knowledge keeps 
   </div>
 </div> <!-- /container -->
 
-## Tuesdays
-
-<!--Eventbrite generated ticket form widget-->
-<div id="eventbrite-widget-container"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script>
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '51881135874',
-        iframeContainerId: 'eventbrite-widget-container',
-
-        // Optional
-        iframeContainerHeight: 506,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
+{% include eventbrite-modal-buttons.html %}

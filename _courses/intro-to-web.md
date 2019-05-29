@@ -4,7 +4,7 @@ permalink: "/intro-to-web-development/"
 layout: course
 description: Your First Step in Learning To Code
 cover: "/img/intro-to-web-development-awesome-inc.jpg"
-registration: 
+eventbrite_eid: 60544720890
 redirect_from:
 - "/membership/"
 - "/web-intro/"
@@ -12,7 +12,7 @@ redirect_from:
 - "/intro-to-web/"
 ---
 
-{% include intro-to-web-buttons.html %}
+{% include eventbrite-modal-buttons.html %}
 
 Learning to code can be intimidating on your own. Maybe you’ve started an online course, but never finished. Perhaps you’ve made a website with Wordpress or a drag-and-drop web design tool, but want to do more. If you’re curious if a career in code is for you, or just want to gain a useful new skill, Awesome Inc’s **{{page.title}}** is made for people like you.
 
@@ -141,25 +141,4 @@ Classes are two nights per week, two hours per night, for nine weeks. In additio
 </div>
 </div> <!-- /container -->
 
-
-<!--Eventbrite generated ticket form widget-->
-<div id="eventbrite-widget-container"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script>
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '60544720890',
-        iframeContainerId: 'eventbrite-widget-container',
-
-        // Optional
-        iframeContainerHeight: 506,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
+{% include eventbrite-modal-buttons.html %}

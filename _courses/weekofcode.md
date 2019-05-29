@@ -4,7 +4,7 @@ permalink: "/weekofcode/"
 layout: course
 description: Lexington's &#35;1 Summer Coding Camp
 cover: "/img/Awesome-Inc-Week-Of-Code.jpg"
-applications: 
+eventbrite_eid: 56343591198
 redirect_from:
 - "/camp/"
 - "/summer/"
@@ -101,23 +101,3 @@ In addition to programming time inside, campers will interact with our upbeat te
     </div> <!-- panel-group -->
   </div>
 </div> <!-- /container -->
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script>
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '56343591198',
-        iframeContainerId: 'eventbrite-widget-container',
-
-        // Optional
-        iframeContainerHeight: 506,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
-
