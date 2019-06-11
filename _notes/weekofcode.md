@@ -138,7 +138,8 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
 * More Thunkable
   * Extend Dice Roll app
 * Want to go more in-depth with Mobile?
-  * Remix [Thunkable Sample Apps](https://docs.thunkable.com/sample-apps) (ChromeOS, MS Windows, or macOS)
+  * Remix [Phone or Not A Phone](https://x.thunkable.com/copy/fb593b4b780990e4950ad57e85729598)
+  * Build [Thunkable Sample Apps](https://docs.thunkable.com/sample-apps) (ChromeOS, MS Windows, or macOS)
   * Android: [Build your first app](https://developer.android.com/training/basics/firstapp/) with Android Studio (MS Windows or macOS)
   * iOS: [Start Developing iOS Apps with Swift](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) (macOS users only)
 
@@ -155,13 +156,14 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
 * [What is "The Web"?](https://docs.google.com/presentation/d/17vOuLgv_EY7V1MgPx6h17TNceu4A7MmAQytHrBJFSZI/edit#slide=id.g255e2bb9d_00)
 * View Page Source, see HTML, CSS, JavaScript
 * Chrome Developer Tools
-  * Go to [Twitter.com/awesome_inc](https://twitter.com/awesome_inc){:target="_blank"}
+  * Go to [instagram.com/awesomeinclex](https://www.instagram.com/awesomeinclex/){:target="_blank"}
 * Design a wireframe for our site
   * Heading, Navigation, Images, Text Content
   * Two pages: home page, fun facts
 * Use [CodePen](https://codepen.io){:target="_blank"} to make our first web page
   * Create account and sign in
   * Disable "auto close tags" and "autocomplete code"
+  * [COPY THIS HTML CODE](https://bit.ly/2QRp38A)
   * Add HTML Elements
     * Headings
     * Paragraph
@@ -172,7 +174,7 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
 #### 2pm
 
 * Styles with CSS
-  * [COPY THIS CSS CODE](https://thimbleprojects.org/nicksuch/504751/style.css){:target="_blank"}
+  * [COPY THIS CSS CODE](https://bit.ly/2XrjHDz){:target="_blank"}
   * Selectors and Properties
   * Background Colors
 * Embed YouTube video
@@ -188,7 +190,7 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
   * Create new HTML page
   * Navbar: ul, class
   * JavaScript
-  * [COPY THIS JS CODE](https://thimbleprojects.org/nicksuch/504751/script.js){:target="_blank"}
+  * [COPY THIS JS CODE](https://bit.ly/2WRgnVc){:target="_blank"}
 
 #### 4pm
 
@@ -206,8 +208,7 @@ References:
 
 #### 4:30pm
 
-* Confirm Unity setup for tomorrow.
-    * Install [Unity - personal edition](https://store.unity.com/download?ref=personal){:target="_blank"}
+* Confirm [Construct](https://construct.net) setup for tomorrow.
     * Protip: bring a mouse!
 
 #### 5pm
