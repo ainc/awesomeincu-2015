@@ -4,8 +4,6 @@ layout: notes
 course_link: "/weekofcode/"
 ---
 
-# Make a Website with HTML and CSS
-
 ![alt_text](/img/tutorials/animal-website/image-0.png)
 
 By [Sarah Griffioen](https://github.com/slgriff27){:target="_blank"}

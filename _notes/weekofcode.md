@@ -190,11 +190,11 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
   * Create new HTML page
   * Navbar: ul, class
   * JavaScript
-  * [COPY THIS JS CODE](https://bit.ly/2WRgnVc){:target="_blank"}
+  * [Fork this CodePen](https://codepen.io/ainc/pen/dBPXmY?editors=0010){:target="_blank"}
 
 #### 4pm
 
-* Publish and share
+* Share your CodePen to a phone
 * Add your site to [our list](https://bit.ly/woc-website){:target="_blank"}
 
 References:
@@ -208,8 +208,8 @@ References:
 
 #### 4:30pm
 
-* Confirm [Construct](https://construct.net) setup for tomorrow.
-    * Protip: bring a mouse!
+* Confirm [Construct](https://www.construct.net){:target="_blank"} setup for tomorrow.
+  * Protip: bring a mouse!
 
 #### 5pm
 
@@ -222,16 +222,16 @@ References:
 
 ### Wednesday - Video Games {#game-day}
 
-![Making Pong with Unity](/img/notes/weekofcode-unity-pong.png)
+![Block-Stacking Game made with Construct 3](/img/tutorials/construct-block-game/finishedproduct.png){:width="400"}
 
 #### 1pm
 
-* Unity Game Engine interface overview
+* [Construct](https://www.construct.net){:target="_blank"} interface overview
 * Run a sample project
 
 #### 1:30pm
 
-* Start [Unity Pong tutorial](https://www.awesomeincu.com/tutorials/unity-pong/){:target="_blank"}
+* Start [Make a Block-Stacking Game with Construct 3](/tutorials/construct-block-game){:target="_blank"}
 
 #### 3pm
 
@@ -239,23 +239,23 @@ References:
 
 #### 3:15pm
 
-* More [Unity Pong](https://www.awesomeincu.com/tutorials/unity-pong/)
+* More [Make a Block-Stacking Game with Construct 3](/tutorials/construct-block-game){:target="_blank"}
 
 #### 4:30pm
 
 * If time:
-  * Review with [Unity's Interactive Tutorials](https://unity3d.com/learn/tutorials/s/interactive-tutorials)
+  * Pong with Construct
+  * Cookie Clicker with Construct
 
 #### 5pm
 
 * Homework:
-  * Finish [Unity Pong](https://www.awesomeincu.com/tutorials/unity-pong/)
   * Pick a tutorial/project for Friday
 * Reminder to students: bring headphones &#127911; for Friday tutorials
 
 * * *
 
-<h3 id="project-day">Thursday - Project Day</h3>
+### Thursday - Project Day {#project-day}
 
 ![Week of Code projects](/img/notes/weekofcode-screenshots.png)
 
@@ -285,7 +285,6 @@ References:
 
 Note: most projects here will take longer than 4 hours to complete. That's OK! Our goal during project day is to help you get started on something significant that you can continue working on after the Week of Code.
 
-
 #### 2pm
 
 * Work time
@@ -312,6 +311,5 @@ Note: most projects here will take longer than 4 hours to complete. That's OK! O
       * Beginner: register for [Coding Club](https://www.awesomeincu.com/coding-club/)
       * Intermediate: register for [Coding League](https://www.awesomeincu.com/coding-league/)
       * Advanced: apply for [The Academy](https://www.awesomeincu.com/academy/)
-
 
 #### 5pm
