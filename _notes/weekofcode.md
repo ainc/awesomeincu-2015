@@ -199,6 +199,7 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
 
 References:
 
+* [Web Day Tutorial](/tutorials/animal-website/)
 * [HTML Cheatsheet](https://developer.mozilla.org/en-US/Learn/HTML/Cheatsheet)
 * [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * How to register a Domain Name with [Google Domains](https://domains.google/)
