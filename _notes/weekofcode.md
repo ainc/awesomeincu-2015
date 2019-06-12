@@ -252,8 +252,8 @@ References:
 
 * [How to Learn Construct 3? Next Steps for Beginners](https://www.construct.net/en/tutorials/learn-construct-next-steps-45)
 * Homework:
-  * Pick a tutorial/project for Friday
-  * Bring headphones &#127911; for Friday tutorials
+  * Pick a tutorial/project for Thursday
+  * Bring headphones &#127911; for Thursday tutorials
   * Invite parents, friends, or special guests to 4pm presentations
 
 * * *
