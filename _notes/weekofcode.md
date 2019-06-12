@@ -250,9 +250,11 @@ References:
 
 #### 5pm
 
+* [How to Learn Construct 3? Next Steps for Beginners](https://www.construct.net/en/tutorials/learn-construct-next-steps-45)
 * Homework:
   * Pick a tutorial/project for Friday
-* Reminder to students: bring headphones &#127911; for Friday tutorials
+  * Bring headphones &#127911; for Friday tutorials
+  * Invite parents, friends, or special guests to 4pm presentations
 
 * * *
 
@@ -263,22 +265,22 @@ References:
 #### 1pm
 
 * Review what we've done so far
-  * Mobile, Web, Games, Hardware
+  * Mobile, Web, Games
 * Pick a project:
   * Mobile
-    * [Thunkable - Basic Android tutorials](https://www.youtube.com/watch?v=QGzeUR__tmY&list=PLB89L9PPGIrxmB3GZXaxjK3Pq2Crqp14A)
-    * [Thunkable - Intermediate Android tutorials](https://www.youtube.com/watch?v=0fjLYXE0YQE&list=PLB89L9PPGIrwiLxoTsmIgPBQvy5ShtM2W)
-    * [Thunkable - Advanced Android tutorials](https://www.youtube.com/watch?v=T-p_Emx0_D8&list=PLB89L9PPGIrzWu9qFoD6iXDOX1IB1ZtaI)
+    * [Thunkable X Beginner tutorials](https://www.youtube.com/playlist?list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE)
+    * [Thunkable X Intermediate walkthroughs](https://www.youtube.com/playlist?list=PLB89L9PPGIrxtRatVy3-erhgQeB3Z9rjM)
+    * [Thunkable X Advanced Tutorials](https://www.youtube.com/playlist?list=PLB89L9PPGIry11IQq0dyVG_aK6kUMHP1F)
   * Web
     * [My Summer Vacation - website tutorial](https://docs.google.com/document/d/1-EQ6UpCllONL-KjL-tD7sMnom3Ap5ZyTdFaUiCvAsYs/edit)
     * [Sports Fan Website - website to remix](https://thimbleprojects.org/gbr4477/509558/)
     * [Build with HTML Bricks](https://thimbleprojects.org/mozillalearning/279519/)
-    * [p5.js animation projects](http://p5js.org/examples/), remix from [p5.js sample](https://thimbleprojects.org/mozillalearning/213461/)
+    * [p5.js animation projects](https://p5js.org/examples/), remix from [p5.js sample](https://thimbleprojects.org/mozillalearning/213461/)
   * Game
-    * [Pong Tutorial, 2D](https://www.awesomeincu.com/tutorials/unity-pong/)
-    * [Making Minecraft, 3D](https://github.com/dannythorne/MakingMinecraft_Take02)
-    * [Roll-A-Ball, 3D](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)
-    * [UFO game, 2D](https://unity3d.com/learn/tutorials/projects/2d-ufo-tutorial)
+    * [Ghost Shooter - Construct](https://www.construct.net/en/tutorials/beginners-guide-construct-1)
+    * [Mini Golf - Construct](https://www.construct.net/en/courses/mini-golf-mobile-game-5)
+    * [Make an Angry Birds Style Game - Construct](https://www.construct.net/en/courses/angry-birds-style-game-7)
+    * [Make a Breakout Style Game](https://www.construct.net/en/courses/breakout-style-game-6)
   * Other
     * [MIT Scratch](https://scratch.mit.edu/) - tutorials from [Scratch Programming Playground](https://inventwithscratch.com/book/)
     * [Sonic Pi](https://sonic-pi.net/), make music like [Aerodynamic](https://aimxhaisse.com/aerodynamic-en.html) with code
@@ -292,7 +294,7 @@ Note: most projects here will take longer than 4 hours to complete. That's OK! O
 
 #### 3pm
 
-* Break / Game
+* Break
 
 #### 3:15pm
 
