@@ -29,7 +29,7 @@ What if you spent your summer learning to make your own apps instead of just pla
 
 * Students each need to bring a computer with Windows, macOS, or ChromeOS (must have permission to install programs, including necessary passwords)
 * Software: [Google Chrome](https://www.google.com/chrome/) web browser
-* Accounts: [Google account](https://accounts.google.com) from Gmail / school (used to log into [Thunkable](https://x.thunkable.com/login) and [CodeCombat account](https://codecombat.com/)), [CodePen Free account](https://codepen.io/accounts/signup/user/free), [Construct account](https://www.construct.net/en/register)
+* Accounts: [Google account](https://accounts.google.com) from Gmail / school (used to log into [Thunkable](https://x.thunkable.com/login), [CodeCombat](https://codecombat.com/), and [Glitch](https://glitch.com/)), [Construct](https://www.construct.net/en/register) (optional account - can use without signing in)
 
 ## Schedule Summary
 
@@ -134,7 +134,7 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
 
 #### 4:30pm
 
-* Confirm [CodePen](https://codepen.io) account setup for Tuesday / Web Day
+* Confirm [Glitch](https://glitch.com/) setup for Tuesday / Web Day (can sign in with Google account)
 * More Thunkable
   * Extend Dice Roll app
 * Want to go more in-depth with Mobile?
@@ -160,10 +160,9 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
 * Design a wireframe for our site
   * Heading, Navigation, Images, Text Content
   * Two pages: home page, fun facts
-* Use [CodePen](https://codepen.io){:target="_blank"} to make our first web page
+* Use Glitch to make our first web page
   * Create account and sign in
-  * Disable "auto close tags" and "autocomplete code"
-  * [COPY THIS HTML CODE](https://bit.ly/2QRp38A)
+  * [REMIX THIS PROJECT](https://glitch.com/edit/#!/my-favorite-animal){:target="_blank"}
   * Add HTML Elements
     * Headings
     * Paragraph
@@ -174,7 +173,7 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
 #### 2pm
 
 * Styles with CSS
-  * [COPY THIS CSS CODE](https://bit.ly/2XrjHDz){:target="_blank"}
+  * Go to style.css
   * Selectors and Properties
   * Background Colors
 * Embed YouTube video
@@ -187,14 +186,14 @@ Prior to the Week of Code summer camp, it's a good idea to try some basic coding
 #### 3:15pm
 
 * Web Page 2: Animal Fun Facts
-  * Create new HTML page
-  * Navbar: ul, class
+  * Go to facts.html
   * JavaScript
-  * [Fork this CodePen](https://codepen.io/ainc/pen/dBPXmY?editors=0010){:target="_blank"}
+  * Add fun facts to Array
+  * Can you count the number of clicks to your button?
 
 #### 4pm
 
-* Share your CodePen to a phone
+* Customize the URL for your website, share using `glitch.me`
 * Add your site to [our list](https://bit.ly/woc-website){:target="_blank"}
 
 References:
