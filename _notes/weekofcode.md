@@ -271,19 +271,19 @@ References:
     * [Thunkable X Intermediate walkthroughs](https://www.youtube.com/playlist?list=PLB89L9PPGIrxtRatVy3-erhgQeB3Z9rjM)
     * [Thunkable X Advanced Tutorials](https://www.youtube.com/playlist?list=PLB89L9PPGIry11IQq0dyVG_aK6kUMHP1F)
   * Web
+    * [Cat Meme Generator](https://projects.raspberrypi.org/en/projects/cat-meme-generator)
+    * [Pixel Art Editor](https://projects.raspberrypi.org/en/projects/pixel-art) (use Glitch instead of Trinket)
+    * [Sports Fan Website - website to remix](https://glitch.com/edit/#!/my-favorite-team)
     * [My Summer Vacation - website tutorial](https://docs.google.com/document/d/1-EQ6UpCllONL-KjL-tD7sMnom3Ap5ZyTdFaUiCvAsYs/edit)
-    * [Sports Fan Website - website to remix](https://thimbleprojects.org/gbr4477/509558/)
-    * [Build with HTML Bricks](https://thimbleprojects.org/mozillalearning/279519/)
-    * [p5.js animation projects](https://p5js.org/examples/), remix from [p5.js sample](https://thimbleprojects.org/mozillalearning/213461/)
   * Game
     * [Ghost Shooter - Construct](https://www.construct.net/en/tutorials/beginners-guide-construct-1)
     * [Mini Golf - Construct](https://www.construct.net/en/courses/mini-golf-mobile-game-5)
-    * [Make an Angry Birds Style Game - Construct](https://www.construct.net/en/courses/angry-birds-style-game-7)
     * [Make a Breakout Style Game](https://www.construct.net/en/courses/breakout-style-game-6)
   * Other
     * [MIT Scratch](https://scratch.mit.edu/) - tutorials from [Scratch Programming Playground](https://inventwithscratch.com/book/)
     * [Sonic Pi](https://sonic-pi.net/), make music like [Aerodynamic](https://aimxhaisse.com/aerodynamic-en.html) with code
     * [Coderbyte algorithm challenges](https://www.coderbyte.com/challenges/)
+    * [p5.js](https://glitch.com/@glitch/sketch-with-p-5), make art and animations
 
 Note: most projects here will take longer than 4 hours to complete. That's OK! Our goal during project day is to help you get started on something significant that you can continue working on after the Week of Code.
 
