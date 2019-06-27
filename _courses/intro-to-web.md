@@ -4,7 +4,7 @@ permalink: "/intro-to-web-development/"
 layout: course
 description: Your First Step in Learning To Code
 cover: "/img/intro-to-web-development-awesome-inc.jpg"
-eventbrite_eid: 60544720890
+eventbrite_eid: 64242674569
 redirect_from:
 - "/membership/"
 - "/web-intro/"
