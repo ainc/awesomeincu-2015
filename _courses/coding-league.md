@@ -4,7 +4,7 @@ permalink: "/coding-league/"
 layout: course
 description: Learn To Code Like The Pros
 cover: "/img/coding-league.jpg"
-eventbrite_eid: 51881135874
+eventbrite_eid: 65948288105
 redirect_from:
 - "/codingleague/"
 - "/league/"
